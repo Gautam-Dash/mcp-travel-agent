@@ -1,0 +1,900 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - navigation "Site Navigation Links" [ref=e4]:
+      - link "The Weather Company" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - img "The Weather Company" [ref=e7]
+      - list [ref=e10]:
+        - listitem [ref=e11]:
+          - link "Forecasts":
+            - /url: /in/karnataka/city/bengaluru/today
+            - paragraph: Forecasts
+        - listitem [ref=e12]:
+          - link [ref=e13] [cursor=pointer]:
+            - /url: /in/karnataka/city/bengaluru/radar
+            - paragraph [ref=e16]: Radar
+        - listitem [ref=e17]:
+          - button [ref=e18] [cursor=pointer]:
+            - img "Overflow Menu Horizontal" [ref=e19]
+            - paragraph [ref=e22]: More
+      - list [ref=e23]:
+        - listitem [ref=e24]:
+          - link [ref=e25] [cursor=pointer]:
+            - /url: /login
+            - img "User Avatar" [ref=e26]
+            - paragraph [ref=e30]: Sign in
+    - main [ref=e31]:
+      - generic [ref=e34]:
+        - button "Bengaluru" [ref=e37] [cursor=pointer]
+        - generic [ref=e42]:
+          - button [aria-hidden]
+          - generic [ref=e43]:
+            - link "Today" [ref=e44] [cursor=pointer]:
+              - /url: /in/karnataka/city/bengaluru/today
+            - link "Hourly" [ref=e45] [cursor=pointer]:
+              - /url: /in/karnataka/city/bengaluru/hourbyhour
+            - link "10 Day" [ref=e46] [cursor=pointer]:
+              - /url: /in/karnataka/city/bengaluru/tenday
+            - link "Monthly" [ref=e47] [cursor=pointer]:
+              - /url: /weather/monthly/l/b792ea3b3c485b9e34609c87d11684aa8a792c4ae53f7d8f54f338acef2491f5
+            - link "Allergies" [ref=e48] [cursor=pointer]:
+              - /url: /in/karnataka/city/bengaluru/allergy
+            - link "Air Quality" [ref=e49] [cursor=pointer]:
+              - /url: /in/karnataka/city/bengaluru/air-quality
+            - link "Cold & Flu" [ref=e50] [cursor=pointer]:
+              - /url: /in/karnataka/city/bengaluru/cold-flu
+          - button [aria-hidden]
+      - generic [ref=e51]:
+        - region "Advertisement" [ref=e56]:
+          - generic [ref=e57]:
+            - generic [ref=e58]: Advertisement
+            - iframe [ref=e62]:
+              - generic [ref=f13e3]:
+                - iframe [ref=f13e6]:
+                  - generic:
+                    - banner:
+                      - link "Go to site" [ref=f23e1] [cursor=pointer]:
+                        - /url: javascript:void(0);
+                      - generic [ref=f23e3] [cursor=pointer]: How is Maya HTT enabling AI to transform the way industries work?
+                - generic [ref=f13e7]:
+                  - generic:
+                    - generic [ref=f13e8] [cursor=pointer]
+                    - button [ref=f13e13] [cursor=pointer]
+        - generic [ref=e64]:
+          - generic [ref=e67]:
+            - generic [ref=e68]:
+              - heading "Bengaluru Weather" [level=1] [ref=e69]
+              - generic [ref=e70]:
+                - paragraph [ref=e71]: Bengaluru, Karnataka, India
+                - paragraph [ref=e72]: ·
+                - paragraph [ref=e73]: As of 3:34 PM GMT+5:30
+            - link [ref=e75] [cursor=pointer]:
+              - /url: /in/karnataka/city/bengaluru/hourbyhour
+              - region "Current Conditions" [ref=e76]:
+                - generic [ref=e77]:
+                  - generic [ref=e78]:
+                    - generic [ref=e81]:
+                      - generic [ref=e82]: Now
+                      - generic [ref=e83]: 85°
+                      - generic [ref=e84]: 84°
+                      - generic [ref=e85]: 83°
+                    - generic [ref=e87]:
+                      - img "Mostly Cloudy Day" [ref=e89]
+                      - paragraph [ref=e92]: Mostly Cloudy
+                  - generic [ref=e93]:
+                    - generic [ref=e94]:
+                      - generic [ref=e95]:
+                        - paragraph [ref=e96]: Feels Like
+                        - paragraph [ref=e97]:
+                          - generic [ref=e98]: 89°
+                      - generic [ref=e100]:
+                        - paragraph [ref=e101]: High
+                        - paragraph [ref=e102]:
+                          - generic [ref=e103]: 87°
+                      - generic [ref=e105]:
+                        - paragraph [ref=e106]: Low
+                        - paragraph [ref=e107]:
+                          - generic [ref=e108]: 69°
+                    - generic [ref=e109]:
+                      - generic [ref=e110]:
+                        - paragraph [ref=e111]: Chance of Rain
+                        - paragraph [ref=e112]: 18%
+                      - paragraph [ref=e114]: 0 in
+          - generic [ref=e117]:
+            - heading "Today's Outlook" [level=2] [ref=e118]
+            - paragraph [ref=e119]: Tonight's low temperature will be the same as last night's.
+            - generic [ref=e120]:
+              - button "Chevron Left" [ref=e121] [cursor=pointer]:
+                - img "Chevron Left" [ref=e122]
+              - generic [ref=e125]:
+                - generic [ref=e189]:
+                  - paragraph: 12 am
+                  - generic:
+                    - img "Partly Cloudy Night"
+                  - paragraph: 76°
+                - generic [ref=e190]:
+                  - paragraph: 1 am
+                  - generic:
+                    - img "Partly Cloudy Night"
+                  - paragraph: 76°
+                - generic [ref=e191]:
+                  - paragraph: 2 am
+                  - generic:
+                    - img "Mostly Cloudy Night"
+                  - paragraph: 75°
+                - generic [ref=e192]:
+                  - paragraph: 3 am
+                  - generic:
+                    - img "Mostly Cloudy Night"
+                  - paragraph: 75°
+                - generic [ref=e193]:
+                  - paragraph: 4 am
+                  - generic:
+                    - img "Partly Cloudy Night"
+                  - paragraph: 74°
+                - generic [ref=e194]:
+                  - paragraph: 5 am
+                  - generic:
+                    - img "Scattered Thunderstorms Night"
+                  - paragraph: 74°
+                - generic [ref=e195]:
+                  - paragraph: 6 am
+                  - generic:
+                    - img "Thunderstorms"
+                  - paragraph: 72°
+                - generic [ref=e196]:
+                  - paragraph: 6:08 am
+                  - generic:
+                    - img "Sunrise"
+                    - paragraph: Sunrise
+                - generic [ref=e197]:
+                  - paragraph: 7 am
+                  - generic:
+                    - img "Mostly Cloudy Day"
+                  - paragraph: 73°
+                - generic [ref=e198]:
+                  - paragraph: 8 am
+                  - generic:
+                    - img "Mostly Cloudy Day"
+                  - paragraph: 74°
+                - generic [ref=e199]:
+                  - paragraph: 9 am
+                  - generic:
+                    - img "Mostly Cloudy Day"
+                  - paragraph: 78°
+                - generic [ref=e200]:
+                  - paragraph: 10 am
+                  - generic:
+                    - img "Mostly Clear Day"
+                  - paragraph: 82°
+                - generic [ref=e201]:
+                  - paragraph: 11 am
+                  - generic:
+                    - img "Partly Cloudy Day"
+                  - paragraph: 84°
+                - generic [ref=e202]:
+                  - paragraph: 12 pm
+                  - generic:
+                    - img "Partly Cloudy Day"
+                  - paragraph: 85°
+                - generic [ref=e203]:
+                  - paragraph: 1 pm
+                  - generic:
+                    - img "Partly Cloudy Day"
+                  - paragraph: 85°
+                - generic [ref=e204]:
+                  - paragraph: 2 pm
+                  - generic:
+                    - img "Mostly Cloudy Day"
+                  - paragraph: 83°
+                - link "Now, 83°" [ref=e205] [cursor=pointer]:
+                  - /url: /in/karnataka/city/bengaluru/hourbyhour?t=1790762646
+                  - paragraph: Now
+                  - generic:
+                    - img "Mostly Cloudy Day"
+                  - paragraph: 83°
+                - link "4 pm, 82°" [ref=e206] [cursor=pointer]:
+                  - /url: /in/karnataka/city/bengaluru/hourbyhour?t=1790766000
+                  - paragraph: 4 pm
+                  - generic:
+                    - img "Cloudy"
+                  - paragraph: 82°
+                - link "5 pm, 80°" [ref=e207] [cursor=pointer]:
+                  - /url: /in/karnataka/city/bengaluru/hourbyhour?t=1790769600
+                  - paragraph: 5 pm
+                  - generic:
+                    - img "Cloudy"
+                  - paragraph: 80°
+                - link "6 pm, 79°, 48%" [ref=e208] [cursor=pointer]:
+                  - /url: /in/karnataka/city/bengaluru/hourbyhour?t=1790773200
+                  - paragraph: 6 pm
+                  - generic:
+                    - img "Scattered Thunderstorms Night"
+                    - paragraph: 48%
+                  - paragraph: 79°
+                - generic [ref=e209]:
+                  - paragraph: 6:10 pm
+                  - generic:
+                    - img "Sunset"
+                    - paragraph: Sunset
+                - link "7 pm, 76°, 61%" [ref=e210] [cursor=pointer]:
+                  - /url: /in/karnataka/city/bengaluru/hourbyhour?t=1790776800
+                  - paragraph: 7 pm
+                  - generic:
+                    - img "Thunderstorms"
+                    - paragraph: 61%
+                  - paragraph: 76°
+                - link "8 pm, 75°, 49%" [ref=e211] [cursor=pointer]:
+                  - /url: /in/karnataka/city/bengaluru/hourbyhour?t=1790780400
+                  - paragraph: 8 pm
+                  - generic:
+                    - img "Scattered Thunderstorms Night"
+                    - paragraph: 49%
+                  - paragraph: 75°
+                - link "9 pm, 74°, 34%" [ref=e212] [cursor=pointer]:
+                  - /url: /in/karnataka/city/bengaluru/hourbyhour?t=1790784000
+                  - paragraph: 9 pm
+                  - generic:
+                    - img "Scattered Thunderstorms Night"
+                    - paragraph: 34%
+                  - paragraph: 74°
+                - link "10 pm, 73°, 62%" [ref=e213] [cursor=pointer]:
+                  - /url: /in/karnataka/city/bengaluru/hourbyhour?t=1790787600
+                  - paragraph: 10 pm
+                  - generic:
+                    - img "Thunderstorms"
+                    - paragraph: 62%
+                  - paragraph: 73°
+                - link "11 pm, 73°, 58%" [ref=e214] [cursor=pointer]:
+                  - /url: /in/karnataka/city/bengaluru/hourbyhour?t=1790791200
+                  - paragraph: 11 pm
+                  - generic:
+                    - img "Scattered Thunderstorms Night"
+                    - paragraph: 58%
+                  - paragraph: 73°
+                - link "12 am, 72°, 49%" [ref=e215] [cursor=pointer]:
+                  - /url: /in/karnataka/city/bengaluru/hourbyhour?t=1790794800
+                  - paragraph: 12 am
+                  - generic:
+                    - img "Showers"
+                    - paragraph: 49%
+                  - paragraph: 72°
+                - link "1 am, 72°, 33%" [ref=e216] [cursor=pointer]:
+                  - /url: /in/karnataka/city/bengaluru/hourbyhour?t=1790798400
+                  - paragraph: 1 am
+                  - generic:
+                    - img "Showers"
+                    - paragraph: 33%
+                  - paragraph: 72°
+                - link "2 am, 71°, 31%" [ref=e217] [cursor=pointer]:
+                  - /url: /in/karnataka/city/bengaluru/hourbyhour?t=1790802000
+                  - paragraph: 2 am
+                  - generic:
+                    - img "Showers"
+                    - paragraph: 31%
+                  - paragraph: 71°
+                - link "3 am, 71°" [ref=e218] [cursor=pointer]:
+                  - /url: /in/karnataka/city/bengaluru/hourbyhour?t=1790805600
+                  - paragraph: 3 am
+                  - generic:
+                    - img "Cloudy"
+                  - paragraph: 71°
+                - link "4 am, 71°" [ref=e219] [cursor=pointer]:
+                  - /url: /in/karnataka/city/bengaluru/hourbyhour?t=1790809200
+                  - paragraph: 4 am
+                  - generic:
+                    - img "Mostly Cloudy Night"
+                  - paragraph: 71°
+                - link "5 am, 71°" [ref=e220] [cursor=pointer]:
+                  - /url: /in/karnataka/city/bengaluru/hourbyhour?t=1790812800
+                  - paragraph: 5 am
+                  - generic:
+                    - img "Mostly Cloudy Night"
+                  - paragraph: 71°
+                - link "6 am, 70°" [ref=e221] [cursor=pointer]:
+                  - /url: /in/karnataka/city/bengaluru/hourbyhour?t=1790816400
+                  - paragraph: 6 am
+                  - generic:
+                    - img "Mostly Cloudy Day"
+                  - paragraph: 70°
+                - link "7 am, 72°" [ref=e222] [cursor=pointer]:
+                  - /url: /in/karnataka/city/bengaluru/hourbyhour?t=1790820000
+                  - paragraph: 7 am
+                  - generic:
+                    - img "Mostly Cloudy Day"
+                  - paragraph: 72°
+                - link [ref=e223] [cursor=pointer]:
+                  - /url: /in/karnataka/city/bengaluru/hourbyhour?t=1790820000
+                  - paragraph [ref=e226]: More
+              - button "Chevron Right" [ref=e227] [cursor=pointer]:
+                - img "Chevron Right" [ref=e228]
+          - region "Precipitation Intensity Chart" [ref=e232]:
+            - paragraph [ref=e234]: "Outlook: Storms likely to end around 4:00 PM. More storms possible later."
+            - link "Hourly Forecast" [ref=e238] [cursor=pointer]:
+              - /url: /in/karnataka/city/bengaluru/hourbyhour?metric=precipitation
+          - region "Your News" [ref=e241]:
+            - heading "Your News" [level=2] [ref=e242]
+            - generic [ref=e243]:
+              - button [aria-hidden]
+              - generic [ref=e244]:
+                - link [ref=e246] [cursor=pointer]:
+                  - /url: /2026/09/29/safety/cleaning-your-gutters-is-one-of-the-most-dangerous-things-you-can-do-this-fall
+                  - img "Cleaning your gutters is one of the most dangerous things you can do this fall" [ref=e249]
+                  - generic [ref=e250]:
+                    - heading "Cleaning your gutters is one of the most dangerous things you can do this fall" [level=3] [ref=e252]
+                    - generic [ref=e253]: 3m read
+                - link [ref=e259] [cursor=pointer]:
+                  - /url: /2026/09/29/news/weather/video/dangerous-flash-flood-new-mexico
+                  - img "Watch drivers fight through dangerous New Mexico flash floods" [ref=e262]
+                  - generic [ref=e263]:
+                    - heading "Watch drivers fight through dangerous New Mexico flash floods" [level=3] [ref=e265]
+                    - generic [ref=e266]: 21s watch
+                - link [ref=e272] [cursor=pointer]:
+                  - /url: /2026/09/28/news/weather/video/nepal-landslides-death-toll-flooding
+                  - img "Hundreds of landslides in Nepal, heavy rain sweeps away homes; 21 killed" [ref=e275]
+                  - generic [ref=e276]:
+                    - heading "Hundreds of landslides in Nepal, heavy rain sweeps away homes; 21 killed" [level=3] [ref=e278]
+                    - generic [ref=e279]: 29s watch
+                - link [ref=e285] [cursor=pointer]:
+                  - /url: /2026/09/28/news/trending/video/noreaster-erosion-new-england-nantucket-shipwreck
+                  - img "Nor'easter uncovers 1884 shipwreck on Nantucket beach" [ref=e288]
+                  - generic [ref=e289]:
+                    - heading "Nor'easter uncovers 1884 shipwreck on Nantucket beach" [level=3] [ref=e291]
+                    - generic [ref=e292]: 17s watch
+                - link [ref=e298] [cursor=pointer]:
+                  - /url: /2026/09/28/news/weather/video/noreaster-maine-east-coast-seafoam-perkins-cove
+                  - img "Nor'easter buries Maine coast in thick sea foam" [ref=e301]
+                  - generic [ref=e302]:
+                    - heading "Nor'easter buries Maine coast in thick sea foam" [level=3] [ref=e304]
+                    - generic [ref=e305]: 28s watch
+                - link [ref=e311] [cursor=pointer]:
+                  - /url: /2026/09/28/news/weather/video/noreaster-not-a-hurricane-new-jersey-flooding
+                  - 'img "No, this isn’t hurricane footage: See nor’easter damage in NJ" [ref=e314]'
+                  - generic [ref=e315]:
+                    - 'heading "No, this isn’t hurricane footage: See nor’easter damage in NJ" [level=3] [ref=e317]'
+                    - generic [ref=e318]: 26s watch
+                - link [ref=e324] [cursor=pointer]:
+                  - /url: /2026/09/27/news/weather/video/jersey-shore-noreaster-flooding
+                  - img "Nor'easter submerges New Jersey streets as Northeast reels" [ref=e327]
+                  - generic [ref=e328]:
+                    - heading "Nor'easter submerges New Jersey streets as Northeast reels" [level=3] [ref=e330]
+                    - generic [ref=e331]: 36s watch
+                - link [ref=e337] [cursor=pointer]:
+                  - /url: /2026/09/27/news/weather/video/jersey-shore-flooding-kayak
+                  - 'img "When streets become waterways: Humans and dogs kayak nor''easter floods" [ref=e340]'
+                  - generic [ref=e341]:
+                    - 'heading "When streets become waterways: Humans and dogs kayak nor''easter floods" [level=3] [ref=e343]'
+                    - generic [ref=e344]: 24s watch
+                - link [ref=e350] [cursor=pointer]:
+                  - /url: /2026/09/27/news/weather/video/reynolds-wolf-noreaster-surge-eats-away-sand-beneath-home
+                  - 'img "Reynolds Wolf: Nor''easter surge eats away sand beneath home" [ref=e353]'
+                  - generic [ref=e354]:
+                    - 'heading "Reynolds Wolf: Nor''easter surge eats away sand beneath home" [level=3] [ref=e356]'
+                    - generic [ref=e357]: 35s watch
+                - link [ref=e363] [cursor=pointer]:
+                  - /url: /2026/09/27/home-garden/video/bats-attic-fall-winter-exclusion-window
+                  - img "Bats are looking for a winter home in your attic right now" [ref=e366]
+                  - generic [ref=e367]:
+                    - heading "Bats are looking for a winter home in your attic right now" [level=3] [ref=e369]
+                    - generic [ref=e370]: 51s watch
+              - button [aria-hidden] [ref=e375] [cursor=pointer]
+          - region "Advertisement" [ref=e380]
+          - region "Bengaluru Daily Forecast" [ref=e386]:
+            - heading "Bengaluru Daily Forecast" [level=1] [ref=e388]
+            - generic [ref=e389]:
+              - generic [ref=e390]:
+                - link "Tonight Scattered Thunderstorms Night 73% Scattered Thunderstorms 69° 87°" [ref=e392] [cursor=pointer]:
+                  - /url: /in/karnataka/city/bengaluru/tenday?t=1790731800
+                  - generic [ref=e393]: Tonight
+                  - generic [ref=e394]:
+                    - img "Scattered Thunderstorms Night" [ref=e395]
+                    - generic [ref=e399]: 73%
+                  - generic [ref=e400]: Scattered Thunderstorms
+                  - generic [ref=e401]:
+                    - generic [ref=e402]: 69°
+                    - generic [ref=e406]: 87°
+                - link "Thu 01 Mostly Cloudy Day 22% Mostly Cloudy 69° 87°" [ref=e409] [cursor=pointer]:
+                  - /url: /in/karnataka/city/bengaluru/tenday?t=1790818200
+                  - generic [ref=e410]: Thu 01
+                  - generic [ref=e411]:
+                    - img "Mostly Cloudy Day" [ref=e412]
+                    - generic [ref=e415]: 22%
+                  - generic [ref=e416]: Mostly Cloudy
+                  - generic [ref=e417]:
+                    - generic [ref=e418]: 69°
+                    - generic [ref=e422]: 87°
+                - link "Fri 02 Partly Cloudy Day 24% Partly Cloudy 69° 88°" [ref=e425] [cursor=pointer]:
+                  - /url: /in/karnataka/city/bengaluru/tenday?t=1790904600
+                  - generic [ref=e426]: Fri 02
+                  - generic [ref=e427]:
+                    - img "Partly Cloudy Day" [ref=e428]
+                    - generic [ref=e431]: 24%
+                  - generic [ref=e432]: Partly Cloudy
+                  - generic [ref=e433]:
+                    - generic [ref=e434]: 69°
+                    - generic [ref=e438]: 88°
+                - link "Sat 03 Partly Cloudy Day 10% Partly Cloudy 70° 87°" [ref=e441] [cursor=pointer]:
+                  - /url: /in/karnataka/city/bengaluru/tenday?t=1790991000
+                  - generic [ref=e442]: Sat 03
+                  - generic [ref=e443]:
+                    - img "Partly Cloudy Day" [ref=e444]
+                    - generic [ref=e447]: 10%
+                  - generic [ref=e448]: Partly Cloudy
+                  - generic [ref=e449]:
+                    - generic [ref=e450]: 70°
+                    - generic [ref=e454]: 87°
+                - link "Sun 04 Scattered Thunderstorms 39% PM Thunderstorms 70° 87°" [ref=e457] [cursor=pointer]:
+                  - /url: /in/karnataka/city/bengaluru/tenday?t=1791077400
+                  - generic [ref=e458]: Sun 04
+                  - generic [ref=e459]:
+                    - img "Scattered Thunderstorms" [ref=e460]
+                    - generic [ref=e465]: 39%
+                  - generic [ref=e466]: PM Thunderstorms
+                  - generic [ref=e467]:
+                    - generic [ref=e468]: 70°
+                    - generic [ref=e472]: 87°
+                - link "Mon 05 Thunderstorms 83% Thunderstorms 69° 85°" [ref=e475] [cursor=pointer]:
+                  - /url: /in/karnataka/city/bengaluru/tenday?t=1791163800
+                  - generic [ref=e476]: Mon 05
+                  - generic [ref=e477]:
+                    - img "Thunderstorms" [ref=e478]
+                    - generic [ref=e481]: 83%
+                  - generic [ref=e482]: Thunderstorms
+                  - generic [ref=e483]:
+                    - generic [ref=e484]: 69°
+                    - generic [ref=e488]: 85°
+                - link "Tue 06 Thunderstorms 69% Thunderstorms 69° 83°" [ref=e491] [cursor=pointer]:
+                  - /url: /in/karnataka/city/bengaluru/tenday?t=1791250200
+                  - generic [ref=e492]: Tue 06
+                  - generic [ref=e493]:
+                    - img "Thunderstorms" [ref=e494]
+                    - generic [ref=e497]: 69%
+                  - generic [ref=e498]: Thunderstorms
+                  - generic [ref=e499]:
+                    - generic [ref=e500]: 69°
+                    - generic [ref=e504]: 83°
+              - link "Next 10 Days" [ref=e507] [cursor=pointer]:
+                - /url: /in/karnataka/city/bengaluru/tenday
+          - generic [ref=e511]:
+            - region "Advertisement" [ref=e515]
+            - region "Advertisement" [ref=e522]
+          - list "Weather Today in" [ref=e529]:
+            - listitem [ref=e530]:
+              - link "Temperature 69° 87° Temperature 69° – 87°" [ref=e531] [cursor=pointer]:
+                - /url: /in/karnataka/city/bengaluru/hourbyhour?metric=temperature
+                - paragraph [ref=e537]: Temperature
+                - generic [ref=e539]:
+                  - generic [ref=e540]:
+                    - paragraph [ref=e541]:
+                      - generic [ref=e542]: 69°
+                    - paragraph [ref=e543]:
+                      - generic [ref=e544]: 87°
+                  - img "Temperature 69° – 87°" [ref=e545]
+            - listitem [ref=e558]:
+              - link "Feels Like 89°" [ref=e559] [cursor=pointer]:
+                - /url: /in/karnataka/city/bengaluru/hourbyhour?metric=feelsLike
+                - paragraph [ref=e566]: Feels Like
+                - generic [ref=e567]: 89°
+            - listitem [ref=e572]:
+              - link "Wind Wind direction icon 2 mph WSW" [ref=e573] [cursor=pointer]:
+                - /url: /in/karnataka/city/bengaluru/hourbyhour?metric=wind
+                - paragraph [ref=e577]: Wind
+                - img [aria-hidden] [ref=e580]:
+                  - generic [ref=e582]: "N"
+                - generic [ref=e589]:
+                  - img "Wind direction icon" [ref=e590]
+                  - text: 2 mph
+                  - generic [ref=e592]: WSW
+            - listitem [ref=e593]:
+              - link [ref=e594] [cursor=pointer]:
+                - /url: /in/karnataka/city/bengaluru/hourbyhour?metric=humidity
+                - paragraph [ref=e600]: Humidity
+                - generic [ref=e602]:
+                  - meter [ref=e603]
+                  - generic:
+                    - generic: 64%
+                    - generic: High
+            - listitem [ref=e606]:
+              - link [ref=e607] [cursor=pointer]:
+                - /url: /in/karnataka/city/bengaluru/hourbyhour?metric=uvIndex
+                - paragraph [ref=e611]: UV Index
+                - generic [ref=e613]:
+                  - meter [ref=e614]
+                  - generic:
+                    - generic: "3"
+                    - generic: Moderate
+            - listitem [ref=e623]:
+              - link [ref=e624] [cursor=pointer]:
+                - /url: /in/karnataka/city/bengaluru/hourbyhour?metric=airQuality
+                - paragraph [ref=e629]: Air Quality
+                - generic [ref=e631]:
+                  - meter [ref=e632]
+                  - generic:
+                    - generic: "100"
+                    - generic: Moderate
+            - listitem [ref=e635]:
+              - link "Dew Point 70° Dew Point 70° 30 80" [ref=e636] [cursor=pointer]:
+                - /url: /in/karnataka/city/bengaluru/hourbyhour?metric=dewPoint
+                - paragraph [ref=e641]: Dew Point
+                - generic [ref=e643]:
+                  - generic [ref=e644]: 70°
+                  - generic [ref=e645]:
+                    - img "Dew Point 70°" [ref=e646]
+                    - generic [ref=e649]:
+                      - generic [ref=e650]: "30"
+                      - generic [ref=e651]: "80"
+            - listitem [ref=e652]:
+              - link [ref=e653] [cursor=pointer]:
+                - /url: /in/karnataka/city/bengaluru/hourbyhour?metric=pressure
+                - paragraph [ref=e657]: Pressure
+                - generic [ref=e659]:
+                  - meter [ref=e660]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Pressure falling"
+                        - generic: "29.84"
+                        - generic: in
+            - listitem [ref=e663]:
+              - link "Visibility 6 mi Visibility 6 of 10" [ref=e664] [cursor=pointer]:
+                - /url: /in/karnataka/city/bengaluru/hourbyhour?metric=visibility
+                - paragraph [ref=e669]: Visibility
+                - generic [ref=e671]:
+                  - paragraph [ref=e672]:
+                    - generic [ref=e673]:
+                      - text: "6"
+                      - generic [ref=e674]: mi
+                  - img "Visibility 6 of 10" [ref=e675]
+            - listitem [ref=e686]:
+              - link "Sunrise · Sunset Sunrise 6:08 am Sunset 6:10 pm" [ref=e687] [cursor=pointer]:
+                - /url: /in/karnataka/city/bengaluru/hourbyhour
+                - paragraph [ref=e692]: Sunrise · Sunset
+                - generic [ref=e695]:
+                  - generic [ref=e696]:
+                    - generic [ref=e697]: Sunrise
+                    - generic [ref=e698]: 6:08 am
+                  - generic [ref=e699]:
+                    - generic [ref=e700]: Sunset
+                    - generic [ref=e701]: 6:10 pm
+            - listitem [ref=e710]:
+              - link "Moonrise · Moonset Moonrise 8:59 pm Moonset 10:21 am" [ref=e711] [cursor=pointer]:
+                - /url: /in/karnataka/city/bengaluru/hourbyhour
+                - paragraph [ref=e716]: Moonrise · Moonset
+                - generic [ref=e719]:
+                  - generic [ref=e720]:
+                    - generic [ref=e721]: Moonrise
+                    - generic [ref=e722]: 8:59 pm
+                  - generic [ref=e723]:
+                    - generic [ref=e724]: Moonset
+                    - generic [ref=e725]: 10:21 am
+            - listitem [ref=e734]:
+              - link "Moon Phase Waning Gibbous" [ref=e735] [cursor=pointer]:
+                - /url: /in/karnataka/city/bengaluru/hourbyhour
+                - paragraph [ref=e739]: Moon Phase
+                - generic [ref=e740]: Waning Gibbous
+          - region "Advertisement" [ref=e747]
+          - region "Radar - Storms likely to end around 4:00 pm. More storms possible later." [ref=e753]:
+            - generic [ref=e754]:
+              - link [ref=e755] [cursor=pointer]:
+                - /url: /weather/radar/interactive/l/b792ea3b3c485b9e34609c87d11684aa8a792c4ae53f7d8f54f338acef2491f5
+                - paragraph [ref=e771]: 6:10 pm
+              - button "Map Attribution" [ref=e774] [cursor=pointer]:
+                - img "Mapbox Logo" [ref=e775]
+          - region "Trending Now" [ref=e782]:
+            - heading "Trending Now" [level=2] [ref=e783]
+            - generic [ref=e786]:
+              - link "Hurricane Polo’s moisture to bring major flooding to Southwest, Texas this week" [ref=e789] [cursor=pointer]:
+                - /url: /2026/09/29/forecast/regional/hurricane-polo-southwest-plains-flash-flooding
+                - heading "Hurricane Polo’s moisture to bring major flooding to Southwest, Texas this week" [level=2] [ref=e794]
+              - link "Hundreds of landslides in Nepal, heavy rain sweeps away homes; 21 killed 0:29" [ref=e797] [cursor=pointer]:
+                - /url: /2026/09/28/news/weather/video/nepal-landslides-death-toll-flooding
+                - generic [ref=e800]:
+                  - heading "Hundreds of landslides in Nepal, heavy rain sweeps away homes; 21 killed" [level=2] [ref=e802]
+                  - generic [ref=e803]:
+                    - generic:
+                      - paragraph: 0:29
+              - 'link "Hurricane season maps tracker: cones, water temperatures and more" [ref=e810] [cursor=pointer]':
+                - /url: /2026/09/29/storms/hurricane/hurricane-season-maps-tracker-polo-odalys-nolo
+                - 'heading "Hurricane season maps tracker: cones, water temperatures and more" [level=2] [ref=e815]'
+              - link "Nor'easter uncovers 1884 shipwreck on Nantucket beach 0:17" [ref=e818] [cursor=pointer]:
+                - /url: /2026/09/28/news/trending/video/noreaster-erosion-new-england-nantucket-shipwreck
+                - generic [ref=e821]:
+                  - heading "Nor'easter uncovers 1884 shipwreck on Nantucket beach" [level=2] [ref=e823]
+                  - generic [ref=e824]:
+                    - generic:
+                      - paragraph: 0:17
+          - generic [ref=e832]:
+            - region "Advertisement" [ref=e836]
+            - region "Advertisement" [ref=e843]
+          - generic [ref=e850]:
+            - heading "Sponsored Content" [level=2] [ref=e852]
+            - generic [ref=e854]:
+              - generic [ref=e860]:
+                - generic:
+                  - generic [ref=e861] [cursor=pointer]:
+                    - link [ref=e862]:
+                      - /url: https://tradewise.thefuture.university/cltah1pmp01bbpcsu5o3uytxa/long-free/bala-market-taboola
+                      - img "Image for Taboola Advertising Unit" [ref=e864]
+                    - link [ref=e866]:
+                      - /url: https://tradewise.thefuture.university/cltah1pmp01bbpcsu5o3uytxa/long-free/bala-market-taboola
+                      - generic [ref=e867]:
+                        - link "Start Making Massive Side Income With This Intraday Trading Strategy" [ref=e868]
+                        - link "TradeWise in Taboola advertising section" [ref=e869]: TradeWise
+                  - generic [ref=e870] [cursor=pointer]:
+                    - link [ref=e871]:
+                      - /url: https://in.hear.com/d/en_price_list_display
+                      - img "Image for Taboola Advertising Unit" [ref=e873]
+                    - link [ref=e875]:
+                      - /url: https://in.hear.com/d/en_price_list_display
+                      - generic [ref=e876]:
+                        - link "The cost of hearing aids in Bangalore might surprise you" [ref=e877]
+                        - link "Hearing Aids in Taboola advertising section" [ref=e878]: Hearing Aids
+                  - generic [ref=e879] [cursor=pointer]:
+                    - link [ref=e880]:
+                      - /url: https://tradewise.thefuture.university/cltah1pmp01bbpcsu5o3uytxa/long-free/bala-market-taboola
+                      - img "Image for Taboola Advertising Unit" [ref=e882]
+                    - link [ref=e884]:
+                      - /url: https://tradewise.thefuture.university/cltah1pmp01bbpcsu5o3uytxa/long-free/bala-market-taboola
+                      - generic [ref=e885]:
+                        - link "Make Massive Side Income with this Method of Intraday Trading" [ref=e886]
+                        - link "TradeWise in Taboola advertising section" [ref=e887]: TradeWise
+              - generic [ref=e893]:
+                - generic:
+                  - generic [ref=e894] [cursor=pointer]:
+                    - link [ref=e895]:
+                      - /url: https://in.hear.com/d/en_price_list_display
+                      - img "Image for Taboola Advertising Unit" [ref=e897]
+                    - link [ref=e899]:
+                      - /url: https://in.hear.com/d/en_price_list_display
+                      - generic [ref=e900]:
+                        - link "Indians over 65 are switching from hearing aids to this new device." [ref=e901]
+                        - link "Hearing Aids in Taboola advertising section" [ref=e902]: Hearing Aids
+                  - generic [ref=e903] [cursor=pointer]:
+                    - link [ref=e904]:
+                      - /url: https://warthunder.com/play4free
+                      - img "Image for Taboola Advertising Unit" [ref=e906]
+                    - link [ref=e908]:
+                      - /url: https://warthunder.com/play4free
+                      - generic [ref=e909]:
+                        - link "Play War Thunder now for free" [ref=e910]
+                        - link "War Thunder in Taboola advertising section" [ref=e911]: War Thunder
+              - generic [ref=e917]:
+                - generic:
+                  - generic [ref=e918] [cursor=pointer]:
+                    - link [ref=e919]:
+                      - /url: https://www.channelnewsasia.com/asia/coughs-x-rays-how-ai-changing-indias-healthcare-frontline-6356946
+                      - img "Image for Taboola Advertising Unit" [ref=e921]
+                    - link [ref=e923]:
+                      - /url: https://www.channelnewsasia.com/asia/coughs-x-rays-how-ai-changing-indias-healthcare-frontline-6356946
+                      - generic [ref=e924]:
+                        - 'link "From coughs to X-rays: How AI is changing India’s healthcare frontline" [ref=e925]'
+                        - link "CNA in Taboola advertising section" [ref=e926]: CNA
+                  - generic [ref=e927] [cursor=pointer]:
+                    - link [ref=e928]:
+                      - /url: https://www.channelnewsasia.com/asia/thailand-shortens-visa-free-stays-tourists-singapore-6354981
+                      - img "Image for Taboola Advertising Unit" [ref=e930]
+                    - link [ref=e932]:
+                      - /url: https://www.channelnewsasia.com/asia/thailand-shortens-visa-free-stays-tourists-singapore-6354981
+                      - generic [ref=e933]:
+                        - link "Thailand shortens visa-free stays for dozens of nations from Sep 15" [ref=e934]
+                        - link "CNA in Taboola advertising section" [ref=e935]: CNA
+                  - generic [ref=e936] [cursor=pointer]:
+                    - link [ref=e937]:
+                      - /url: https://catmachine.co.in/aftermarket-cva2.0.html
+                      - img "Image for Taboola Advertising Unit" [ref=e939]
+                    - link [ref=e941]:
+                      - /url: https://catmachine.co.in/aftermarket-cva2.0.html
+                      - generic [ref=e942]:
+                        - link "Cat® CVA Services Commitment" [ref=e943]
+                        - link "Cat® Customer Value Agreements in Taboola advertising section" [ref=e944]: Cat® Customer Value Agreements
+          - generic:
+            - generic:
+              - region "Advertisement"
+          - generic:
+            - generic:
+              - region "Advertisement"
+        - generic [ref=e947]:
+          - region "Advertisement" [ref=e950]:
+            - generic [ref=e951]:
+              - generic [ref=e952]: Advertisement
+              - iframe [ref=e956]:
+                - generic [ref=f17e3]:
+                  - iframe [ref=f17e6]:
+                    - generic:
+                      - banner:
+                        - link "Go to site" [ref=f24e1] [cursor=pointer]:
+                          - /url: javascript:void(0);
+                        - generic [ref=f24e3] [cursor=pointer]: How is Maya HTT enabling AI to transform the way industries work?
+                  - generic [ref=f17e7]:
+                    - generic:
+                      - generic [ref=f17e8] [cursor=pointer]
+                      - button [ref=f17e13] [cursor=pointer]
+          - region "Advertisement" [ref=e959]
+          - region "Editor's Pick" [ref=e965]:
+            - heading "Editor's Pick" [level=2] [ref=e966]
+            - link "Bear cub rescued from glacier crevasse shows the danger hikers face Mountaineers spotted a bear cub trapped deep in an icy crevasse on India's Machoi Glacier, and they weren't about to leave it stranded. 0:35" [ref=e972] [cursor=pointer]:
+              - /url: /2026/09/29/science/nature/wild-animals/video/bear-cub-glacier-crevasse-rescue-india
+              - generic [ref=e975]:
+                - heading "Bear cub rescued from glacier crevasse shows the danger hikers face" [level=2] [ref=e977]
+                - paragraph [ref=e979]: Mountaineers spotted a bear cub trapped deep in an icy crevasse on India's Machoi Glacier, and they weren't about to leave it stranded.
+                - generic [ref=e980]:
+                  - generic:
+                    - paragraph: 0:35
+          - region "Advertisement" [ref=e987]
+          - region "Advertisement" [ref=e993]
+      - generic [ref=e998]:
+        - generic [ref=e999]:
+          - generic [ref=e1000]:
+            - list [ref=e1001]:
+              - listitem [ref=e1002]:
+                - link [ref=e1003] [cursor=pointer]:
+                  - /url: https://www.weathercompany.com/
+                  - img "The Weather Company" [ref=e1004]
+              - listitem [ref=e1005]:
+                - link [ref=e1006] [cursor=pointer]:
+                  - /url: https://weather.com/
+                  - img "The Weather Channel" [ref=e1007]
+              - listitem [ref=e1008]:
+                - link [ref=e1009] [cursor=pointer]:
+                  - /url: https://www.wunderground.com/
+                  - img "Weather Underground" [ref=e1010]
+              - listitem [ref=e1011]:
+                - link [ref=e1012] [cursor=pointer]:
+                  - /url: https://weather.com/storm-radar
+                  - img "Storm Radar" [ref=e1013]
+              - listitem [ref=e1014]:
+                - link [ref=e1015] [cursor=pointer]:
+                  - /url: https://weather.com/campaign/snowcast/beta
+                  - img "SnowCast" [ref=e1016]
+            - paragraph [ref=e1017]: The Weather Channel was found to be the world’s most accurate forecaster in ForecastWatch’s Global and Regional Weather Forecast Accuracy Overview, 2021-2024, commissioned by The Weather Company.
+            - paragraph [ref=e1018]: Weather Channel.
+          - generic [ref=e1020]:
+            - generic [ref=e1021]:
+              - paragraph [ref=e1022]: Privacy & Legal
+              - list [ref=e1023]:
+                - listitem [ref=e1024]:
+                  - link "Trust Center External Link" [ref=e1025] [cursor=pointer]:
+                    - /url: https://trust.weather.com
+                    - paragraph [ref=e1026]:
+                      - generic [ref=e1027]: Trust Center
+                    - img "External Link" [ref=e1028]
+                - listitem [ref=e1031]:
+                  - link "Terms of Use" [ref=e1032] [cursor=pointer]:
+                    - /url: /privacy/terms-of-use
+                    - paragraph [ref=e1033]:
+                      - generic [ref=e1034]: Terms of Use
+                - listitem [ref=e1035]:
+                  - link "Privacy Policy" [ref=e1036] [cursor=pointer]:
+                    - /url: /privacy/privacy-policy
+                    - paragraph [ref=e1037]:
+                      - generic [ref=e1038]: Privacy Policy
+                - listitem [ref=e1039]:
+                  - link "Data Rights" [ref=e1040] [cursor=pointer]:
+                    - /url: /data-rights
+                    - paragraph [ref=e1041]:
+                      - generic [ref=e1042]: Data Rights
+                - listitem [ref=e1043]:
+                  - link "Privacy Settings" [ref=e1044] [cursor=pointer]:
+                    - /url: /privacy-settings
+                    - paragraph [ref=e1045]:
+                      - generic [ref=e1046]: Privacy Settings
+                - listitem [ref=e1047]:
+                  - link "Cookie Notice External Link" [ref=e1048] [cursor=pointer]:
+                    - /url: /en-US/privacy/privacy-policy#data-collection-technologies-and-consumer-choice
+                    - paragraph [ref=e1049]:
+                      - generic [ref=e1050]: Cookie Notice
+                    - img "External Link" [ref=e1051]
+                - listitem [ref=e1054]:
+                  - link "Data Vendors" [ref=e1055] [cursor=pointer]:
+                    - /url: /data-vendors
+                    - paragraph [ref=e1056]:
+                      - generic [ref=e1057]: Data Vendors
+                - listitem [ref=e1058]:
+                  - link "Accessibility Statement" [ref=e1059] [cursor=pointer]:
+                    - /url: /accessibility-statement
+                    - paragraph [ref=e1060]:
+                      - generic [ref=e1061]: Accessibility Statement
+            - generic [ref=e1063]:
+              - paragraph [ref=e1065]: More
+              - list [ref=e1066]:
+                - listitem [ref=e1067]:
+                  - link "Mission" [ref=e1068] [cursor=pointer]:
+                    - /url: /mission
+                    - paragraph [ref=e1069]:
+                      - generic [ref=e1070]: Mission
+                - listitem [ref=e1071]:
+                  - link "Newsletter Sign Up" [ref=e1072] [cursor=pointer]:
+                    - /url: https://weather.com/newsletters?cm_ven=dnt_newsletter_footer
+                    - paragraph [ref=e1073]:
+                      - generic [ref=e1074]: Newsletter Sign Up
+                - listitem [ref=e1075]:
+                  - link "Feedback External Link" [ref=e1076] [cursor=pointer]:
+                    - /url: //support.weather.com?language=en_US
+                    - paragraph [ref=e1077]:
+                      - generic [ref=e1078]: Feedback
+                    - img "External Link" [ref=e1079]
+                - listitem [ref=e1082]:
+                  - link "Careers External Link" [ref=e1083] [cursor=pointer]:
+                    - /url: https://www.weathercompany.com/careers
+                    - paragraph [ref=e1084]:
+                      - generic [ref=e1085]: Careers
+                    - img "External Link" [ref=e1086]
+                - listitem [ref=e1089]:
+                  - link "News Room External Link" [ref=e1090] [cursor=pointer]:
+                    - /url: https://www.weathercompany.com/newsroom
+                    - paragraph [ref=e1091]:
+                      - generic [ref=e1092]: News Room
+                    - img "External Link" [ref=e1093]
+                - listitem [ref=e1096]:
+                  - link "Advertise With Us External Link" [ref=e1097] [cursor=pointer]:
+                    - /url: https://www.weathercompany.com/advertising/
+                    - paragraph [ref=e1098]:
+                      - generic [ref=e1099]: Advertise With Us
+                    - img "External Link" [ref=e1100]
+                - listitem [ref=e1103]:
+                  - link "TV External Link" [ref=e1104] [cursor=pointer]:
+                    - /url: https://www.weathergroup.com/brands/the-weather-channel/
+                    - paragraph [ref=e1105]:
+                      - generic [ref=e1106]: TV
+                    - img "External Link" [ref=e1107]
+                - listitem [ref=e1110]:
+                  - link "Weather Data APIs External Link" [ref=e1111] [cursor=pointer]:
+                    - /url: https://www.weathercompany.com/weather-data-apis/
+                    - paragraph [ref=e1112]:
+                      - generic [ref=e1113]: Weather Data APIs
+                    - img "External Link" [ref=e1114]
+                - listitem [ref=e1117]:
+                  - link "Alexa Skill External Link" [ref=e1118] [cursor=pointer]:
+                    - /url: https://www.amazon.com/The-Weather-Company-Channel/dp/B07YPYHQ1Q
+                    - paragraph [ref=e1119]:
+                      - generic [ref=e1120]: Alexa Skill
+                    - img "External Link" [ref=e1121]
+                - listitem [ref=e1124]:
+                  - link "Weather Labs External Link" [ref=e1125] [cursor=pointer]:
+                    - /url: https://labs.weather.com
+                    - paragraph [ref=e1126]:
+                      - generic [ref=e1127]: Weather Labs
+                    - img "External Link" [ref=e1128]
+                - listitem [ref=e1131]:
+                  - link "Atmosphere" [ref=e1132] [cursor=pointer]:
+                    - /url: /atmosphere
+                    - paragraph [ref=e1133]:
+                      - generic [ref=e1134]: Atmosphere
+                - listitem [ref=e1135]:
+                  - link "Sitemap" [ref=e1136] [cursor=pointer]:
+                    - /url: /sitemap
+                    - paragraph [ref=e1137]:
+                      - generic [ref=e1138]: Sitemap
+        - generic [ref=e1140]:
+          - list [ref=e1142]:
+            - listitem [ref=e1143]:
+              - link [ref=e1144] [cursor=pointer]:
+                - /url: https://www.facebook.com/TheWeatherChannel
+                - img "Facebook" [ref=e1145]
+            - listitem [ref=e1148]:
+              - link [ref=e1149] [cursor=pointer]:
+                - /url: http://www.twitter.com/weatherchannel
+                - img "X" [ref=e1150]
+            - listitem [ref=e1152]:
+              - link [ref=e1153] [cursor=pointer]:
+                - /url: http://instagram.com/weatherchannel
+                - img "Instagram" [ref=e1154]
+            - listitem [ref=e1158]:
+              - link [ref=e1159] [cursor=pointer]:
+                - /url: http://www.youtube.com/user/TheWeatherChannel/
+                - img "Youtube" [ref=e1160]
+          - paragraph [ref=e1163]: © The Weather Company, LLC 2026
+          - list [ref=e1165]:
+            - listitem [ref=e1166]:
+              - link [ref=e1167] [cursor=pointer]:
+                - /url: https://www.levelaccess.com/a/the-weather-channel/?utm_source=theweatherchannelhomepage&utm_medium=iconlarge&utm_term=eachannelpage&utm_content=header&utm_campaign=theweatherchannel
+                - img "Level Access" [ref=e1168]
+  - region "Notifications alt+T"
+  - alert [ref=e1169]
+  - generic [ref=e1171]:
+    - generic [ref=e1172]:
+      - button [ref=e1173] [cursor=pointer]
+      - button [ref=e1175] [cursor=pointer]
+    - iframe [ref=e1178]:
+      - iframe [ref=f31e4]:
+        - iframe [ref=f43e2]

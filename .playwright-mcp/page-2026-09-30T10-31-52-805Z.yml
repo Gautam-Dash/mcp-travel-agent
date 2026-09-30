@@ -1,0 +1,2073 @@
+- generic [active] [ref=f3e1]:
+  - generic:
+    - link [aria-hidden] [ref=f3e2] [cursor=pointer]:
+      - /url: "#main-container"
+      - text: Go to the content
+    - link [aria-hidden] [ref=f3e3] [cursor=pointer]:
+      - /url: "#site-footer"
+      - text: Go to the footer
+  - banner [ref=f3e6]:
+    - generic [ref=f3e12]:
+      - generic [ref=f3e13]:
+        - link [ref=f3e14] [cursor=pointer]:
+          - /url: https://www.timeout.com/newyork
+        - generic [ref=f3e26] [cursor=pointer]: New York
+      - list [ref=f3e33]:
+        - listitem [ref=f3e34]:
+          - link "Explore Cities" [ref=f3e35] [cursor=pointer]:
+            - /url: https://www.timeout.com
+        - listitem [ref=f3e36]:
+          - link "Time Out Markets" [ref=f3e37] [cursor=pointer]:
+            - /url: /time-out-market
+      - generic [ref=f3e38]:
+        - link "Subscribe" [ref=f3e40] [cursor=pointer]:
+          - /url: /newyork/newsletter
+        - link "Search" [ref=f3e42] [cursor=pointer]:
+          - /url: https://www.timeout.com/newyork/search
+        - generic [ref=f3e47] [cursor=pointer]
+    - generic [ref=f3e54]:
+      - navigation [ref=f3e55]:
+        - list [ref=f3e56]:
+          - listitem [ref=f3e57]:
+            - link "News" [ref=f3e58] [cursor=pointer]:
+              - /url: /newyork/news
+          - listitem [ref=f3e59]:
+            - link "Things to Do" [ref=f3e60] [cursor=pointer]:
+              - /url: /newyork/things-to-do
+          - listitem [ref=f3e61]:
+            - link "Food & Drink" [ref=f3e62] [cursor=pointer]:
+              - /url: /newyork/food-drink
+          - listitem [ref=f3e63]:
+            - link "Culture" [ref=f3e64] [cursor=pointer]:
+              - /url: /newyork/culture
+          - listitem [ref=f3e65]:
+            - link "Theater" [ref=f3e66] [cursor=pointer]:
+              - /url: /newyork/theater
+          - listitem [ref=f3e67]:
+            - link "Travel" [ref=f3e68] [cursor=pointer]:
+              - /url: /newyork/travel
+          - listitem [ref=f3e69]:
+            - link "Time Out Market Brooklyn" [ref=f3e70] [cursor=pointer]:
+              - /url: /time-out-market-new-york
+          - listitem [ref=f3e71]:
+            - link "Time Out Market Union Square" [ref=f3e72] [cursor=pointer]:
+              - /url: /time-out-market-union-square
+          - listitem [ref=f3e73]:
+            - link "Love Local" [ref=f3e74] [cursor=pointer]:
+              - /url: /newyork/love-local-partners
+          - listitem [ref=f3e75]:
+            - link "Kids" [ref=f3e76] [cursor=pointer]:
+              - /url: /new-york-kids
+          - listitem [ref=f3e77]:
+            - link "Attractions" [ref=f3e78] [cursor=pointer]:
+              - /url: /newyork/attractions
+          - listitem [ref=f3e79]:
+            - link "Museums" [ref=f3e80] [cursor=pointer]:
+              - /url: /newyork/museums
+          - listitem [ref=f3e81]:
+            - link "Movies" [ref=f3e82] [cursor=pointer]:
+              - /url: /newyork/movies
+          - listitem [ref=f3e83]:
+            - link "Music" [ref=f3e84] [cursor=pointer]:
+              - /url: /newyork/music
+          - listitem [ref=f3e85]:
+            - link "Nightlife" [ref=f3e86] [cursor=pointer]:
+              - /url: https://www.timeout.com/newyork/nightlife
+          - listitem [ref=f3e87]:
+            - link "Hotels" [ref=f3e88] [cursor=pointer]:
+              - /url: /newyork/hotels
+          - listitem [ref=f3e89]:
+            - link "Cannabis" [ref=f3e90] [cursor=pointer]:
+              - /url: /newyork/weed-in-nyc
+          - listitem [ref=f3e91]:
+            - link "Tickets" [ref=f3e92] [cursor=pointer]:
+              - /url: /newyork/tickets
+          - listitem [ref=f3e93]:
+            - link "TO Book" [ref=f3e94] [cursor=pointer]:
+              - /url: /newyork/to-book
+      - button [ref=f3e96] [cursor=pointer]
+    - generic:
+      - generic [ref=f3e99] [cursor=pointer]
+      - generic [ref=f3e112]:
+        - link "instagram" [ref=f3e113] [cursor=pointer]:
+          - /url: http://instagram.com/timeoutnewyork
+        - link "tiktok" [ref=f3e118] [cursor=pointer]:
+          - /url: https://www.tiktok.com/@timeoutnewyork
+        - link "facebook" [ref=f3e122] [cursor=pointer]:
+          - /url: https://www.facebook.com/timeoutnewyork
+        - link "twitter" [ref=f3e126] [cursor=pointer]:
+          - /url: https://twitter.com/TimeOutNewYork
+        - link "youtube" [ref=f3e130] [cursor=pointer]:
+          - /url: https://www.youtube.com/user/TimeOutNewYork
+  - main [ref=f3e135]:
+    - generic [ref=f3e136]:
+      - generic [ref=f3e137]:
+        - generic [ref=f3e138]:
+          - generic [ref=f3e139]:
+            - 'figure "Photograph: Courtesy of The Plaza" [ref=f3e141]':
+              - img "The exterior of the Plaza Hotel at night." [ref=f3e143]
+            - generic [ref=f3e146]:
+              - heading "The 35 best hotels in New York City for 2026" [level=1] [ref=f3e147]
+              - paragraph [ref=f3e148]: Our comprehensive guide on where to rest your head in the city that never sleeps
+              - time [ref=f3e150]: Friday February 27 2026
+              - generic [ref=f3e151]: Share
+              - generic [ref=f3e157]:
+                - link [ref=f3e159] [cursor=pointer]:
+                  - /url: https://www.timeout.com/profile/liv-kelly
+                  - img "Liv Kelly" [ref=f3e160]
+                - generic [ref=f3e162]:
+                  - generic [ref=f3e163]:
+                    - text: Edited by
+                    - link "Liv Kelly" [ref=f3e165] [cursor=pointer]:
+                      - /url: https://www.timeout.com/profile/liv-kelly
+                  - generic [ref=f3e166]: Travel Writer
+          - generic [ref=f3e167]:
+            - paragraph [ref=f3e168]: "New York: it’s a frantic experience. That’s why, when you’ve only got a handful of days to dine, sight-see, museum hop and shop, that oh-so-precious shut-eye becomes all the more important. But, despite its famous moniker as the “city that never sleeps”, the Big Apple is brimming with stylish, innovative, and world-renowned hotels. So, here’s Time Out’s gleaming collection of our absolute favorite places to stay, all tried and tested by local writers."
+            - paragraph [ref=f3e169]: New for spring 2026 are reviews of Nine Orchard, Ace Hotel Brooklyn, The Ned NoMad, and our brand-new number one, The Fifth Avenue Hotel. Scroll on.
+            - heading [level=2] [ref=f3e170]:
+              - strong [ref=f3e171]: Which area is best to stay in New York?
+            - paragraph [ref=f3e172]:
+              - text: Well, we’ve compiled an entire
+              - link "neighborhood guide" [ref=f3e173] [cursor=pointer]:
+                - /url: https://www.timeout.com/newyork/travel/where-to-stay-in-nyc
+              - text: to help you find the best fit for your trip, but first-timers should consider Midtown (particularly on and around Fifth Avenue), frequent visitors who want to feel like a local should opt for hotels in Williamsburg, and for particularly stylish boutique stays, you’ll find plenty of those in Tribeca, NoMad, the Lower East Side, and the Meatpacking District.
+            - heading [level=2] [ref=f3e174]:
+              - strong [ref=f3e175]: "New York’s very best hotels at a glance:"
+            - list [ref=f3e176]:
+              - listitem [ref=f3e177]:
+                - strong [ref=f3e178]: "💎 Most luxurious:"
+                - link "The Plaza" [ref=f3e179] [cursor=pointer]:
+                  - /url: https://www.timeout.com/newyork/hotels/the-plaza
+              - listitem [ref=f3e180]:
+                - text: 👛
+                - strong [ref=f3e181]: "Best budget:"
+                - link "The FiDi Hotel" [ref=f3e182] [cursor=pointer]:
+                  - /url: https://www.timeout.com/newyork/hotels/the-fidi-hotel
+              - listitem [ref=f3e183]:
+                - text: 🌃
+                - strong [ref=f3e184]: "Best view:"
+                - link "The Ritz-Carlton New York NoMad" [ref=f3e185] [cursor=pointer]:
+                  - /url: https://www.timeout.com/newyork/hotels/the-ritz-carlton-new-york-nomad
+              - listitem [ref=f3e186]:
+                - text: 👙
+                - strong [ref=f3e187]: "Best pool:"
+                - link "Equinox Hotel New York" [ref=f3e188] [cursor=pointer]:
+                  - /url: https://www.timeout.com/newyork/hotels/equinox-hotel-new-york
+              - listitem [ref=f3e189]:
+                - text: 🍸
+                - strong [ref=f3e190]: "Best boutique:"
+                - link "Nine Orchard" [ref=f3e191] [cursor=pointer]:
+                  - /url: https://www.timeout.com/newyork/hotels/nine-orchard
+              - listitem [ref=f3e192]:
+                - text: 🪩
+                - strong [ref=f3e193]: "Coolest:"
+                - link "The William Vale" [ref=f3e194] [cursor=pointer]:
+                  - /url: https://www.timeout.com/newyork/hotels/the-william-vale-1
+              - listitem [ref=f3e195]:
+                - text: 🤩
+                - strong [ref=f3e196]: "Most iconic:"
+                - link "The Hotel Chelsea" [ref=f3e197] [cursor=pointer]:
+                  - /url: https://www.timeout.com/newyork/hotels/hotel-chelsea-2
+            - paragraph [ref=f3e198]:
+              - strong [ref=f3e199]: 📍 Discover
+              - link [ref=f3e200] [cursor=pointer]:
+                - /url: https://www.timeout.com/newyork/hotels/best-hotels-in-nyc
+                - strong [ref=f3e201]: our ultimate guide to the best hotels in New York
+            - heading [level=2] [ref=f3e202]:
+              - strong [ref=f3e203]: How we curate our hotel lists
+            - paragraph [ref=f3e204]:
+              - text: Our team of writers and travel experts review hotels all over the world—new openings, old classics and everything in between—to bring you fresh, honest recommendations, all year round. We have reviewed many of the hotels featured below, but we may not have stayed at every single one. Any we haven’t stayed in have been selected by experts based on their amenities, features, pricing and more. By the way, this article includes affiliate links. These links have no influence on our editorial content. For more information, see our
+              - link "affiliate guidelines" [ref=f3e205] [cursor=pointer]:
+                - /url: https://www.timeout.com/things-to-do/understanding-affiliate-links
+              - text: .
+            - paragraph [ref=f3e206]:
+              - strong [ref=f3e207]: 🛌 Check out the
+              - link [ref=f3e208] [cursor=pointer]:
+                - /url: https://www.timeout.com/newyork/hotels/coolest-airbnbs-in-new-york-city
+                - strong [ref=f3e209]: best Airbnbs in New York
+        - generic [ref=f3e210]:
+          - heading "New York City’s very best hotels" [level=2] [ref=f3e211]
+          - generic [ref=f3e213]:
+            - article [ref=f3e214]:
+              - generic [ref=f3e215]:
+                - link [ref=f3e217] [cursor=pointer]:
+                  - /url: /newyork/hotels/the-fifth-avenue-hotel
+                  - heading "1. The Fifth Avenue Hotel" [level=3] [ref=f3e218]
+                - list [ref=f3e221]:
+                  - listitem [ref=f3e222]:
+                    - generic [ref=f3e223]: Hotels
+                  - listitem [ref=f3e224]:
+                    - generic [ref=f3e225]: Flatiron
+                  - listitem [ref=f3e226]:
+                    - generic [ref=f3e227]: 5 out of 5 stars
+                  - listitem [ref=f3e239]:
+                    - generic [ref=f3e240]: Recommended
+                - 'link "The Fifth Avenue Hotel Photograph: The Fifth Avenue Hotel" [ref=f3e245] [cursor=pointer]':
+                  - /url: /newyork/hotels/the-fifth-avenue-hotel
+                  - img "The Fifth Avenue Hotel" [ref=f3e247]
+                  - generic [ref=f3e248]: "Photograph: The Fifth Avenue Hotel"
+                - generic [ref=f3e252]:
+                  - paragraph [ref=f3e253]: The Fifth Avenue Hotel is a boutique masterpiece where every detail, from the silky pleated corridor walls to the hidden reading nooks, has been meticulously curated. Housed within a 19th-century mansion in the heart of NoMad, the hotel features a design scheme by Martin Brudnizki that draws inspiration from global travels and French romanticism. The result is a cabinet of curiosities on a grand scale, filled with richly toned colors, exquisite materials, and palm-filled parlors.
+                  - paragraph [ref=f3e254]: The accommodations range from well-appointed queen rooms to sprawling signature suites, all merging historic character with high-tech convenience. Even standard rooms feature luxury amenities like Dyson hair dryers and plush bedding, while suites offer expansive living spaces and dressing tables. Guests enjoy a seamless five-star experience powered by in-room tablets that control the environment and a 24/7 butler service. This service is a standout highlight, offering a warm welcome drink upon arrival and a nightly “martini hour” where a perfectly shaken or stirred cocktail is delivered directly to your door.
+                  - paragraph [ref=f3e255]: Dining at the hotel is anchored by the exceptional Café Carmellini, where award-winning chef Andrew Carmellini blends European techniques with New York flair. For a more intimate vibe, the guests-only (until 5pm, when it opens to the public) Portrait Bar serves as a sophisticated retreat for evening cocktails. While the hotel offers a fully equipped gym and partnerships with premier fitness studios like SoulCycle and Barry’s, the real draw is the atmosphere of effortless glamour.
+                  - paragraph [ref=f3e256]:
+                    - generic [ref=f3e257]:
+                      - strong [ref=f3e258]: "Time Out tip:"
+                      - text: Its central location puts guests near Madison Square Park and the Empire State Building, with easy subway access to the charm of the West Village or the greenery of Central Park.
+                  - paragraph [ref=f3e259]:
+                    - generic [ref=f3e260]:
+                      - strong [ref=f3e261]: "Address:"
+                      - text: 1 West 28th Street, New York, NY 10001
+                    - generic [ref=f3e262]:
+                      - strong [ref=f3e263]: "Price per night:"
+                      - text: starting from $720 per night
+                    - generic [ref=f3e264]:
+                      - strong [ref=f3e265]: "Closest transport:"
+                      - text: 34th Street - Herald Square
+                  - paragraph [ref=f3e266]:
+                    - strong [ref=f3e268]:
+                      - text: 📍 Discover the
+                      - link "best luxury hotels in NYC" [ref=f3e269] [cursor=pointer]:
+                        - /url: https://www.timeout.com/newyork/hotels/best-luxury-hotels-in-nyc
+                - generic [ref=f3e271]:
+                  - link [ref=f3e274] [cursor=pointer]:
+                    - /url: https://www.timeout.com/profile/megan-murray
+                    - img "Megan Murray" [ref=f3e276]
+                  - generic [ref=f3e277]:
+                    - link "Megan Murray" [ref=f3e280] [cursor=pointer]:
+                      - /url: https://www.timeout.com/profile/megan-murray
+                    - generic [ref=f3e281]: Local expert, Hamburg
+                - generic [ref=f3e282]:
+                  - link "Read review" [ref=f3e284] [cursor=pointer]:
+                    - /url: /newyork/hotels/the-fifth-avenue-hotel
+                  - link "Check prices" [ref=f3e286] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/us/the-fifth-avenue-new-york.en-gb.html?aid=336004&label=venue-listing
+              - generic [ref=f3e289]:
+                - generic [ref=f3e290]:
+                  - paragraph [ref=f3e291]: Been there, done that? Think again, my friend.
+                  - generic [ref=f3e292]: Sign up to our newsletter to enjoy New York without spending a thing (as well as options when you're feeling flush).
+                - generic [ref=f3e293]:
+                  - generic [ref=f3e294]:
+                    - generic [ref=f3e295]:
+                      - generic [ref=f3e296]: Email address
+                      - textbox "Email address" [ref=f3e297]
+                    - button "Subscribe" [ref=f3e300] [cursor=pointer]
+                  - paragraph [ref=f3e302]:
+                    - text: By entering your email address you agree to our
+                    - link "Terms of Use" [ref=f3e303] [cursor=pointer]:
+                      - /url: https://www.timeout.com/terms-of-use
+                    - text: and
+                    - link "Privacy Policy" [ref=f3e304] [cursor=pointer]:
+                      - /url: https://www.timeout.com/privacy-notice
+                    - text: and consent to receive emails from Time Out about news, events, offers and partner promotions.
+            - article [ref=f3e305]:
+              - generic [ref=f3e306]:
+                - link [ref=f3e308] [cursor=pointer]:
+                  - /url: /newyork/hotels/the-william-vale-1
+                  - heading "2. The William Vale" [level=3] [ref=f3e309]
+                - list [ref=f3e312]:
+                  - listitem [ref=f3e313]:
+                    - generic [ref=f3e314]: Hotels
+                  - listitem [ref=f3e315]:
+                    - generic [ref=f3e316]: Boutique hotels
+                  - listitem [ref=f3e317]:
+                    - generic [ref=f3e318]: Williamsburg
+                  - listitem [ref=f3e319]:
+                    - generic [ref=f3e320]:
+                      - generic [ref=f3e321]: $
+                      - generic [ref=f3e322]: $
+                      - generic [ref=f3e323]: $
+                      - generic [ref=f3e324]: $
+                      - generic [ref=f3e325]: price 4 of 4
+                  - listitem [ref=f3e326]:
+                    - generic [ref=f3e327]: 5 out of 5 stars
+                  - listitem [ref=f3e339]:
+                    - generic [ref=f3e340]: Recommended
+                - 'link "The William Vale Photograph: The William Vale" [ref=f3e345] [cursor=pointer]':
+                  - /url: /newyork/hotels/the-william-vale-1
+                  - img "The William Vale" [ref=f3e347]
+                  - generic [ref=f3e348]: "Photograph: The William Vale"
+                - generic [ref=f3e352]:
+                  - paragraph [ref=f3e353]: The William Vale is effortlessly cool. Opened back in 2016, this five-star tower rises 23 floors over Brooklyn’s Williamsburg–Greenpoint border and looks more like something from Tokyo or Seoul than a typical New York hotel. With 183 guestrooms, a rooftop pool, a gym, three restaurants, and incredible skyline views, it feels like an urban resort dropped in the middle of one of the city’s coolest, most walkable neighborhoods.
+                  - paragraph [ref=f3e354]: "Rooms here are a world away from Manhattan’s cramped offerings: every single one has a balcony, and higher-end categories throw in extras like hot tubs or private decks. Interiors are crisp and modern, all clean lines and bold architecture that fits right in with the neighborhood. The Vale Pool is a particular standout—not just for its skyline views but also for its barrel saunas and hot tubs. Service is warm and personal, with staff quick to learn names and keep things moving smoothly despite the crowds that Westlight, the rooftop bar, inevitably draws (I mean, look at those views)."
+                  - paragraph [ref=f3e355]: Here, you’ve also got loads of brilliant places to eat within walking distance. Everything from Michelin-starred French-Japanese omakase at Restaurant Yuu to Meili, a beautiful, fiery Sichuan restaurant, KRU, which is a creative and classy Thai spot, and Cecily, a cozy dinner place serving eclectic small plates. However, there’s good food to be found within the hotel’s walls, too. Southern Italian restaurant Leuca delivers some of the best pizza and pasta in town, with generous portions and crowd-pleasers like lamb bolognese lumache. Little Fino serves breakfast, pastries, and small plates, while Westlight shakes cocktails and brags spectacular views of Manhattan.
+                  - paragraph [ref=f3e356]: The area buzzes with stylish young professionals, boutique shopping, and parks like McCarren and Bushwick Inlet, plus the subway and NYC Ferry are within easy reach. Bikes are available if you want to pedal like a local—which we’d highly recommend doing.
+                  - paragraph [ref=f3e357]:
+                    - strong [ref=f3e358]: "Time Out tip:"
+                    - text: To use these fabulous barrel saunas, you’ll need a Vale Pool reservation—book this at reception when you arrive.
+                  - paragraph [ref=f3e359]:
+                    - strong [ref=f3e360]: "Address:"
+                    - text: 111 N 12th St, Brooklyn, NY
+                    - strong [ref=f3e361]: "Price per night:"
+                    - text: Queen with Balcony rooms from $385; Vale Garden Residence room from $6,500
+                    - strong [ref=f3e362]: "Closest transport:"
+                    - text: Nassau Av (G line), Bedford Av (L line), plus NYC Ferry at North Williamsburg, LaGuardia Airport is a 20-minute drive
+                  - paragraph [ref=f3e363]:
+                    - strong [ref=f3e365]:
+                      - text: 📍 These are
+                      - link "Time Out’s favorite hotels in Brooklyn" [ref=f3e366] [cursor=pointer]:
+                        - /url: https://www.timeout.com/newyork/hotels/best-hotels-in-brooklyn
+                - generic [ref=f3e368]:
+                  - link [ref=f3e371] [cursor=pointer]:
+                    - /url: https://www.timeout.com/profile/brian-cicioni
+                    - img "Brian Cicioni" [ref=f3e373]
+                  - generic [ref=f3e374]:
+                    - link "Brian Cicioni" [ref=f3e377] [cursor=pointer]:
+                      - /url: https://www.timeout.com/profile/brian-cicioni
+                    - generic [ref=f3e378]: Contributing writer
+                - generic [ref=f3e379]:
+                  - link "Read review" [ref=f3e381] [cursor=pointer]:
+                    - /url: /newyork/hotels/the-william-vale-1
+                  - link "Check prices" [ref=f3e383] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/us/the-william-vale.en-gb.html?aid=336004&label=/newyork/hotels/best-hotels-in-nyc
+            - generic [ref=f3e384]: Advertising
+            - article [ref=f3e390]:
+              - generic [ref=f3e391]:
+                - link [ref=f3e393] [cursor=pointer]:
+                  - /url: /newyork/hotels/the-plaza
+                  - heading "3. The Plaza" [level=3] [ref=f3e394]
+                - list [ref=f3e397]:
+                  - listitem [ref=f3e398]:
+                    - generic [ref=f3e399]: Hotels
+                  - listitem [ref=f3e400]:
+                    - generic [ref=f3e401]: Spa hotels
+                  - listitem [ref=f3e402]:
+                    - generic [ref=f3e403]: Midtown West
+                  - listitem [ref=f3e404]:
+                    - generic [ref=f3e405]:
+                      - generic [ref=f3e406]: $
+                      - generic [ref=f3e407]: $
+                      - generic [ref=f3e408]: $
+                      - generic [ref=f3e409]: $
+                      - generic [ref=f3e410]: price 4 of 4
+                  - listitem [ref=f3e411]:
+                    - generic [ref=f3e412]: 5 out of 5 stars
+                  - listitem [ref=f3e424]:
+                    - generic [ref=f3e425]: Recommended
+                - 'link "The Plaza Photograph: Courtesy of The Plaza" [ref=f3e430] [cursor=pointer]':
+                  - /url: /newyork/hotels/the-plaza
+                  - img "The Plaza" [ref=f3e432]
+                  - generic [ref=f3e433]: "Photograph: Courtesy of The Plaza"
+                - generic [ref=f3e437]:
+                  - paragraph [ref=f3e438]:
+                    - text: At the Plaza Hotel, all that glitters is gold. Literally. From chair legs and mirror frames to the bathrooms of each guest room and suite, the details are gilded with 24-carat gold plating. It’s classy and opulent and reminiscent of another time—but then again, it’s the Plaza. The midtown hotel has been a New York icon, offering first-rate lodging since 1907. Throughout the years and after many renovations, the National Historic Landmark’s guest list has been a who’s who of celebs, from the Beatles to Christian Dior, and the backdrop for many cultural works like
+                    - emphasis [ref=f3e439]: The Great Gatsby
+                    - text: and
+                    - emphasis [ref=f3e440]: Eloise at the Plaza
+                    - text: .
+                  - paragraph [ref=f3e441]: As soon as you enter the main doors, the fresh scent of gardenias whisks you away from the city. A friendly staff member is waiting to greet you in the main lobby under a magnificent crystal chandelier. Take the elevators—with mirrored, gold-columned interior walls—to your floor and discover that even the hallways are decorated impeccably. A velvet bench next to an antique rotary phone and illuminated details within the crown molding paints quite a picture. Inside your chandelier-adorned room, find a bed enveloped in soft white linens, a terry-cloth robe and slippers to match. Then it’s time to unwind.
+                  - paragraph [ref=f3e442]: It’s no surprise that the Plaza offers immaculate accommodations, but it strays from its luxury comrades by also offering a flawless complete experience. Packed with culture, history, and a touch of glitz, even if you never left the hotel premises, you would not have missed a drop of the quintessential New York experience.
+                  - paragraph [ref=f3e443]:
+                    - strong [ref=f3e444]: "Time Out tip:"
+                    - text: "Though there is plenty to keep you busy within the Plaza's confines, cross 59th Street to find another New York landmark: Central Park. Explore the grounds, especially the nearby attractions of Wollman Rink for some ice-skating and the Central Park Zoo."
+                  - paragraph [ref=f3e445]:
+                    - strong [ref=f3e446]: "Address:"
+                    - text: 768 Fifth Avenue; New York, NY 10019
+                    - strong [ref=f3e447]: "Price per night:"
+                    - text: Prices start around $1,300 per night
+                    - strong [ref=f3e448]: "Closest transport link:"
+                    - text: N/R/W trains are available at the 5th Ave/59th Street Station, just a minute's walk from the hotel
+                  - paragraph [ref=f3e449]:
+                    - strong [ref=f3e451]:
+                      - text: 📍 Here’s our
+                      - link "collection of NYC’s most iconic hotels" [ref=f3e452] [cursor=pointer]:
+                        - /url: https://www.timeout.com/newyork/hotels/most-iconic-hotels-in-nyc
+                - generic [ref=f3e454]:
+                  - link [ref=f3e457] [cursor=pointer]:
+                    - /url: https://www.timeout.com/profile/rossilynne-skena-culgan
+                    - img "Rossilynne Skena Culgan" [ref=f3e459]
+                  - generic [ref=f3e460]:
+                    - link "Rossilynne Skena Culgan" [ref=f3e463] [cursor=pointer]:
+                      - /url: https://www.timeout.com/profile/rossilynne-skena-culgan
+                    - generic [ref=f3e464]: Contributor | Former Things to Do Editor
+                - generic [ref=f3e465]:
+                  - link "Read review" [ref=f3e467] [cursor=pointer]:
+                    - /url: /newyork/hotels/the-plaza
+                  - link "Check prices" [ref=f3e469] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/us/the-plaza.en-gb.html?aid=336004&label=venue-listing
+            - article [ref=f3e470]:
+              - generic [ref=f3e471]:
+                - link [ref=f3e473] [cursor=pointer]:
+                  - /url: /newyork/hotels/nine-orchard
+                  - heading "4. Nine Orchard" [level=3] [ref=f3e474]
+                - list [ref=f3e477]:
+                  - listitem [ref=f3e478]:
+                    - generic [ref=f3e479]: Hotels
+                  - listitem [ref=f3e480]:
+                    - generic [ref=f3e481]: Boutique hotels
+                  - listitem [ref=f3e482]:
+                    - generic [ref=f3e483]: Chinatown
+                  - listitem [ref=f3e484]:
+                    - generic [ref=f3e485]:
+                      - generic [ref=f3e486]: $
+                      - generic [ref=f3e487]: $
+                      - generic [ref=f3e488]: $
+                      - generic [ref=f3e489]: price 3 of 4
+                  - listitem [ref=f3e490]:
+                    - generic [ref=f3e491]: 5 out of 5 stars
+                  - listitem [ref=f3e503]:
+                    - generic [ref=f3e504]: Recommended
+                - 'link "Nine Orchard Photograph: Nine Orchard" [ref=f3e509] [cursor=pointer]':
+                  - /url: /newyork/hotels/nine-orchard
+                  - img "Nine Orchard" [ref=f3e511]
+                  - generic [ref=f3e512]: "Photograph: Nine Orchard"
+                - generic [ref=f3e516]:
+                  - paragraph [ref=f3e517]: Nine Orchard occupies the iconic Jarmulowsky Bank, a historic landmark meticulously restored using its original 1912 blueprints. The Neo-Renaissance architecture makes a striking first impression with vaulted ceilings, pink Tennessee marble floors, and Botticino marble walls. Situated at the top of Orchard Street—recently voted one of the coolest streets in the world—the hotel sits in the heart of the Lower East Side’s indie boutique scene. It is a genuine magnet for tastemakers and celebrities, offering a swish atmosphere that works just as well for a trendy cocktail as it does for an overnight stay.
+                  - paragraph [ref=f3e518]: While the public spaces lean into opulent maximalism, the 113 guest rooms offer a calm, mid-century modern retreat. Expect a muted palette, white walls, and graphic artworks that create a relaxed contrast to the grandeur downstairs. Studios and suites feature large windows with gorgeous city views and bathrooms outfitted with classic metro tiles and roomy walk-in showers.
+                  - paragraph [ref=f3e519]: The jewel of the property is the Swan Room, a decadent dining space located in the former bank teller hall, where you can find elevated bar snacks like caviar fries and wood-fired oysters. For a more laid-back bistro vibe, the Corner Bar serves globally inspired dishes and a must-try Harvest Negroni. Service is classically New York—efficient and no-nonsense at the desk, yet warm and engaging in the bars.
+                  - paragraph [ref=f3e520]:
+                    - strong [ref=f3e521]: "Time Out tip:"
+                    - text: There’s a seriously cozy perk in the form of exclusive access to a first-floor lounge featuring a real, roaring fireplace. Yes, really.
+                  - paragraph [ref=f3e522]:
+                    - generic [ref=f3e523]:
+                      - strong [ref=f3e524]: "Address:"
+                      - text: 9 Orchard St, New York, NY 10002, USA
+                    - generic [ref=f3e525]:
+                      - strong [ref=f3e526]: "Price per night:"
+                      - text: From $520 per night
+                    - generic [ref=f3e527]:
+                      - strong [ref=f3e528]: "Closest transport:"
+                      - text: East Broadway and Grand Street
+                  - paragraph [ref=f3e529]:
+                    - strong [ref=f3e531]:
+                      - text: 📍 Check out
+                      - link "our list of NYC’s best boutique hotels" [ref=f3e532] [cursor=pointer]:
+                        - /url: https://www.timeout.com/newyork/hotels/best-boutique-hotels-in-nyc
+                - generic [ref=f3e534]:
+                  - link [ref=f3e537] [cursor=pointer]:
+                    - /url: https://www.timeout.com/profile/megan-murray
+                    - img "Megan Murray" [ref=f3e539]
+                  - generic [ref=f3e540]:
+                    - link "Megan Murray" [ref=f3e543] [cursor=pointer]:
+                      - /url: https://www.timeout.com/profile/megan-murray
+                    - generic [ref=f3e544]: Local expert, Hamburg
+                - generic [ref=f3e545]:
+                  - link "Read review" [ref=f3e547] [cursor=pointer]:
+                    - /url: /newyork/hotels/nine-orchard
+                  - link "Check prices" [ref=f3e549] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/us/nine-orchard.en-gb.html?aid=336004
+            - generic [ref=f3e550]: Advertising
+            - article [ref=f3e556]:
+              - generic [ref=f3e557]:
+                - link [ref=f3e559] [cursor=pointer]:
+                  - /url: /newyork/hotels/equinox-hotel-new-york
+                  - heading "5. Equinox Hotel New York" [level=3] [ref=f3e560]
+                - list [ref=f3e563]:
+                  - listitem [ref=f3e564]:
+                    - generic [ref=f3e565]: Hotels
+                  - listitem [ref=f3e566]:
+                    - generic [ref=f3e567]: Midtown West
+                  - listitem [ref=f3e568]:
+                    - generic [ref=f3e569]: 5 out of 5 stars
+                  - listitem [ref=f3e581]:
+                    - generic [ref=f3e582]: Recommended
+                - 'link "Equinox Hotel New York Photograph: Booking.com" [ref=f3e587] [cursor=pointer]':
+                  - /url: /newyork/hotels/equinox-hotel-new-york
+                  - img "Equinox Hotel New York" [ref=f3e589]
+                  - generic [ref=f3e590]: "Photograph: Booking.com"
+                - generic [ref=f3e594]:
+                  - paragraph [ref=f3e595]: An all-encompassing luxury lifestyle experience, the Equinox Hotel is a standout oasis within Hudson Yards, the glittering mixed-use development on Manhattan’s far west side. Set within a handsome 92-story glass and limestone tower, the hotel offers a wellness experience that feels more like a high-end resort than a standard city stay. Physically removed from the typical Midtown hustle, it provides a true escape where guests can indulge in a 60,000-square-foot fitness club, a rooftop pool with sweeping Hudson River views, and a world-class spa offering everything from cryotherapy to specialized facials.
+                  - paragraph [ref=f3e596]: The rooms, designed by Rockwell Group, are a masterclass in grayscale monochromatic minimalism. While the aesthetic mirrors the brand’s fitness clubs, the environment is undeniably soothing and luxurious. Floor-to-ceiling windows frame the city or river, while the “sleep system” features blackout shades and extremely comfortable beds—interestingly styled with duvets folded to resemble sculpted abs. Thoughtful details abound, including a minibar stocked with health supplements and gym clothes for those who traveled light. The spacious marble bathrooms feature rainfall showers and Grown Alchemist products designed to invigorate in the morning and relax at night.
+                  - paragraph [ref=f3e597]: Dining centers around Electric Lemon, a buzzy 24th-floor restaurant with a fashionable terrace that feels more like Miami than New York. The menu offers upscale, seasonal American fare, ranging from crispy-skinned branzino to indulgent steak tartare.
+                  - paragraph [ref=f3e598]:
+                    - strong [ref=f3e599]: "Time Out tip:"
+                    - text: While the scene at Electric Lemon is enticingly glam (and the service across the hotel is exceptionally personable) the prices are high—guests may find more value at nearby spots like Ci Siamo.
+                  - paragraph [ref=f3e600]:
+                    - generic [ref=f3e601]:
+                      - strong [ref=f3e602]: "Address:"
+                      - text: 33 Hudson Yards, NY, NY 10001
+                    - generic [ref=f3e603]:
+                      - strong [ref=f3e604]: "Price per night:"
+                      - text: From about $790
+                    - generic [ref=f3e605]:
+                      - strong [ref=f3e606]: "Closest transport:"
+                      - text: For subway head to Hudson Yards for the 7 train.
+                  - paragraph [ref=f3e607]:
+                    - strong [ref=f3e609]:
+                      - text: 📍 These are all the
+                      - link "hotels with amazing pools" [ref=f3e610] [cursor=pointer]:
+                        - /url: https://www.timeout.com/newyork/hotels/best-nyc-hotels-with-pools
+                      - text: and
+                      - link "standout views in NYC" [ref=f3e611] [cursor=pointer]:
+                        - /url: https://www.timeout.com/newyork/hotels/best-hotels-with-breathtaking-views-in-nyc
+                - link "Shayne Benowitz" [ref=f3e617] [cursor=pointer]:
+                  - /url: https://www.timeout.com/profile/shayne-benowitz
+                - generic [ref=f3e618]:
+                  - link "Read review" [ref=f3e620] [cursor=pointer]:
+                    - /url: /newyork/hotels/equinox-hotel-new-york
+                  - link "Check prices" [ref=f3e622] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/us/equinox-hudson-yards.en-gb.html?aid=336004&label=venue-listing
+            - article [ref=f3e625]:
+              - generic [ref=f3e626]:
+                - link [ref=f3e628] [cursor=pointer]:
+                  - /url: /newyork/hotels/the-ned-nomad
+                  - heading "6. The Ned NoMad" [level=3] [ref=f3e629]
+                - list [ref=f3e632]:
+                  - listitem [ref=f3e633]:
+                    - generic [ref=f3e634]: Hotels
+                  - listitem [ref=f3e635]:
+                    - generic [ref=f3e636]: Boutique hotels
+                  - listitem [ref=f3e637]:
+                    - generic [ref=f3e638]: Flatiron
+                  - listitem [ref=f3e639]:
+                    - generic [ref=f3e640]:
+                      - generic [ref=f3e641]: $
+                      - generic [ref=f3e642]: $
+                      - generic [ref=f3e643]: $
+                      - generic [ref=f3e644]: price 3 of 4
+                  - listitem [ref=f3e645]:
+                    - generic [ref=f3e646]: 4 out of 5 stars
+                  - listitem [ref=f3e659]:
+                    - generic [ref=f3e660]: Recommended
+                - 'link "The Ned NoMad Photograph: The Ned NoMad" [ref=f3e665] [cursor=pointer]':
+                  - /url: /newyork/hotels/the-ned-nomad
+                  - img "The Ned NoMad" [ref=f3e667]
+                  - generic [ref=f3e668]: "Photograph: The Ned NoMad"
+                - generic [ref=f3e672]:
+                  - paragraph [ref=f3e673]: "If you’re familiar with the original London outpost, you’ll recognize The Ned’s signature blend of decadent design and effortless hosting. In Manhattan, this formula creates a hotel that is as much about socializing as it is about sleeping. It’s located in the vibrant NoMad district, the hotel sits in a “best of both worlds” location: tourist essentials like the Empire State Building and Madison Square Park are within walking distance, while the late-night energy of Downtown is just a short hop away. The Beaux-Arts building serves as a glamorous, creative hub where guests gain coveted access to members-only spaces, including the whimsically muraled Ned’s Club Downstairs."
+                  - paragraph [ref=f3e674]: The accommodations range from compact crash pads to warehouse-style studios, all featuring artistic flourishes like vintage writing desks and painter’s screens. In the larger rooms, freestanding baths and walk-in showers come stocked with generous Soho House Cowshed products. While the decor is bold—occasionally featuring intense elements like dark red velvet dividers—the overall feel is one of high-end comfort.
+                  - paragraph [ref=f3e675]: Dining is the heart of the experience here. You can enjoy crowd-pleasing Italian at Cecconi’s, upscale grilled dishes in The Dining Room, or a buzzy mezzanine atmosphere at Little Ned.
+                  - paragraph [ref=f3e676]:
+                    - strong [ref=f3e677]: "Time Out tip:"
+                    - text: The hotel truly shines during its “Negroni Hour” (which is actually from 3-5pm) and live music performances in the Atrium.
+                  - paragraph [ref=f3e678]:
+                    - strong [ref=f3e679]: "Address:"
+                    - generic [ref=f3e680]: 1170 Broadway, New York, NY 10001, USA
+                    - strong [ref=f3e681]: "Price per night:"
+                    - generic [ref=f3e682]: starting from $500 per night
+                    - strong [ref=f3e683]: "Closest transport:"
+                    - text: 28th Street (6 train) and 33rd Street-Broadway (N, R, W trains).
+                - generic [ref=f3e685]:
+                  - link [ref=f3e688] [cursor=pointer]:
+                    - /url: https://www.timeout.com/profile/megan-murray
+                    - img "Megan Murray" [ref=f3e690]
+                  - generic [ref=f3e691]:
+                    - link "Megan Murray" [ref=f3e694] [cursor=pointer]:
+                      - /url: https://www.timeout.com/profile/megan-murray
+                    - generic [ref=f3e695]: Local expert, Hamburg
+                - generic [ref=f3e696]:
+                  - link "Read review" [ref=f3e698] [cursor=pointer]:
+                    - /url: /newyork/hotels/the-ned-nomad
+                  - link "Check prices" [ref=f3e700] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/us/the-ned-nomad.en-gb.html?aid=336004&label=/newyork/hotels/best-hotels-in-nyc
+            - generic [ref=f3e701]: Advertising
+            - article [ref=f3e707]:
+              - generic [ref=f3e708]:
+                - link [ref=f3e710] [cursor=pointer]:
+                  - /url: /newyork/hotels/the-knickerbocker
+                  - heading "7. The Knickerbocker" [level=3] [ref=f3e711]
+                - list [ref=f3e714]:
+                  - listitem [ref=f3e715]:
+                    - generic [ref=f3e716]: Hotels
+                  - listitem [ref=f3e717]:
+                    - generic [ref=f3e718]: Boutique hotels
+                  - listitem [ref=f3e719]:
+                    - generic [ref=f3e720]: Midtown West
+                  - listitem [ref=f3e721]:
+                    - generic [ref=f3e722]:
+                      - generic [ref=f3e723]: $
+                      - generic [ref=f3e724]: $
+                      - generic [ref=f3e725]: $
+                      - generic [ref=f3e726]: price 3 of 4
+                  - listitem [ref=f3e727]:
+                    - generic [ref=f3e728]: 5 out of 5 stars
+                  - listitem [ref=f3e740]:
+                    - generic [ref=f3e741]: Recommended
+                - 'link "The Knickerbocker Photograph: The Knickerbocker, NYC" [ref=f3e746] [cursor=pointer]':
+                  - /url: /newyork/hotels/the-knickerbocker
+                  - img "The Knickerbocker" [ref=f3e748]
+                  - generic [ref=f3e749]: "Photograph: The Knickerbocker, NYC"
+                - generic [ref=f3e753]:
+                  - paragraph [ref=f3e754]: Times Square may be one of New York’s flashiest, noisiest neighborhoods, but The Knickerbocker proves you can still find peace and five-star luxury in the heart of it all. This landmark hotel—where the dry martini was (rumored to have been) born—delivers understated glamor with soundproofed rooms, minimalist design, and some of the most comfortable beds in the city. Step outside and you’re in the thick of Midtown, yet inside it feels pleasingly calm.
+                  - paragraph [ref=f3e755]: "Rooms are spacious, bright, and elegantly neutral, blending warm wood, leather, and stone with soaring ceilings and oversized windows. The real standout, though, is the bed: Euro-top mattresses, Egyptian cotton sheets, and down pillows make for a dreamy night’s sleep–I can’t remember a time when I felt quite so rested. Standard rooms start with Kings and Doubles, and the Martini Suite includes an in-room martini kit—a nod to the hotel’s heritage."
+                  - paragraph [ref=f3e756]: Dining options are equally as impressive. Charlie Palmer Steak IV anchors the food scene, from 24-hour room service to hearty breakfasts and the signature Knick Burger. For history with a twist, head to The Martini Lounge for tableside martinis and caviar, or enjoy cocktails and skyline views at St. Cloud Rooftop. Service throughout the hotel is polished yet warm, from early check-in assistance to turndown touches that transform your room into “night mode”.
+                  - paragraph [ref=f3e757]: Then there’s the location, which can only really be described as unbeatable. You’re practically a New York minute away from Broadway, Bryant Park and Grand Central, so this is a prime place to stay if you’re visiting New York for the first time.
+                  - paragraph [ref=f3e758]:
+                    - strong [ref=f3e759]: "Time Out tip:"
+                    - text: Even if you’re not typically a martini fan, there’s something ridiculously glamorous about the Martini Service. However, one of Time Out New York’s favorite bars,
+                    - link "Nothing Really Matters" [ref=f3e760] [cursor=pointer]:
+                      - /url: https://www.timeout.com/newyork/bars/nothing-really-matters
+                    - text: ", is a 10 minute stroll down the street."
+                  - paragraph [ref=f3e761]:
+                    - strong [ref=f3e762]: "Address:"
+                    - text: 6 Times Sq, New York, NY 10036
+                    - strong [ref=f3e763]: "Price:"
+                    - text: From $329 per night
+                    - strong [ref=f3e764]: "Closest transport:"
+                    - text: N, Q, R, W, 1, 2, 3, 7 trains at 42nd Street-Times Square; M, D, F, B trains at 42nd Street-Bryant Park; Grand Central Station is a ten-minute walk
+                - generic [ref=f3e766]:
+                  - link [ref=f3e769] [cursor=pointer]:
+                    - /url: https://www.timeout.com/profile/kaitlyn-rosati
+                    - img "Kaitlyn Rosati" [ref=f3e771]
+                  - generic [ref=f3e772]:
+                    - link "Kaitlyn Rosati" [ref=f3e775] [cursor=pointer]:
+                      - /url: https://www.timeout.com/profile/kaitlyn-rosati
+                    - generic [ref=f3e776]: USA contributor
+                - generic [ref=f3e777]:
+                  - link "Read review" [ref=f3e779] [cursor=pointer]:
+                    - /url: /newyork/hotels/the-knickerbocker
+                  - link "Check prices" [ref=f3e781] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/us/the-knickerbocker.en-gb.html?aid=336004&label=/newyork/hotels/best-hotels-in-nyc
+            - article [ref=f3e782]:
+              - generic [ref=f3e783]:
+                - link [ref=f3e785] [cursor=pointer]:
+                  - /url: /newyork/hotels/ace-hotel-brooklyn
+                  - heading "8. Ace Hotel Brooklyn" [level=3] [ref=f3e786]
+                - list [ref=f3e789]:
+                  - listitem [ref=f3e790]:
+                    - generic [ref=f3e791]: Hotels
+                  - listitem [ref=f3e792]:
+                    - generic [ref=f3e793]: Boerum Hill
+                  - listitem [ref=f3e794]:
+                    - generic [ref=f3e795]: 4 out of 5 stars
+                  - listitem [ref=f3e808]:
+                    - generic [ref=f3e809]: Recommended
+                - 'link "Ace Hotel Brooklyn Photograph: Ace Hotel Brooklyn" [ref=f3e814] [cursor=pointer]':
+                  - /url: /newyork/hotels/ace-hotel-brooklyn
+                  - img "Ace Hotel Brooklyn" [ref=f3e816]
+                  - generic [ref=f3e817]: "Photograph: Ace Hotel Brooklyn"
+                - generic [ref=f3e821]:
+                  - paragraph [ref=f3e822]: Ace is a whole vibe—a laid-back, industrial aesthetic rooted in a community feel that favors chill over grand dame luxury. Situated on the edge of Downtown Brooklyn in the charming neighborhood of Boerum Hill, the Ace Hotel Brooklyn offers a massive ground floor designed for laptop lounging or grabbing drinks with friends. The location is a dream for those wanting to explore tree-lined streets and brownstones, with the Brooklyn Heights Promenade and iconic Kings Theatre just a short stroll away.
+                  - paragraph [ref=f3e823]: The hotel’s 287 rooms range from cozy queens to expansive lofts, all featuring a uniform mid-century design with warm woods and pea-green leather sofas. Massive Crittall-style windows are a staple, and, if you book correctly, welcome stunning skyline views. Every room is pet-friendly and feels wonderfully curated with locally sourced vintage items and original artwork. While the atmosphere leans more toward “work-hard-play-hard” than spa-like relaxation, the facilities—including a state-of-the-art gym and a full program of music nights and film screenings—make the place feel energetic
+                  - paragraph [ref=f3e824]: Lele’s Roman serves a trendy, authentic Italian menu all day, while Sushi Koju offers a high-end omakase experience for something special. The service is standout; the front desk team offers genuine smiles and easy banter, providing local recommendations that make you feel like a regular rather than a tourist.
+                  - paragraph [ref=f3e825]:
+                    - strong [ref=f3e826]: "Time Out tip:"
+                    - text: Check out what’s coming up at the hotel’s
+                    - link "Lobby Nights" [ref=f3e827] [cursor=pointer]:
+                      - /url: https://acehotel.com/brooklyn/goings-on/
+                    - text: .
+                  - paragraph [ref=f3e828]:
+                    - generic [ref=f3e829]:
+                      - strong [ref=f3e830]: "Address:"
+                      - text: 252 Schermerhorn Street, Brooklyn, NY 11217
+                    - generic [ref=f3e831]:
+                      - strong [ref=f3e832]: "Price per night:"
+                      - text: starting from $200 per night
+                    - generic [ref=f3e833]:
+                      - strong [ref=f3e834]: "Closest transport:"
+                      - text: Hoyt–Schermerhorn Streets station
+                - generic [ref=f3e836]:
+                  - link [ref=f3e839] [cursor=pointer]:
+                    - /url: https://www.timeout.com/profile/megan-murray
+                    - img "Megan Murray" [ref=f3e841]
+                  - generic [ref=f3e842]:
+                    - link "Megan Murray" [ref=f3e845] [cursor=pointer]:
+                      - /url: https://www.timeout.com/profile/megan-murray
+                    - generic [ref=f3e846]: Local expert, Hamburg
+                - generic [ref=f3e847]:
+                  - link "Read review" [ref=f3e849] [cursor=pointer]:
+                    - /url: /newyork/hotels/ace-hotel-brooklyn
+                  - link "Check prices" [ref=f3e851] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/us/ace-new-york.en-gb.html?aid=336004&label=/newyork/hotels/best-hotels-in-nyc
+            - generic [ref=f3e852]: Advertising
+            - article [ref=f3e858]:
+              - generic [ref=f3e859]:
+                - link [ref=f3e861] [cursor=pointer]:
+                  - /url: /newyork/hotels/hotel-chelsea-2
+                  - heading "9. The Hotel Chelsea" [level=3] [ref=f3e862]
+                - list [ref=f3e865]:
+                  - listitem [ref=f3e866]:
+                    - generic [ref=f3e867]: Hotels
+                  - listitem [ref=f3e868]:
+                    - generic [ref=f3e869]: Boutique hotels
+                  - listitem [ref=f3e870]:
+                    - generic [ref=f3e871]: Chelsea
+                  - listitem [ref=f3e872]:
+                    - generic [ref=f3e873]: 5 out of 5 stars
+                  - listitem [ref=f3e885]:
+                    - generic [ref=f3e886]: Recommended
+                - 'link "The Hotel Chelsea Photograph: Annie Schlechter | Hotel Chelsea Lobby Bar" [ref=f3e891] [cursor=pointer]':
+                  - /url: /newyork/hotels/hotel-chelsea-2
+                  - img "The Hotel Chelsea" [ref=f3e893]
+                  - generic [ref=f3e894]: "Photograph: Annie Schlechter | Hotel Chelsea Lobby Bar"
+                - generic [ref=f3e898]:
+                  - paragraph [ref=f3e899]: Hotels don’t come with much more cultural cache than the Chelsea Hotel (its new owners will insist you call it The Hotel Chelsea, but we’re pretty sure that’ll never stick). From Leonard Cohen and Patti Smith to Dylan Thomas, Iggy Pop and Stonewall icon Stormé Delarverie, the majestic red brick building—with its French Quarter style balustrades and legendary neon sign—has been home to a hilariously lengthy list of truly inspirational artists, renegades and creatives. Taylor Swift also has a song about it.
+                  - paragraph [ref=f3e900]: Finally open to the public after a decade or so of legal wrangling and redevelopment, the 155-room hotel has certainly been given a lick of fresh paint, but the dreamy, pleasantly ragged apartment-building style air remains. Like Los Angeles’ Chateau Marmont before it, it feels upkept rather than updated; there are wooden floors throughout, ornate brass fixtures, and suites feel lived-in and homely, with mismatched furniture; velvet sofas, comfy cushions, leopard-print chairs and antique writing desks. There are other sweet touches too, such as monogrammed sheets, robes, and slippers.
+                  - paragraph [ref=f3e901]: The grand, original Victorian staircase is also worth wandering up, lined as it is with art, much of it supplied by one-time residents. There are a few completely new touches—a fabulously decadent but still fittingly offbeat spa on the top floor comes complete with a purple tile-lined steam room, treatment rooms with floor-to-ceiling windows and outdoor balconies with serious city views.
+                  - paragraph [ref=f3e902]:
+                    - strong [ref=f3e903]: "Time Out tip:"
+                    - text: If you’re dining at the hotel, eschew the new French bistro Café Chelsea in favor of the storied El Quijote, a camp-y Spanish spot on site that dates back to 1930 and was a favorite of Andy Warhol.
+                  - paragraph [ref=f3e904]:
+                    - generic [ref=f3e905]:
+                      - strong [ref=f3e906]: "Address:"
+                      - text: 222 W 23rd Street, 10011, New York
+                      - strong [ref=f3e907]: "Price:"
+                      - text: Starting at $527 per night
+                      - strong
+                    - generic [ref=f3e908]:
+                      - strong [ref=f3e909]: "Closest Transport Link:"
+                      - text: C, E to 23rd St
+                - generic [ref=f3e911]:
+                  - link [ref=f3e914] [cursor=pointer]:
+                    - /url: https://www.timeout.com/profile/leonie-cooper
+                    - img "Leonie Cooper" [ref=f3e916]
+                  - generic [ref=f3e917]:
+                    - link "Leonie Cooper" [ref=f3e920] [cursor=pointer]:
+                      - /url: https://www.timeout.com/profile/leonie-cooper
+                    - generic [ref=f3e921]: Food & Drink Editor, London
+                - generic [ref=f3e922]:
+                  - link "Read review" [ref=f3e924] [cursor=pointer]:
+                    - /url: /newyork/hotels/hotel-chelsea-2
+                  - link "Check prices" [ref=f3e926] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/us/the-chelsea-new-york.en-gb.html?aid=336004&label=best-hotels-in-nyc
+            - article [ref=f3e927]:
+              - generic [ref=f3e928]:
+                - link [ref=f3e930] [cursor=pointer]:
+                  - /url: /newyork/hotels/the-peninsula-new-york
+                  - heading "10. The Peninsula New York" [level=3] [ref=f3e931]
+                - list [ref=f3e934]:
+                  - listitem [ref=f3e935]:
+                    - generic [ref=f3e936]: Hotels
+                  - listitem [ref=f3e937]:
+                    - generic [ref=f3e938]: Midtown East
+                  - listitem [ref=f3e939]:
+                    - generic [ref=f3e940]:
+                      - generic [ref=f3e941]: $
+                      - generic [ref=f3e942]: $
+                      - generic [ref=f3e943]: $
+                      - generic [ref=f3e944]: $
+                      - generic [ref=f3e945]: price 4 of 4
+                  - listitem [ref=f3e946]:
+                    - generic [ref=f3e947]: 5 out of 5 stars
+                  - listitem [ref=f3e959]:
+                    - generic [ref=f3e960]: Recommended
+                - 'link "The Peninsula New York Photograph: Courtesy The Peninsula New York" [ref=f3e965] [cursor=pointer]':
+                  - /url: /newyork/hotels/the-peninsula-new-york
+                  - img "The Peninsula New York" [ref=f3e967]
+                  - generic [ref=f3e968]: "Photograph: Courtesy The Peninsula New York"
+                - generic [ref=f3e972]:
+                  - paragraph [ref=f3e973]: Sometimes when you’re planning a trip to NYC, you just want a classic New York experience. Well, The Peninsula New York is that hotel. That’s due, in large part, to a winning combination of its landmarked 1905 Beaux Arts building and a new state-of-the-art renovation.
+                  - paragraph [ref=f3e974]: This hotel is for travelers looking for an elevated experience in the center of NYC. It’s perfect for those looking for a homebase that feels more like a luxury apartment building than a bespoke boutique experience—as well as a location that offers extensive spa and wellness options. Thanks to its recent renovation, the suites have a new freshness and polish and provide a high level of comfort whether you have an in-tub television or not.
+                  - paragraph [ref=f3e975]: The indoor pool here is one you’ll remember for quite some time. It sits gleaming behind floor-to-ceiling windows which offer panoramic city views, and is unlike any pool I’ve ever seen in New York. Connected via a staircase to the hotel’s award-winning spa, I’d recommend booking in for a (delightfully firm) 60-minute signature massage with added aromatherapy.
+                  - paragraph [ref=f3e976]: The location? You can’t really beat it. The Peninsula sits on Fifth Avenue between Central Park and the Rockefeller Centre, feeling not just like it’s smack-dab in the middle of Midtown, but of the planet. MoMA is round the corner, but so are a long list of top Manhattan attractions.
+                  - paragraph [ref=f3e977]:
+                    - strong [ref=f3e978]: "Time Out tip:"
+                    - text: From November through March, you can rent a private outdoor igloo for an evening on the hotel’s rooftop.
+                  - paragraph [ref=f3e979]:
+                    - strong [ref=f3e980]: "Address:"
+                    - text: 700 Fifth Ave, New York, 10019
+                    - strong [ref=f3e981]: "Price:"
+                    - text: Starting at $1,700 per night
+                    - strong [ref=f3e982]: "Closest Transport:"
+                    - text: "Subway: F to 57th St"
+                - generic [ref=f3e984]:
+                  - link [ref=f3e987] [cursor=pointer]:
+                    - /url: https://www.timeout.com/profile/will-gleason
+                    - img "Will Gleason" [ref=f3e989]
+                  - generic [ref=f3e990]:
+                    - link "Will Gleason" [ref=f3e993] [cursor=pointer]:
+                      - /url: https://www.timeout.com/profile/will-gleason
+                    - generic [ref=f3e994]: Content Director, The Americas
+                - generic [ref=f3e995]:
+                  - link "Read review" [ref=f3e997] [cursor=pointer]:
+                    - /url: /newyork/hotels/the-peninsula-new-york
+                  - link "Check prices" [ref=f3e999] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/us/the-peninsula-new-york.html?aid=336004&label=best-hotels-in-nyc
+            - generic [ref=f3e1000]: Advertising
+            - article [ref=f3e1006]:
+              - generic [ref=f3e1007]:
+                - link [ref=f3e1009] [cursor=pointer]:
+                  - /url: /newyork/hotels/andaz-5th-avenue
+                  - heading "11. Andaz 5th Avenue" [level=3] [ref=f3e1010]
+                - list [ref=f3e1013]:
+                  - listitem [ref=f3e1014]:
+                    - generic [ref=f3e1015]: Hotels
+                  - listitem [ref=f3e1016]:
+                    - generic [ref=f3e1017]: Chain hotels
+                  - listitem [ref=f3e1018]:
+                    - generic [ref=f3e1019]: Midtown East
+                  - listitem [ref=f3e1020]:
+                    - generic [ref=f3e1021]:
+                      - generic [ref=f3e1022]: $
+                      - generic [ref=f3e1023]: $
+                      - generic [ref=f3e1024]: $
+                      - generic [ref=f3e1025]: $
+                      - generic [ref=f3e1026]: price 4 of 4
+                  - listitem [ref=f3e1027]:
+                    - generic [ref=f3e1028]: Recommended
+                - 'link "Andaz 5th Avenue Photograph: Booking.com" [ref=f3e1033] [cursor=pointer]':
+                  - /url: /newyork/hotels/andaz-5th-avenue
+                  - img "Andaz 5th Avenue" [ref=f3e1035]
+                  - generic [ref=f3e1036]: "Photograph: Booking.com"
+                - generic [ref=f3e1040]:
+                  - paragraph [ref=f3e1041]: Lined with high-end boutiques, Fifth Avenue offers a classy reprieve from the otherwise chaotic Midtown. But this historic strip isn’t just for frivolous shopping sprees; it’s anchored by cultural icons like the New York Public Library and wonderfully extravagant hotels like Andaz 5th Avenue. Established in 2010, the property adds to the street’s gilded luxury with loft-like rooms and modernist touches. Its central location is a premier find for those looking to upgrade their New York experience, placing guests just steps from Grand Central Terminal and the seasonal sparkle of Bryant Park.
+                  - paragraph [ref=f3e1042]: The hotel houses 184 rooms, including spacious suites equipped with kitchenettes and terraces. Staying in a One Bedroom Terrace Suite feels like inhabiting a mini modernist apartment in the sky, featuring twelve-foot ceilings and sleek, minimalist decor. Thoughtful touches abound, from a full-sized fridge stocked with complimentary snacks to a black porcelain footbath in the bathroom designed to soothe tired feet. While the terraces are “New York small,” they offer prime people-watching views of the crowds below. Even four-legged guests are catered to with dedicated beds and bowls, ensuring a welcoming stay for everyone.
+                  - paragraph [ref=f3e1043]: Beyond the rooms, the service and amenities maintain a sophisticated yet unconventional edge. The check-in process eschews traditional desks for a lounge-based approach with tablets, which—despite its “tech-bro” vibe—is efficient. For dining, The Bar Downstairs and Kitchen offers a moody, speakeasy vibe with dependable fare like chorizo scrambles and steak frites.
+                  - paragraph [ref=f3e1044]:
+                    - strong [ref=f3e1045]: "Time Out tip:"
+                    - text: Swing by the daily complimentary wine hour at 5pm.
+                  - paragraph [ref=f3e1046]:
+                    - strong [ref=f3e1047]: "Address:"
+                    - generic [ref=f3e1048]: 485 5th Ave, New York, NY 10017
+                    - strong [ref=f3e1049]: "Price per night:"
+                    - generic [ref=f3e1050]: Standard room rates begin at $553/night
+                    - strong [ref=f3e1051]: "Closest transport link:"
+                    - text: 4, 5, 6, 7, and S subway lines, the Metro-North Railroad and the Long Island Railroad at Grand Central 42nd Street; M, D, F, B trains at 42nd Street-Bryant Park; LaGuardia Airport is a 45-minute drive; JFK International Airport is an hour drive.
+                - generic [ref=f3e1052]:
+                  - link "Read more" [ref=f3e1054] [cursor=pointer]:
+                    - /url: /newyork/hotels/andaz-5th-avenue
+                  - link "Check prices" [ref=f3e1056] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/us/andaz-5th-avenue.en-us.html?aid=336004&label=venue-listing
+            - article [ref=f3e1057]:
+              - generic [ref=f3e1058]:
+                - link [ref=f3e1060] [cursor=pointer]:
+                  - /url: /newyork/hotels/the-ritz-carlton-new-york-nomad
+                  - heading "12. The Ritz-Carlton, New York NoMad" [level=3] [ref=f3e1061]
+                - list [ref=f3e1064]:
+                  - listitem [ref=f3e1065]:
+                    - generic [ref=f3e1066]: Hotels
+                  - listitem [ref=f3e1067]:
+                    - generic [ref=f3e1068]: Flatiron
+                  - listitem [ref=f3e1069]:
+                    - generic [ref=f3e1070]: Recommended
+                - 'link "The Ritz-Carlton, New York NoMad Photograph: Courtesy Ritz-Carlton Nomad" [ref=f3e1075] [cursor=pointer]':
+                  - /url: /newyork/hotels/the-ritz-carlton-new-york-nomad
+                  - img "The Ritz-Carlton, New York NoMad" [ref=f3e1077]
+                  - generic [ref=f3e1078]: "Photograph: Courtesy Ritz-Carlton Nomad"
+                - generic [ref=f3e1082]:
+                  - paragraph [ref=f3e1083]: The Ritz-Carlton, New York Nomad is a towering, 50-story beacon of luxury in the rapidly changing neighborhood just north of Madison Square Park. It offers gorgeously appointed rooms with stunning views, excellent dining options and the above-and-beyond hospitality that’s associated with the brand. It’s also, it should be noted, an entirely different vibe than NYC’s other Ritz-Carlton located on Central Park.
+                  - paragraph [ref=f3e1084]: "While that hotel conveys a sense of Old New York tradition, this newer offering strikes a lighter note with a heavy dose of contemporary glamor. Situated in the heart of Manhattan, it also has another big thing going for it: an unbeatable location not far from many downtown and midtown hot spots. It’s a great home base for travelers who want to experience the exciting cultural vibrancy of New York City."
+                  - paragraph [ref=f3e1085]:
+                    - generic [ref=f3e1086]: The 219 guestrooms and 31 suites at
+                    - text: The Ritz-Carlton, New York Nomad are spacious and filled with light thanks to oversized windows with jaw-dropping views from the Empire State Building down to the Statue of Liberty.
+                  - paragraph [ref=f3e1087]: The hotel’s culinary offerings by Michelin-starred chef José Andrés are also notable. The Lobby Lounge and Bar, located on the first floor, is a great spot to grab a pastry to start your day or a nightcap to end it. Zaytinya, also found on the ground floor, has a mezze menu inspired by Turkish, Greek and Lebanese cuisines that’s served in a room with pops of blue coloring inspired by the Mediterranean. Meanwhile, be sure to make a reservation at Nubeluz, the hotel’s sleek rooftop bar with panoramic views of the city. The experience of sipping a classic cocktail in the elevated throwback space is one to savor.
+                  - paragraph [ref=f3e1088]:
+                    - generic [ref=f3e1089]: Guests looking to keep up with their fitness or self-care routines are also in luck. The 6,800-square-foot signature Ritz-Carlton Spa and Fitness Center can be found on the lower level with eight treatment rooms as well as separate sauna and steam rooms.
+                    - strong [ref=f3e1090]: "Time Out Tip:"
+                    - text: Double check to see if your room provides access to the hotel’s Club Level with more city views and complimentary culinary offerings from José Andrés.
+                  - paragraph [ref=f3e1091]:
+                    - generic [ref=f3e1092]:
+                      - strong [ref=f3e1093]: "Address:"
+                      - text: 25 West 28th Street
+                      - strong [ref=f3e1094]: "Price:"
+                      - text: Starting at $1,400 per night
+                      - strong [ref=f3e1095]: "Closest Transport Link:"
+                      - text: RW to 28th Street or 1, 2 to 28th Street
+                - generic [ref=f3e1096]:
+                  - link "Read more" [ref=f3e1098] [cursor=pointer]:
+                    - /url: /newyork/hotels/the-ritz-carlton-new-york-nomad
+                  - link "Check prices" [ref=f3e1100] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/us/the-ritz-carlton-new-york-nomad.en-gb.html?aid=336004
+            - generic [ref=f3e1101]: Advertising
+            - article [ref=f3e1107]:
+              - generic [ref=f3e1108]:
+                - link [ref=f3e1110] [cursor=pointer]:
+                  - /url: /newyork/hotels/the-carlyle-a-rosewood-hotel-1
+                  - heading "13. The Carlyle, A Rosewood Hotel" [level=3] [ref=f3e1111]
+                - list [ref=f3e1114]:
+                  - listitem [ref=f3e1115]:
+                    - generic [ref=f3e1116]: Hotels
+                  - listitem [ref=f3e1117]:
+                    - generic [ref=f3e1118]: Lenox Hill
+                  - listitem [ref=f3e1119]:
+                    - generic [ref=f3e1120]: Recommended
+                - 'link "The Carlyle, A Rosewood Hotel Photograph: Courtesy Durston Saylor/Rosewood Carlyle Hotel" [ref=f3e1125] [cursor=pointer]':
+                  - /url: /newyork/hotels/the-carlyle-a-rosewood-hotel-1
+                  - img "The Carlyle, A Rosewood Hotel" [ref=f3e1127]
+                  - generic [ref=f3e1128]: "Photograph: Courtesy Durston Saylor/Rosewood Carlyle Hotel"
+                - generic [ref=f3e1132]:
+                  - paragraph [ref=f3e1133]: The Carlyle, A Rosewood Hotel, (its official name) has a prime location in the center of the elegant Upper East Side. Located a block from Central Park, its central tower can be seen throughout the neighborhood—as intrinsically a part of the upscale area as the flowers of Park Avenue.
+                  - paragraph [ref=f3e1134]: "A large part of what’s helped maintain this hospitality icon’s relevance has been its charming, idiosyncratic public venues: Bemelmans Bar, Café Carlyle and—more recently—Dowling’s at the Carlyle. During a recent stay, I was most looking forward to being able to drop in to experience these classic New York spots without having to step outside. With 192 rooms and suites, there is a wide array of options for a night here. We stayed in an Upper East Side Suite which had a separate sleeping area as well as a full kitchen—perfect for those interested in a longer stay. The minimal, Art Deco design felt both modern and timeless. Meanwhile, the full (but quite tiny) kitchen was a useful touch that made our time here feel more like a home away from home than a hotel stay—one of The Carlyle’s superpowers."
+                  - paragraph [ref=f3e1135]: Another big bonus of a night here is hopping into one of the historic gold-trimmed elevators and soaring up to your throwback suite. It’s a combination of uniqueness and universality that continues to make The Carlyle a five-star stay and a solid choice for both tourists looking to find a still thriving piece of old New York and locals that want a fun staycation—heavy on the live music and cocktails.
+                  - paragraph [ref=f3e1136]:
+                    - strong [ref=f3e1137]: "Time Out Tip:"
+                    - text: When you’re staying at the hotel, the front desk can assist with nightly reservations to Bemelmans.
+                  - paragraph [ref=f3e1138]:
+                    - strong [ref=f3e1139]: "Address:"
+                    - text: 35 East 76th Street, 10021, New York
+                    - strong [ref=f3e1140]: Price
+                    - text: ": From $1,250 per night"
+                    - strong [ref=f3e1141]: Closest Transport Link
+                    - text: ": 4, 5, 6 at 77th Street or 68th Street"
+                - generic [ref=f3e1142]:
+                  - link "Read more" [ref=f3e1144] [cursor=pointer]:
+                    - /url: /newyork/hotels/the-carlyle-a-rosewood-hotel-1
+                  - link "Check prices" [ref=f3e1146] [cursor=pointer]:
+                    - /url: https://prf.hn/l/0e9dlxl/
+            - article [ref=f3e1147]:
+              - generic [ref=f3e1148]:
+                - link [ref=f3e1150] [cursor=pointer]:
+                  - /url: /newyork/hotels/thompson-central-park-new-york
+                  - heading "14. Thompson Central Park New York" [level=3] [ref=f3e1151]
+                - list [ref=f3e1154]:
+                  - listitem [ref=f3e1155]:
+                    - generic [ref=f3e1156]: Hotels
+                  - listitem [ref=f3e1157]:
+                    - generic [ref=f3e1158]: Midtown West
+                  - listitem [ref=f3e1159]:
+                    - generic [ref=f3e1160]:
+                      - generic [ref=f3e1161]: $
+                      - generic [ref=f3e1162]: $
+                      - generic [ref=f3e1163]: $
+                      - generic [ref=f3e1164]: price 3 of 4
+                  - listitem [ref=f3e1165]:
+                    - generic [ref=f3e1166]: Recommended
+                - link "Thompson Central Park New York Courtesy of Thompson Central Park New York" [ref=f3e1171] [cursor=pointer]:
+                  - /url: /newyork/hotels/thompson-central-park-new-york
+                  - img "Thompson Central Park New York" [ref=f3e1173]
+                  - generic [ref=f3e1174]: Courtesy of Thompson Central Park New York
+                - generic [ref=f3e1178]:
+                  - paragraph [ref=f3e1179]: Taking over the iconic former Le Parker Meridien space on West 56th Street, the Thompson Central Park underwent a major mid-pandemic facelift by architect Thomas Juul-Hansen and designers Stonehill Taylor and officially opened in November 2021. The result is mid-century modern sleekness—this is a Thompson property, after all—throughout both the public spaces and private guestrooms.
+                  - paragraph [ref=f3e1180]:
+                    - generic [ref=f3e1181]:
+                      - text: "Soaring with 36-foot-high ceilings, the large-scale lobby features crushed-velvet sofas, contemporary artworks and colossal statement chandeliers, as well as two of the hotel’s stellar food-and-drink options: the jazzy all-day lounge Parker’s, which serves up live tunes, a solid Cosmo ($25) and New York-y plates like a Wagyu chopped cheese ($27) and a truffle-sauced ‘dirty water’ dog ($23); and patty ‘speakeasy’ Burger Joint, a Le Parker Meridien leftover that’s been serving one of"
+                      - link "the city’s most famed hamburgers" [ref=f3e1182] [cursor=pointer]:
+                        - /url: https://www.timeout.com/newyork/restaurants/best-burgers-nyc
+                      - text: for the past two decades. (The fine-dining restaurant
+                      - link "Indian Accent" [ref=f3e1183] [cursor=pointer]:
+                        - /url: https://www.timeout.com/newyork/restaurants/indian-accent-1
+                      - text: —which I awarded four stars when it debuted back in 2016—is also located right next door.)
+                  - paragraph [ref=f3e1184]: "The 587 guest quarters mirror the lobby’s sophistication, ranging from a refined though standard-sized double bed option to the substantially more spacious and sumptuous Thompson Suite. Unsurprisingly, the rooms’ swankiness increases the higher up you go: set between floors 26 and 33, the so-called Upper Stories abodes are a decidedly upgraded guest experience, one that I found completely worth it during my stay."
+                  - paragraph [ref=f3e1185]: Along with an expedited private check-in on the hotel’s third floor, the Upper Stories designation means you get priority access to the building’s on-property restaurants and residents-only gym but an exclusive lounge with free coffee, soft drinks and snacks (much-appreciated since the rooms don’t have much of a mini bar), large flatscreens and plenty of comfy seating.
+                  - paragraph [ref=f3e1186]:
+                    - strong [ref=f3e1187]: "Time Out tip:"
+                    - text: If you want to take advantage of that park proximity, the Thompson offers a Picnic in the Park package!
+                  - paragraph [ref=f3e1188]:
+                    - strong [ref=f3e1189]: Address
+                    - text: ": 119 West 56th Street, New York, 10019"
+                    - strong [ref=f3e1190]: Price
+                    - text: ": Starting at $939 per night"
+                    - strong [ref=f3e1191]: "Closest Transport Link:"
+                    - text: B, D, E at 7 Av; N, R, W at 5 Av/59 St; M at 5 Av/53 St
+                    - strong
+                - generic [ref=f3e1192]:
+                  - link "Read more" [ref=f3e1194] [cursor=pointer]:
+                    - /url: /newyork/hotels/thompson-central-park-new-york
+                  - link "Check prices" [ref=f3e1196] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/us/thompson-centralpark.en-gb.html?aid=336004&label=best-hotels-in-nyc
+            - generic [ref=f3e1197]: Advertising
+            - article [ref=f3e1203]:
+              - generic [ref=f3e1204]:
+                - link [ref=f3e1206] [cursor=pointer]:
+                  - /url: /newyork/hotels/loews-regency-hotel-new-york
+                  - heading "15. Loews Regency Hotel New York" [level=3] [ref=f3e1207]
+                - list [ref=f3e1210]:
+                  - listitem [ref=f3e1211]:
+                    - generic [ref=f3e1212]: Hotels
+                  - listitem [ref=f3e1213]:
+                    - generic [ref=f3e1214]: Chain hotels
+                  - listitem [ref=f3e1215]:
+                    - generic [ref=f3e1216]: Lenox Hill
+                  - listitem [ref=f3e1217]:
+                    - generic [ref=f3e1218]:
+                      - generic [ref=f3e1219]: $
+                      - generic [ref=f3e1220]: $
+                      - generic [ref=f3e1221]: $
+                      - generic [ref=f3e1222]: $
+                      - generic [ref=f3e1223]: price 4 of 4
+                  - listitem [ref=f3e1224]:
+                    - generic [ref=f3e1225]: Recommended
+                - 'link "Loews Regency Hotel New York Photograph: Loews Regency New York" [ref=f3e1230] [cursor=pointer]':
+                  - /url: /newyork/hotels/loews-regency-hotel-new-york
+                  - img "Loews Regency Hotel New York" [ref=f3e1232]
+                  - generic [ref=f3e1233]: "Photograph: Loews Regency New York"
+                - generic [ref=f3e1237]:
+                  - paragraph [ref=f3e1238]: This hotel is the embodiment of Upper East Side glamor, from the classy confidence other guests exude as they flit through the lobby to the wide black awning which stretches almost the width of Park Avenue. It opened way back in 1963 and, despite recent renovations, still allows drops of its Old New York style to bleed through. Popular with business travelers and shoppers alike, this hotel is perched near the boutiques of Madison and Fifth Avenue, and is just a five minute stroll from Central Park.
+                  - paragraph [ref=f3e1239]: By Manhattan standards, the rooms at this hotel are generous, ranging from decently sized 250-square-foot rooms up to massive 1,400-square-foot suites (all of which, by the way, are pet friendly). Oh, and many of them have bathroom-mirror televisions, so you can watch TV in the tub—if that’s your thing. The emphasis here isn’t on super sleek design, but instead on proper, classy high-end comfort, and it delivers.
+                  - paragraph [ref=f3e1240]: And downstairs, the same ethos is continued in the Regency Bar & Grill, where you’ll find white-tablecloth dining from breakfast through dinner, with a hearty weekend brunch offering thrown in. The tuna tartare with taro chips is popular, but my personal standout was the veal meatballs and pan-seared branzino. I’d also recommend skipping dessert here and instead heading to the adjoining Sant Ambroeus Coffee Bar, which brags exquisite Italian desserts–go for the marzipan-coated principessa cake.
+                  - paragraph [ref=f3e1241]: "Service is what you’d expect from a five-star spot: it will quickly become clear that most other guests are used to this kind of formality, but no matter your request, you’ll be met with efficiency and a cordial but unfailingly professional attitude."
+                  - paragraph [ref=f3e1242]: As for the facilities, they include a Julien Farel Restore Salon & Spa, which is a destination in itself for hair, nails, facials, and massages, plus a gym, steam rooms, and saunas. There’s no pool at Loews Regency, but the hotel offers a neat perk—complimentary pickleball paddles and balls for use in nearby Central Park. With eight subway lines nearby, you’re also brilliantly connected to the rest of the city, though the Roosevelt Island Tram offers a unique local adventure.
+                  - paragraph [ref=f3e1243]:
+                    - strong [ref=f3e1244]: "Time Out tip:"
+                    - text: Ask the concierge about their private art tours—the hotel has been known to host small-groups on exclusive looks at The Met’s art collection, led by proper Museum educators, allowing you entry to avoid the crowds.
+                  - paragraph [ref=f3e1245]:
+                    - strong [ref=f3e1246]: "Address:"
+                    - text: 540 Park Ave, New York, NY, 10065
+                    - strong [ref=f3e1247]: "Price per night:"
+                    - text: Superior King rooms from $575; Park Avenue Two-Bedroom Suite from $2,400
+                    - strong [ref=f3e1248]: "Closest transport:"
+                    - text: Lexington Ave/59th St subway station (N, R, W, 4, 5, 6 lines), LaGuardia Airport is a 25-minute drive
+                - generic [ref=f3e1249]:
+                  - link "Read more" [ref=f3e1251] [cursor=pointer]:
+                    - /url: /newyork/hotels/loews-regency-hotel-new-york
+                  - link "Check prices" [ref=f3e1253] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/us/loews-regency.en-gb.html?aid=336004&label=best-hotels-in-nyc
+            - article [ref=f3e1254]:
+              - generic [ref=f3e1255]:
+                - link [ref=f3e1257] [cursor=pointer]:
+                  - /url: /newyork/hotels/the-wall-street-hotel
+                  - heading "16. The Wall Street Hotel" [level=3] [ref=f3e1258]
+                - list [ref=f3e1261]:
+                  - listitem [ref=f3e1262]:
+                    - generic [ref=f3e1263]: Hotels
+                  - listitem [ref=f3e1264]:
+                    - generic [ref=f3e1265]: Financial District
+                  - listitem [ref=f3e1266]:
+                    - generic [ref=f3e1267]:
+                      - generic [ref=f3e1268]: $
+                      - generic [ref=f3e1269]: $
+                      - generic [ref=f3e1270]: $
+                      - generic [ref=f3e1271]: $
+                      - generic [ref=f3e1272]: price 4 of 4
+                  - listitem [ref=f3e1273]:
+                    - generic [ref=f3e1274]: Recommended
+                - link "The Wall Street Hotel Courtesy of the Wall Street Hotel" [ref=f3e1279] [cursor=pointer]:
+                  - /url: /newyork/hotels/the-wall-street-hotel
+                  - img "The Wall Street Hotel" [ref=f3e1281]
+                  - generic [ref=f3e1282]: Courtesy of the Wall Street Hotel
+                - generic [ref=f3e1286]:
+                  - paragraph [ref=f3e1287]:
+                    - generic [ref=f3e1288]: This historic space was transformed and opened as a hotel in 2022 by the Paspaleys, the family behind Australia’s oldest pearling company. Nods to that nacre past beautifully abound throughout the warmly luxurious property, from the
+                    - text: rare pearl jewelry showcased in the lobby to the scallop-edged barstools in the lounge to the oyster-inspired watercolors that hang above the Frette-sheeted beds in each guest room.
+                  - paragraph [ref=f3e1289]:
+                    - generic [ref=f3e1290]: Soothing soft blues and seafoam greens wash over the spacious staterooms—ranging in size from a comfortable 300-square-foot king to the expansive 800-square-foot
+                    - text: Otto Suite, with connecting rooms available—a far more elegant maritime reference than your usual swashbuckling ropes and nautical stripes.
+                  - paragraph [ref=f3e1291]:
+                    - generic [ref=f3e1292]: The plush velvet pillows, flickering fireplace, thoughtfully appointed minibar (along with treats, it’s stocked with
+                    - text: custom-designed oyster-inspired gifts for sale,
+                    - generic [ref=f3e1293]:
+                      - text: "with proceeds benefiting the Billion Oyster Project’s ongoing efforts to restore the nearby New York Harbor) and deep soaking tub (complete with Le Labo products and heated bathroom floors) beckon you to turn on that OOTO message. But the Carnegie Suite I stayed in did also conveniently feature a writing desk, in case you choose to answer that work email during your stay. Not me, though: I was too busy diving into the depths of the raw-bar menu at the in-building brasserie"
+                      - link "La Marchande" [ref=f3e1294] [cursor=pointer]:
+                        - /url: https://www.timeout.com/newyork/news/another-splashy-new-french-restaurant-just-opened-in-manhattan-061722
+                      - text: ", from Michelin star-awarded chef John Fraser."
+                  - paragraph [ref=f3e1295]: For a stay that glamorously honors the New York neighborhood around it while feeling like a transportive respite set far from the economic hustle and bustle of FiDi, let the comforts of the Wall Street Hotel wash over you.
+                  - paragraph [ref=f3e1296]:
+                    - strong [ref=f3e1297]: "Time Out tip:"
+                    - text: Having sleep troubles? The teched-out Great Pearl Suite on the 14th floor offers a personalized, restorative sleep experience featuring the Bryte Balance mattress.
+                  - paragraph [ref=f3e1298]:
+                    - strong [ref=f3e1299]: "Address:"
+                    - text: 88 Wall Street, 10005, New York
+                    - strong [ref=f3e1300]: "Price:"
+                    - text: Starting at $535 per night
+                    - strong [ref=f3e1301]: "Closest Transport:"
+                    - text: "Subway: 1 to Rector St; 2, 3 to Wall St; 4, 5 to Wall St; J, Z to Broad St"
+                - generic [ref=f3e1302]:
+                  - link "Read more" [ref=f3e1304] [cursor=pointer]:
+                    - /url: /newyork/hotels/the-wall-street-hotel
+                  - link "Check prices" [ref=f3e1306] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/us/the-wall-street.en-gb.html?aid=336004&label=best-hotels-in-nyc
+            - generic [ref=f3e1307]: Advertising
+            - article [ref=f3e1313]:
+              - generic [ref=f3e1314]:
+                - link [ref=f3e1316] [cursor=pointer]:
+                  - /url: /newyork/hotels/1-hotel-brooklyn-bridge
+                  - heading "17. 1 Hotel Brooklyn Bridge" [level=3] [ref=f3e1317]
+                - list [ref=f3e1320]:
+                  - listitem [ref=f3e1321]:
+                    - generic [ref=f3e1322]: Hotels
+                  - listitem [ref=f3e1323]:
+                    - generic [ref=f3e1324]: Boutique hotels
+                  - listitem [ref=f3e1325]:
+                    - generic [ref=f3e1326]: Brooklyn Heights
+                  - listitem [ref=f3e1327]:
+                    - generic [ref=f3e1328]:
+                      - generic [ref=f3e1329]: $
+                      - generic [ref=f3e1330]: $
+                      - generic [ref=f3e1331]: $
+                      - generic [ref=f3e1332]: price 3 of 4
+                  - listitem [ref=f3e1333]:
+                    - generic [ref=f3e1334]: Recommended
+                - 'link "1 Hotel Brooklyn Bridge Photograph: James Baigrie" [ref=f3e1339] [cursor=pointer]':
+                  - /url: /newyork/hotels/1-hotel-brooklyn-bridge
+                  - img "1 Hotel Brooklyn Bridge" [ref=f3e1341]
+                  - generic [ref=f3e1342]: "Photograph: James Baigrie"
+                - generic [ref=f3e1346]:
+                  - paragraph [ref=f3e1347]: Eight years since its opening, the 1 Hotel Brooklyn Bridge continues to redefine hotel sustainability in ‘the city that never sleeps’. Upon walking in, we were greeted by an airy, plant-filled lobby with loads of guests and digital nomads working away, and a charismatic set of staff dressed in casual denim from head to toe—both signs that we were in fact, in New York, and steps away from the natural world that keeps us afloat.
+                  - paragraph [ref=f3e1348]: During our stay, we couldn’t help but notice the little details that reminded us what it means to live sustainably and in tune with our environment. Room keys and interiors made of reclaimed wood, an engraved rock inviting guests to recycle their used clothing, sand timers in the shower, a filtered water system separate from the sinks in every room, a farmstand beside the lobby elevators, even the bridge and park views all served as moments of mindfulness.
+                  - paragraph [ref=f3e1349]: From bottom to top, the 1 Hotel Brooklyn Bridge has built in services, amenities, and a genuine sense of hospitality that makes you feel as though you never have to leave (or would want to leave). The Bamford Wellness Spa offers a wide range of treatments, including a steam room and relaxation lounge. On the same floor is a co-working space, and The Osprey, a farm-to-table restaurant that does not lack East River views either.
+                  - paragraph [ref=f3e1350]: Floor Two continues 1 Hotel’s theme of wellness with its state-of-the-art gyms, personal training services, and communal yoga classes. After 194 rooms and suites with floor-to-ceiling windows, we reached Harriet’s Lounge on 10R, which boasts leather booths, creative cocktails, and seasonal apps.
+                  - paragraph [ref=f3e1351]: Harriet’s Rooftop on 11 is where the full skyline views hit. Floating in the pool and staring out into the open skies is a must, even if it’s just for 20 minutes.
+                  - paragraph [ref=f3e1352]:
+                    - strong [ref=f3e1353]: "Time Out tip:"
+                    - text: Avoid the crowd at Harriet’s Rooftop on weekend nights and take a stroll on the waterfront instead. A ride on Jane’s Carousel is the definition of healing your inner child.
+                  - paragraph [ref=f3e1354]:
+                    - strong [ref=f3e1355]: "Address:"
+                    - text: 60 Furman Street, Brooklyn, 11201
+                    - strong [ref=f3e1356]: "Price:"
+                    - text: Starting at $800 per night
+                    - strong [ref=f3e1357]: "Closest Transport Link:"
+                    - text: A, C to High St
+                    - strong
+                - generic [ref=f3e1358]:
+                  - link "Read more" [ref=f3e1360] [cursor=pointer]:
+                    - /url: /newyork/hotels/1-hotel-brooklyn-bridge
+                  - link "Check prices" [ref=f3e1362] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/us/1-brooklyn-bridge.en-gb.html?aid=336004&label=best-hotels-in-nyc
+            - article [ref=f3e1363]:
+              - generic [ref=f3e1364]:
+                - link [ref=f3e1366] [cursor=pointer]:
+                  - /url: /newyork/hotels/the-pierre
+                  - heading "18. The Pierre" [level=3] [ref=f3e1367]
+                - list [ref=f3e1370]:
+                  - listitem [ref=f3e1371]:
+                    - generic [ref=f3e1372]: Hotels
+                  - listitem [ref=f3e1373]:
+                    - generic [ref=f3e1374]: Boutique hotels
+                  - listitem [ref=f3e1375]:
+                    - generic [ref=f3e1376]: Lenox Hill
+                  - listitem [ref=f3e1377]:
+                    - generic [ref=f3e1378]:
+                      - generic [ref=f3e1379]: $
+                      - generic [ref=f3e1380]: $
+                      - generic [ref=f3e1381]: $
+                      - generic [ref=f3e1382]: $
+                      - generic [ref=f3e1383]: price 4 of 4
+                  - listitem [ref=f3e1384]:
+                    - generic [ref=f3e1385]: Recommended
+                - 'link "The Pierre Photograph: Courtesy of the Pierre" [ref=f3e1390] [cursor=pointer]':
+                  - /url: /newyork/hotels/the-pierre
+                  - img "The Pierre" [ref=f3e1392]
+                  - generic [ref=f3e1393]: "Photograph: Courtesy of the Pierre"
+                - generic [ref=f3e1397]:
+                  - paragraph [ref=f3e1398]: This classic, five-star hotel sits right on the southeastern edge of Central Park at Fifth Avenue and 61st Street and is by far the best hotel stay I’ve had in New York. Its understated elegance is felt as soon as you walk into the lobby, which plays host to myriad lavish events throughout the year.
+                  - paragraph [ref=f3e1399]:
+                    - text: After my stay here, I can see why it’s so iconic, having featured in films like
+                    - emphasis [ref=f3e1400]: First Wives Club, Meet Joe Black
+                    - text: and
+                    - emphasis [ref=f3e1401]: Oceans 8.
+                    - text: It’s also hosted luminaries like Coco Chanel, Karl Lagerfeld, Andy Warhol, Hubert de Givenchy, Elizabeth Taylor, Audrey Hepburn, Yves Saint Laurent, Barbra Streisand, Joan Collins (and many UN delegations) over the many decades and you can see them represented in the hotel’s incredible candid photos by Ron Galella that line its main hallway.
+                  - paragraph [ref=f3e1402]: But where The Pierre really shines is in the details, which make it feel like home (if you can call a glamoros place like this home, that is). Check-in was a breeze with staff who welcomed me heartily and offered freebie chocolate from Mariebelle, which has a little shop on-site.
+                  - paragraph [ref=f3e1403]: Friendly attendants, many of whom have been at The Pierre for decades, rode the elevator up with me, pressing the button to my floor. Inside my luxe carpeted room, which was outfitted with a king-size bed featuring a tufted headboard and a window overlooking Central Park, complimentary water bottles, tea and a NYC chocolate display with a fondant subway sign, a mini sculpture of the Empire State Building, macarons and truffles, and a personalized note thanking me for my stay, were waiting for me.
+                  - paragraph [ref=f3e1404]:
+                    - strong [ref=f3e1405]: "Time Out Tip:"
+                    - text: The Pierre’s Two E Bar & Lounge is a great spot for grabbing drinks and taking in live jazz from Modern Martinis Music, every night, Tuesday through Saturday. Book a table!
+                  - paragraph [ref=f3e1406]:
+                    - strong [ref=f3e1407]: "Address:"
+                    - text: 2 E 61st Street, New York, 10065
+                    - strong
+                    - strong [ref=f3e1408]: "Price:"
+                    - text: Starting at $580 per night
+                    - strong [ref=f3e1409]: "Closest Transport Link:"
+                    - text: N, Q, R to Fifth Ave–59th St
+                - generic [ref=f3e1410]:
+                  - link "Read more" [ref=f3e1412] [cursor=pointer]:
+                    - /url: /newyork/hotels/the-pierre
+                  - link "Check prices" [ref=f3e1414] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/us/the-pierre-a-taj.html?aid=336004&label=best-hotels-in-nyc
+            - generic [ref=f3e1415]: Advertising
+            - article [ref=f3e1421]:
+              - generic [ref=f3e1422]:
+                - link [ref=f3e1424] [cursor=pointer]:
+                  - /url: /newyork/hotels/lotte-new-york-palace
+                  - heading "19. Lotte New York Palace" [level=3] [ref=f3e1425]
+                - list [ref=f3e1428]:
+                  - listitem [ref=f3e1429]:
+                    - generic [ref=f3e1430]: Hotels
+                  - listitem [ref=f3e1431]:
+                    - generic [ref=f3e1432]: Boutique hotels
+                  - listitem [ref=f3e1433]:
+                    - generic [ref=f3e1434]: Midtown East
+                  - listitem [ref=f3e1435]:
+                    - generic [ref=f3e1436]:
+                      - generic [ref=f3e1437]: $
+                      - generic [ref=f3e1438]: $
+                      - generic [ref=f3e1439]: $
+                      - generic [ref=f3e1440]: price 3 of 4
+                  - listitem [ref=f3e1441]:
+                    - generic [ref=f3e1442]: Recommended
+                - link [ref=f3e1447] [cursor=pointer]:
+                  - /url: /newyork/hotels/lotte-new-york-palace
+                  - img "Lotte New York Palace" [ref=f3e1449]
+                - generic [ref=f3e1452]:
+                  - paragraph [ref=f3e1453]: If you’re looking for a Gilded Age, old-money historic NYC experience, Lotte New York Palace on Madison Avenue is just the place. Lotte Palace was built during the Gilded Age, 1882 to be exact.
+                  - paragraph [ref=f3e1454]: The lobby, courtyard and the main hotel building comprise three wings of the Villard Houses, a row of mansions built in the 1880s by McKim, Mead & White (which are New York City-designated landmarks and listed on the National Register of Historic Places) for railroad tycoon Henry Villard. I entered the building through the main lobby, walking through its notorious courtyard, which is immediately recognizable from the over 25 movies and TV shows filmed there. Through the heaviest revolving door I’ve pushed in a while and stepped back in time, surrounded by the type of ostentatious grandeur that isn’t made anymore.
+                  - paragraph [ref=f3e1455]: The lobby features multiple staircases, two of which lead to the second-floor balcony and its giant pink marble fireplace. Marble statues of Greek goddesses adorn the gold leaf-plated banisters. It should feel almost gaudy, but instead, it feels exciting and luxurious.
+                  - paragraph [ref=f3e1456]: Its luxury bar, The Gold Room, boasts drinks costing upwards of $25 and rooms average around $650, but it seems that’s the price you pay for living like a Gilden Age billionaire. After pressing every button in the room to create a confusing light show, we headed down there to get a flavor of the old-money glamor this place is dripping with, and it did feel incredibly romantic.
+                  - paragraph [ref=f3e1457]:
+                    - strong [ref=f3e1458]: "Time Out tip:"
+                    - generic [ref=f3e1459]:
+                      - text: If you can grab tickets, make sure to check out
+                      - link "Steve Cohen’s Chamber Magic" [ref=f3e1460] [cursor=pointer]:
+                        - /url: https://www.timeout.com/newyork/theater/chamber-magic
+                      - text: show in the hotels salon.
+                  - paragraph [ref=f3e1461]:
+                    - generic [ref=f3e1462]:
+                      - strong [ref=f3e1463]: "Address:"
+                      - text: 455 Madison Avenue, New York, 10022
+                      - strong [ref=f3e1464]: "Price:"
+                      - text: Starting at $508 per night
+                      - strong [ref=f3e1465]: "Closest Transport Link:"
+                      - text: E, M to Fifth Ave–53rd St; 6 to 51st St
+                - generic [ref=f3e1466]:
+                  - link "Read more" [ref=f3e1468] [cursor=pointer]:
+                    - /url: /newyork/hotels/lotte-new-york-palace
+                  - link "Check prices" [ref=f3e1470] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/us/new-york-palace.en-gb.html?aid=336004&label=best-hotels-in-nyc
+            - article [ref=f3e1471]:
+              - generic [ref=f3e1472]:
+                - link [ref=f3e1474] [cursor=pointer]:
+                  - /url: /newyork/hotels/mandarin-oriental-new-york
+                  - heading "20. Mandarin Oriental New York" [level=3] [ref=f3e1475]
+                - list [ref=f3e1478]:
+                  - listitem [ref=f3e1479]:
+                    - generic [ref=f3e1480]: Hotels
+                  - listitem [ref=f3e1481]:
+                    - generic [ref=f3e1482]: Chain hotels
+                  - listitem [ref=f3e1483]:
+                    - generic [ref=f3e1484]: Hell's Kitchen
+                  - listitem [ref=f3e1485]:
+                    - generic [ref=f3e1486]:
+                      - generic [ref=f3e1487]: $
+                      - generic [ref=f3e1488]: $
+                      - generic [ref=f3e1489]: $
+                      - generic [ref=f3e1490]: $
+                      - generic [ref=f3e1491]: price 4 of 4
+                  - listitem [ref=f3e1492]:
+                    - generic [ref=f3e1493]: Recommended
+                - 'link "Mandarin Oriental New York Photograph: Courtesy of the Mandarin Oriental" [ref=f3e1498] [cursor=pointer]':
+                  - /url: /newyork/hotels/mandarin-oriental-new-york
+                  - img "Mandarin Oriental New York" [ref=f3e1500]
+                  - generic [ref=f3e1501]: "Photograph: Courtesy of the Mandarin Oriental"
+                - generic [ref=f3e1505]:
+                  - paragraph [ref=f3e1506]: "This internationally acclaimed business traveler’s paradise has five stars for a reason: the scene, the service and the spa make up the trifecta that sets the 244-room Mandarin Oriental a cut above the rest."
+                  - paragraph [ref=f3e1507]: The height of luxury, this chic five-star hotel boasts stunning views, including many rooms with views of Central Park. The elevated experience starts from its 35th-floor lobby decorated with Dale Chihuly glass art. The upscale vibe continues in all the guest rooms, from standard king rooms to its suites. The Hudson River Suite, for example, measures in at 800 square feet, including a spacious living room, a dining/working area, a bedroom, a full bathroom and a powder room.
+                  - paragraph [ref=f3e1508]: Inside the 14,500 square-foot Mandarin Oriental Spa, treatments include massages, facials, Thai foot therapy and special treatments. A 75-foot indoor lap pool is on-site for hotel guests who want to get some exercise or for families with kids who want to splash around.
+                  - paragraph [ref=f3e1509]: "The little details here and the attention to the guest experience set this hotel apart from the crowd: think binoculars in the guest room, a robotic toilet in the bathroom, luxurious turndown service, and impeccable room service, just to name a few."
+                  - paragraph [ref=f3e1510]:
+                    - strong [ref=f3e1511]: "Time Out tip:"
+                    - text: Oh, and no matter how packed your schedule may be, you’ll definitely want to make time for lunch at MO Lounge, where you’ll revel in panoramic daylight views of the park below. Also at the lounge, you can book afternoon tea service featuring savory sandwiches, scones and a collection of sweets.
+                  - paragraph [ref=f3e1512]:
+                    - strong [ref=f3e1513]: "Address:"
+                    - text: 80 Columbus Circle, New York, 10023
+                    - strong [ref=f3e1514]: "Price:"
+                    - text: Starting at $1,150 per night
+                    - strong [ref=f3e1515]: "Closest Transport Link:"
+                    - text: A, C, B, D, 1 to 59th St–Columbus Circle
+                - generic [ref=f3e1516]:
+                  - link "Read more" [ref=f3e1518] [cursor=pointer]:
+                    - /url: /newyork/hotels/mandarin-oriental-new-york
+                  - link "Check prices" [ref=f3e1520] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/us/mandarin-oriental.en-gb.html?aid=336004
+            - generic [ref=f3e1521]: Advertising
+            - article [ref=f3e1527]:
+              - generic [ref=f3e1528]:
+                - link [ref=f3e1530] [cursor=pointer]:
+                  - /url: /newyork/hotels/the-beekman
+                  - heading "21. The Beekman, a Thompson Hotel" [level=3] [ref=f3e1531]
+                - list [ref=f3e1534]:
+                  - listitem [ref=f3e1535]:
+                    - generic [ref=f3e1536]: Hotels
+                  - listitem [ref=f3e1537]:
+                    - generic [ref=f3e1538]: Financial District
+                  - listitem [ref=f3e1539]:
+                    - generic [ref=f3e1540]:
+                      - generic [ref=f3e1541]: $
+                      - generic [ref=f3e1542]: $
+                      - generic [ref=f3e1543]: $
+                      - generic [ref=f3e1544]: price 3 of 4
+                  - listitem [ref=f3e1545]:
+                    - generic [ref=f3e1546]: Recommended
+                - 'link "The Beekman, a Thompson Hotel Photograph: courtesy The Beekman Hotel | The penthouse north terrace at The Beekman Hotel" [ref=f3e1551] [cursor=pointer]':
+                  - /url: /newyork/hotels/the-beekman
+                  - img "The Beekman, a Thompson Hotel" [ref=f3e1553]
+                  - generic [ref=f3e1554]: "Photograph: courtesy The Beekman Hotel | The penthouse north terrace at The Beekman Hotel"
+                - generic [ref=f3e1558]:
+                  - paragraph [ref=f3e1559]: This architectural gem with eight tiered galleries served as the atrium to one of Manhattan’s very first skyscrapers—Temple Court—when it was built in 1881. Today, you can still see its original cast iron railings and balustrades, gorgeous millwork around its doorways and encaustic tiles featuring reds, browns and golds thanks to its successful restoration in 2016 by Gerner Kronick + Valcarcel Architects. The atrium sure is the star of the show at the Beekman, but it’s not the only one.
+                  - paragraph [ref=f3e1560]: The Beekman, a Thompson Hotel as of 2022, offers a cozy but stylish stay with 287 rooms to book out (from studios to Queen, Deluxe and King suites with and without terraces as well as two turret penthouses), a 24-hour gym and an incredibly comfortable lobby that greets you with its own luxurious branded scent, Beekman 1802! Fresh Air. It boasts two highly-rated restaurants—Le Gratin by Chef Daniel Boulud and Temple Court by Tom Collichio—and the stunning Bar Room under the atrium.
+                  - paragraph [ref=f3e1561]: On the ninth floor, my studio suite faced an inner courtyard so the noise of the city did not reach me, immediately easing my nerves. The king-size bed was luxurious—its sateen Sferra linens were heavenly soft and paired with the D.S. & Durga soaps and lotions in the rainbath shower, I slept incredibly well. It’s no doubt the black out curtains aided my deep slumber.
+                  - paragraph [ref=f3e1562]: The Beekman should be on your list of hotels to stay at in New York City or at the very least, one to go gawk at (and order a drink at the bar).
+                  - paragraph [ref=f3e1563]:
+                    - strong [ref=f3e1564]: "Time Out tip:"
+                    - text: The best part of the stay, though, was being able to dine downstairs at Le Gratin, chef Boulud’s Lyonnais-inspired bistro that
+                    - link "we awarded five stars to in 2022" [ref=f3e1565] [cursor=pointer]:
+                      - /url: https://www.timeout.com/newyork/restaurants/le-gratin
+                    - text: and simply go upstairs to my room—the shortest commute ever. Ask the concierge to get you a reservation to Le Gratin or Temple Court.
+                  - paragraph [ref=f3e1566]:
+                    - generic [ref=f3e1567]:
+                      - strong [ref=f3e1568]: "Address:"
+                      - text: 123 Nassau Street, New York, 10038
+                      - strong [ref=f3e1569]: Price
+                      - text: ": Starting at $530 per night"
+                      - strong [ref=f3e1570]: "Closest Transport Link:"
+                      - text: A, C, J, Z to Fulton St; 2, 3 to Fulton St; N, R to City Hall
+                - generic [ref=f3e1571]:
+                  - link "Read more" [ref=f3e1573] [cursor=pointer]:
+                    - /url: /newyork/hotels/the-beekman
+                  - link "Check prices" [ref=f3e1575] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/us/the-beekman-a-thompson-hotel.en-gb.html?aid=336004&label=best-hotels-in-nyc
+            - article [ref=f3e1576]:
+              - generic [ref=f3e1577]:
+                - link [ref=f3e1579] [cursor=pointer]:
+                  - /url: /newyork/hotels/the-bowery-hotel
+                  - heading "22. The Bowery Hotel" [level=3] [ref=f3e1580]
+                - list [ref=f3e1583]:
+                  - listitem [ref=f3e1584]:
+                    - generic [ref=f3e1585]: Hotels
+                  - listitem [ref=f3e1586]:
+                    - generic [ref=f3e1587]: Boutique hotels
+                  - listitem [ref=f3e1588]:
+                    - generic [ref=f3e1589]: East Village
+                  - listitem [ref=f3e1590]:
+                    - generic [ref=f3e1591]:
+                      - generic [ref=f3e1592]: $
+                      - generic [ref=f3e1593]: $
+                      - generic [ref=f3e1594]: $
+                      - generic [ref=f3e1595]: price 3 of 4
+                  - listitem [ref=f3e1596]:
+                    - generic [ref=f3e1597]: Recommended
+                - 'link "The Bowery Hotel Photograph: Sarah Iandoli for Time Out New York" [ref=f3e1602] [cursor=pointer]':
+                  - /url: /newyork/hotels/the-bowery-hotel
+                  - img "The Bowery Hotel" [ref=f3e1604]
+                  - generic [ref=f3e1605]: "Photograph: Sarah Iandoli for Time Out New York"
+                - generic [ref=f3e1609]:
+                  - paragraph [ref=f3e1610]:
+                    - text: Michelin is known for awarding restaurants with stars, but it recently expanded its expertise by awarding hotels with
+                    - link "Michelin Keys" [ref=f3e1611] [cursor=pointer]:
+                      - /url: https://www.timeout.com/newyork/news/27-new-york-city-hotels-have-been-awarded-michelin-keys-042424
+                    - text: . The Bowery Hotel in East Village was recently awarded one Key, ranking it as a ‘Very Special Stay,’ and the organization was right.
+                  - paragraph [ref=f3e1612]: Walking through the double doors of The Bowery Hotel felt like I was walking into a different era. The decor was classy and masculine—with antique couches and chairs placed throughout the large space. I was greeted by the kind bellhops and checked into my room.
+                  - paragraph [ref=f3e1613]: I took the dimly lit (and old but well-maintained) elevator up to the 12th floor and walked into my room, which had breathtaking views of Manhattan and Brooklyn (I had a perfect view of the newly renovated Domino Sugar factory!) and I stayed in the Bowery King room. It was incredibly comfortable, with lots of spaces to sit and relax. I loved being able to sit at the table on one side of the room and then move to the other side and sit on the couch while enjoying different views of the city.
+                  - paragraph [ref=f3e1614]: The attention to detail is evident in every corner of the hotel, from the lobby lounge and hotel restaurant to the room. The Bowery Hotel is the perfect place for a staycation or if you’re planning to visit Manhattan and want to explore downtown.
+                  - paragraph [ref=f3e1615]:
+                    - strong [ref=f3e1616]: "Time Out tip:"
+                    - text: Sure, most first-timers will prioritise hitting Midtown, but you’re on the border of the East Village at The Bowery Hotel, so make sure to leave aside some time for dive-bar hopping and thrift shopping.
+                  - paragraph [ref=f3e1617]:
+                    - strong [ref=f3e1618]: "Address:"
+                    - text: 335 Bowery, New York, 10003
+                    - strong [ref=f3e1619]: "Price:"
+                    - text: Starting at $600 per night
+                    - strong [ref=f3e1620]: "Closest Transport Link:"
+                    - text: B, D, F, M to Broadway–Lafayette St; 6 to Bleecker St
+                - generic [ref=f3e1621]:
+                  - link "Read more" [ref=f3e1623] [cursor=pointer]:
+                    - /url: /newyork/hotels/the-bowery-hotel
+                  - link "Check prices" [ref=f3e1625] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/us/the-bowery.en-gb.html?aid=336004&label=best-hotels-in-nyc
+            - generic [ref=f3e1626]: Advertising
+            - article [ref=f3e1632]:
+              - generic [ref=f3e1633]:
+                - link [ref=f3e1635] [cursor=pointer]:
+                  - /url: /newyork/hotels/the-wallace-hotel
+                  - heading "23. The Wallace" [level=3] [ref=f3e1636]
+                - list [ref=f3e1639]:
+                  - listitem [ref=f3e1640]:
+                    - generic [ref=f3e1641]: Hotels
+                  - listitem [ref=f3e1642]:
+                    - generic [ref=f3e1643]: Upper West Side
+                  - listitem [ref=f3e1644]:
+                    - generic [ref=f3e1645]: Recommended
+                - link "The Wallace Courtesy of the Wallace Hotel" [ref=f3e1650] [cursor=pointer]:
+                  - /url: /newyork/hotels/the-wallace-hotel
+                  - img "The Wallace" [ref=f3e1652]
+                  - generic [ref=f3e1653]: Courtesy of the Wallace Hotel
+                - generic [ref=f3e1657]:
+                  - paragraph [ref=f3e1658]: This 124-room Upper West Side property opened in October 2020, bringing with it boutique-style sophistication to the largely residential neighborhood. That luxuriousness starts in the chicly dressed lobby, where you’re greeted by geometric black-and-white tiled floors, a kinetic clock sculpture by Per Emanuelsson and a large marble reception desk manned by an exceedingly attentive staff.
+                  - paragraph [ref=f3e1659]: Through a golden curtain on the ground level, you’ll also find the Wallace Lounge, a swanky Deco-style cocktail bar festooned with jewel-toned velvet sofas, an atmosphere-boosting fireplace and a 1920s Mason & Hamlin grand piano whose ivories get regularly tickled during near-nightly jazz performances.
+                  - paragraph [ref=f3e1660]: Upstairs in the spotless guest rooms, the vibes are far more serene (though my stay did admittedly feature a low soundtrack of construction from the next-door building). Swathed in soft neutrals, sober pastels and sleek brass finishes, accommodations range from comfortable queen bedrooms (250 square feet) to apartment-style suites with kitchenettes, separate sitting rooms and private terraces (580 square feet).
+                  - paragraph [ref=f3e1661]: Along with the expected creature comforts—cozy robes and slippers, large rainfall showers and all—each room features a surprising amount of tech-driven amenities, including Chromecast-friendly flatscreens, electronic window shades and touch-controlled lighting throughout. (I was especially thankful for the handy nightlight option, which graciously meant I didn’t bash a hip into the marble bathroom counter in the wee hours of the night.) In a city full of soulless chain hotels, it’s those thoughtful details that will leave you asking, ‘Times Square who?’
+                  - paragraph [ref=f3e1662]:
+                    - strong [ref=f3e1663]: "Time Out tip:"
+                    - text: Sure, you can get a solid classic martini at the hotel lounge but why not upgrade your order with the Baiki Martini ($35), which crowns crisp Grey Goose with briny caviar pearls.
+                  - paragraph [ref=f3e1664]:
+                    - strong [ref=f3e1665]: "Address:"
+                    - text: 242 West 76th Street, New York, 10023
+                    - strong [ref=f3e1666]: "Price:"
+                    - text: Starting at $940 per night
+                    - strong [ref=f3e1667]: "Closest Transport Link:"
+                    - text: 1 at 79th St; 2, 3 at 72nd St; B, C at 72nd St
+                - generic [ref=f3e1668]:
+                  - link "Read more" [ref=f3e1670] [cursor=pointer]:
+                    - /url: /newyork/hotels/the-wallace-hotel
+                  - link "Check prices" [ref=f3e1672] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/us/the-wallace-new-york.en-gb.html?aid=336004&label=best-hotels-in-nyc
+            - article [ref=f3e1673]:
+              - generic [ref=f3e1674]:
+                - link [ref=f3e1676] [cursor=pointer]:
+                  - /url: /newyork/hotels/the-rockaway-hotel
+                  - heading "24. The Rockaway Hotel" [level=3] [ref=f3e1677]
+                - list [ref=f3e1680]:
+                  - listitem [ref=f3e1681]:
+                    - generic [ref=f3e1682]: Hotels
+                  - listitem [ref=f3e1683]:
+                    - generic [ref=f3e1684]: Rockaways
+                  - listitem [ref=f3e1685]:
+                    - generic [ref=f3e1686]: Recommended
+                - 'link "The Rockaway Hotel Photograph: By Kyle Knodell / Courtesy of The Rockaway Hotel + Spa" [ref=f3e1691] [cursor=pointer]':
+                  - /url: /newyork/hotels/the-rockaway-hotel
+                  - img "The Rockaway Hotel" [ref=f3e1693]
+                  - generic [ref=f3e1694]: "Photograph: By Kyle Knodell / Courtesy of The Rockaway Hotel + Spa"
+                - generic [ref=f3e1698]:
+                  - paragraph [ref=f3e1699]:
+                    - generic [ref=f3e1700]:
+                      - text: Sometimes you need to escape the city—without
+                      - emphasis [ref=f3e1701]: actually
+                      - text: leaving the city. The Rockaway Hotel + Spa is the perfect place to do exactly that.
+                    - text: An oasis in Queens, the Rockaway Hotel feels like a beachy, remote retreat even though it’s just over an hour’s subway ride from midtown. Decorated in natural blue and tan tones and packed with art, the hotel evokes relaxation along with a sense of New York City cool from the moment you step inside. The luxurious and design-forward 84,000-square-foot hotel offers 53 guest rooms and eight extended-stay residences each with Atlantic Ocean or Jamaica Bay views.
+                  - paragraph [ref=f3e1702]: Best of all? It’s just a five-minute walk to the Atlantic Ocean—if you can tear yourself away from the hotel’s on-site pool to make the short walk to the beach, that is. At the hotel’s heated outdoor pool, relax on a lounge chair, drop by the hotel’s cedar saunas and order poolside snacks and drinks from attentive staff. If you’ve got a large group, book a cabana in advance. You can even book a poolside spa service, like the scalp therapy drizzle or the after-sun skin reset.
+                  - paragraph [ref=f3e1703]: As for dining, there’s the Pool House with a casual, poolside menu from dawn til dusk. Indoors, you’ll find Margie’s, the ground-floor restaurant that feels like a neighborhood dining room with its menu of American classics. Start with the tuna crispy rice and a citrus salad, then move onto the burger, branzino or a cauliflower steak. Be sure to make time for the Rooftop, where you can enjoy sushi, bao and a raw bar, along with an excellent list of cocktails. The Shark Bite (with ghost pepper tequila) and the EZ Pass (with vodka and lavender) are stand-out classics.
+                  - paragraph [ref=f3e1704]:
+                    - strong [ref=f3e1705]: "Time Out tip:"
+                    - text: The Rockaway Hotel + Spa doesn’t lose its luster when fall comes around. The pool area stays open, transforming into a Winter Pool House with cozy decor, cedar saunas and additional wellness services.
+                  - paragraph [ref=f3e1706]:
+                    - strong [ref=f3e1707]: "Address:"
+                    - text: 108-10 Rockaway Beach Drive, Queens, New York, 11694
+                    - strong [ref=f3e1708]: "Price:"
+                    - text: Starting at $271 per night
+                    - strong [ref=f3e1709]: "Closest Transport Link:"
+                    - text: A, S train stop at Beach 105 Street; or take the ferry
+                - generic [ref=f3e1710]:
+                  - link "Read more" [ref=f3e1712] [cursor=pointer]:
+                    - /url: /newyork/hotels/the-rockaway-hotel
+                  - link "Check prices" [ref=f3e1714] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/us/the-rockaway.en-gb.html?aid=336004&label=best-hotels-in-nyc
+            - generic [ref=f3e1715]: Advertising
+            - article [ref=f3e1721]:
+              - generic [ref=f3e1722]:
+                - link [ref=f3e1724] [cursor=pointer]:
+                  - /url: /newyork/hotels/kimpton-hotel-theta
+                  - heading "25. Kimpton Theta New York - Times Square" [level=3] [ref=f3e1725]
+                - list [ref=f3e1728]:
+                  - listitem [ref=f3e1729]:
+                    - generic [ref=f3e1730]: Hotels
+                  - listitem [ref=f3e1731]:
+                    - generic [ref=f3e1732]: Midtown West
+                  - listitem [ref=f3e1733]:
+                    - generic [ref=f3e1734]: Recommended
+                - 'link "Kimpton Theta New York - Times Square Photograph: Kimpton Theta New York – Times Square" [ref=f3e1739] [cursor=pointer]':
+                  - /url: /newyork/hotels/kimpton-hotel-theta
+                  - img "Kimpton Theta New York - Times Square" [ref=f3e1741]
+                  - generic [ref=f3e1742]: "Photograph: Kimpton Theta New York – Times Square"
+                - generic [ref=f3e1746]:
+                  - paragraph [ref=f3e1747]:
+                    - generic [ref=f3e1748]: Having opened its doors in October 2023, Kimpton Theta offers a calm, relaxing space just minutes away from the hustle and bustle of Manhattan. The 364-room hotel is located on 8th Avenue and is walking distance from the Theater District, Times Square, Hell’s Kitchen and Central Park South—making it the perfect launch point for exploring all of midtown. Only a nine-minute walk from
+                    - text: Radio City Music Hall
+                    - generic [ref=f3e1749]: and
+                    - text: Rockefeller Center, it’s a great place to stay if you’re visiting during the holiday season.
+                  - paragraph [ref=f3e1750]: Kimpton Theta’s lobby was filled with comfortable furniture, beautiful decor, lush plants and curtains that keep you separated from the business of 8th Avenue. The design is inspired by the Theta brainwaves that are most present in moments of meditation, which was clear upon entering. It includes a marketplace with snacks, drinks and hotel merchandise—like comfortable robes and reusable bottles, as well as a coffee window that serves freshly brewed coffee and breakfast pastries.
+                  - paragraph [ref=f3e1751]:
+                    - generic [ref=f3e1752]: It also has a gym with weights and Peloton bikes, as well as bikes you can rent and use to explore the city. Every evening, from 5pm to 6pm, the hotel offers a complimentary wine hour where guests can enjoy a glass before catching a Broadway show or grabbing dinner, which is exactly what I did before heading to
+                    - text: John’s of Times Square.
+                  - paragraph [ref=f3e1753]: Finding a hotel in New York City that’s spacious can be tough, but this room offers plenty of space. Not only was there ample space for luggage, shoes and winter coats, but it was big enough for a couch and table to fit near the window. I stayed in the King Room and it was extremely comfortable, from the warm lighting to the soft bed. The service is great, too. I wanted to make coffee the next morning, so they brought up a coffee maker.
+                  - paragraph [ref=f3e1754]:
+                    - generic [ref=f3e1755]:
+                      - strong [ref=f3e1756]: "Time Out tip:"
+                      - text: Be sure to check out the rooftop restaurant. There’s a daily happy hour there for hotel guests—cheers to that!
+                  - paragraph [ref=f3e1757]:
+                    - generic [ref=f3e1759]:
+                      - strong [ref=f3e1760]: "Address:"
+                      - text: 790 8th Avenue, New York, 10019
+                      - strong [ref=f3e1761]: "Price:"
+                      - text: Starting at $222 per night
+                      - strong [ref=f3e1762]: "Closest Transport Link:"
+                      - text: The 1 at 50th Street
+                - generic [ref=f3e1763]:
+                  - link "Read more" [ref=f3e1765] [cursor=pointer]:
+                    - /url: /newyork/hotels/kimpton-hotel-theta
+                  - link "Check prices" [ref=f3e1767] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/us/kimpton-hotel-theta-times-square.en-gb.html?aid=336004&label=best-hotels-in-nyc
+            - article [ref=f3e1768]:
+              - generic [ref=f3e1769]:
+                - link [ref=f3e1771] [cursor=pointer]:
+                  - /url: /newyork/hotels/smyth-tribeca
+                  - heading "26. Smyth Tribeca" [level=3] [ref=f3e1772]
+                - list [ref=f3e1775]:
+                  - listitem [ref=f3e1776]:
+                    - generic [ref=f3e1777]: Hotels
+                  - listitem [ref=f3e1778]:
+                    - generic [ref=f3e1779]: Boutique hotels
+                  - listitem [ref=f3e1780]:
+                    - generic [ref=f3e1781]: Financial District
+                  - listitem [ref=f3e1782]:
+                    - generic [ref=f3e1783]:
+                      - generic [ref=f3e1784]: $
+                      - generic [ref=f3e1785]: $
+                      - generic [ref=f3e1786]: $
+                      - generic [ref=f3e1787]: price 3 of 4
+                  - listitem [ref=f3e1788]:
+                    - generic [ref=f3e1789]: Recommended
+                - 'link "Smyth Tribeca Photograph: Holly Childs / Courtesy Smyth Tribeca | Galerie Bar" [ref=f3e1794] [cursor=pointer]':
+                  - /url: /newyork/hotels/smyth-tribeca
+                  - img "Smyth Tribeca" [ref=f3e1796]
+                  - generic [ref=f3e1797]: "Photograph: Holly Childs / Courtesy Smyth Tribeca | Galerie Bar"
+                - generic [ref=f3e1801]:
+                  - paragraph [ref=f3e1802]: After a warm greeting from the front desk staff—who offered me a complimentary glass of champagne (yes, please)—I headed to my deluxe king room.
+                  - paragraph [ref=f3e1803]: Awash in gray and white tones, the spacious room fit a king-size bed, a large desk, plenty of closet space and a minibar stocked with local snacks. Oversized black-and-white photographs that capture vintage New York scenes and celebs sipping Manhattans elevate the design and make sure the gray palette doesn’t feel sterile. The room’s sweeping windows looked out onto the triangle park known as Bogardus Plaza and into red-brick artists’ studios where I even noticed a photoshoot underway. Other rooms look out onto the southern tip of Manhattan with the World Trade Center in view.
+                  - paragraph [ref=f3e1804]: En-suite bathrooms echo the bedroom’s color scheme and add marble tiling, plenty of counter space for getting ready to go out, and MALIN+GOETZ products. In my room, the shampoo, conditioner, and body wash were mounted beneath the shower head, which meant that shampoo pumped into my hand tended to wash away before it could get to my hair; I wish the products were mounted on the back of the shower instead.
+                  - paragraph [ref=f3e1805]: In total, the hotel contains 100 rooms, including 12 suites, four corner king rooms and a penthouse with a dining area and a spacious balcony. Guests can work out in the hotel’s small but equipped gym, which includes a Peloton bike.
+                  - paragraph [ref=f3e1806]: While there are tons of excellent dining options in Tribeca, it’s definitely worth having dinner at the hotel’s Smyth Tavern, a warm American-style spot next to the lobby.
+                  - paragraph [ref=f3e1807]:
+                    - strong [ref=f3e1808]: "Time Out tip:"
+                    - text: Call the hotel to inquire about the
+                    - link "SleepMore at Smyth package" [ref=f3e1809] [cursor=pointer]:
+                      - /url: https://www.timeout.com/usa/travel/best-sleep-retreats-usa
+                    - text: . In addition discounted room rates, guests also enjoy breakfast in bed, along with a magnesium sleep spray, your choice of pillows, and a special tea to help promote a good night’s sleep.
+                  - paragraph [ref=f3e1810]:
+                    - strong [ref=f3e1811]: "Address:"
+                    - text: 85 West Broadway, New York, 10007
+                    - strong [ref=f3e1812]: "Price:"
+                    - text: Starting at $385 per night
+                    - strong [ref=f3e1813]: "Closest Transport Link:"
+                    - text: 1, 2, 3 to Chambers St
+                - generic [ref=f3e1814]:
+                  - link "Read more" [ref=f3e1816] [cursor=pointer]:
+                    - /url: /newyork/hotels/smyth-tribeca
+                  - link "Check prices" [ref=f3e1818] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/us/the-smyth-new-york.en-gb.html?aid=336004&label=best-hotels-in-nyc
+            - generic [ref=f3e1819]: Advertising
+            - article [ref=f3e1825]:
+              - generic [ref=f3e1826]:
+                - link [ref=f3e1828] [cursor=pointer]:
+                  - /url: /newyork/hotels/greenwich-hotel
+                  - heading "27. Greenwich Hotel" [level=3] [ref=f3e1829]
+                - list [ref=f3e1832]:
+                  - listitem [ref=f3e1833]:
+                    - generic [ref=f3e1834]: Hotels
+                  - listitem [ref=f3e1835]:
+                    - generic [ref=f3e1836]: Boutique hotels
+                  - listitem [ref=f3e1837]:
+                    - generic [ref=f3e1838]: Tribeca
+                  - listitem [ref=f3e1839]:
+                    - generic [ref=f3e1840]:
+                      - generic [ref=f3e1841]: $
+                      - generic [ref=f3e1842]: $
+                      - generic [ref=f3e1843]: $
+                      - generic [ref=f3e1844]: $
+                      - generic [ref=f3e1845]: price 4 of 4
+                  - listitem [ref=f3e1846]:
+                    - generic [ref=f3e1847]: Recommended
+                - 'link "Greenwich Hotel Photograph: Courtesy The Greenwich Hotel" [ref=f3e1852] [cursor=pointer]':
+                  - /url: /newyork/hotels/greenwich-hotel
+                  - img "Greenwich Hotel" [ref=f3e1854]
+                  - generic [ref=f3e1855]: "Photograph: Courtesy The Greenwich Hotel"
+                - generic [ref=f3e1859]:
+                  - paragraph [ref=f3e1860]: Nestled on the corner of North Moore Street and Greenwich Street right by the West Side Highway, the Greenwich Hotel boasts 73 rooms, some of which overlook an interior courtyard, 11 suites and two duplex penthouses that are aptly named The Greenwich and The North Moore.
+                  - paragraph [ref=f3e1861]: On a recent visit while staying in a luxurious suite on the second floor, I almost forgot I was in New York. When looking out the window and into the courtyard, I noticed the absence of the very things that make the city what it is on a visual level. There were no buildings, no people rushing down the street and all was unbelievably peaceful.
+                  - paragraph [ref=f3e1862]: "Despite the disconnect from its surroundings, the hotel offers a premium experience when it comes to your actual stay: the beautiful bathroom, complete with a shower and a bath, was stocked with Red Flower products developed specifically for the hotel and the bed, by British company Savoir, was particularly comfortable. But there’s more: guests receive a complimentary newspaper every morning and the mini bar is filled with non-alcoholic drinks and snacks to be enjoyed completely gratis (keep in mind that the en-suite alcohol comes at a price—and we’re not just talking about a hangover)."
+                  - paragraph [ref=f3e1863]:
+                    - generic [ref=f3e1864]: "Most astounding, though, were the two main experiences adjacent to the traditional hotel: the on-site Shibui Spa, modeled after a Japanese onsen, and Locanda Verde, the famous Italian taverna that celebrity chef Andrew Carmellini opened in 2009."
+                  - paragraph [ref=f3e1865]:
+                    - strong [ref=f3e1866]: "Time Out tip:"
+                    - text: Make a reservation at Locanda Verde and book your treatment at Shibui Spa as soon as you call about your room. Both spots are extremely popular!
+                  - paragraph [ref=f3e1867]:
+                    - generic [ref=f3e1868]:
+                      - strong [ref=f3e1869]: "Address:"
+                      - text: 377 Greenwich Street, New York, 10013
+                      - strong [ref=f3e1870]: "Price:"
+                      - text: Starting at $950 per night
+                      - strong [ref=f3e1871]: "Closest Transport Link:"
+                      - text: 1,2 or A, C, E to Canal Street, then bus to Hudson Street/North Moore Street
+                - generic [ref=f3e1872]:
+                  - link "Read more" [ref=f3e1874] [cursor=pointer]:
+                    - /url: /newyork/hotels/greenwich-hotel
+                  - link "Check prices" [ref=f3e1876] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/us/the-greenwich.en-gb.html?aid=336004&label=best-hotels-in-nyc
+            - article [ref=f3e1877]:
+              - generic [ref=f3e1878]:
+                - link [ref=f3e1880] [cursor=pointer]:
+                  - /url: /newyork/hotels/the-ludlow
+                  - heading "28. The Ludlow Hotel" [level=3] [ref=f3e1881]
+                - list [ref=f3e1884]:
+                  - listitem [ref=f3e1885]:
+                    - generic [ref=f3e1886]: Hotels
+                  - listitem [ref=f3e1887]:
+                    - generic [ref=f3e1888]: Boutique hotels
+                  - listitem [ref=f3e1889]:
+                    - generic [ref=f3e1890]: Lower East Side
+                  - listitem [ref=f3e1891]:
+                    - generic [ref=f3e1892]:
+                      - generic [ref=f3e1893]: $
+                      - generic [ref=f3e1894]: $
+                      - generic [ref=f3e1895]: $
+                      - generic [ref=f3e1896]: price 3 of 4
+                  - listitem [ref=f3e1897]:
+                    - generic [ref=f3e1898]: Recommended
+                - 'link "The Ludlow Hotel Photograph: Courtesy Annie Schlecter" [ref=f3e1903] [cursor=pointer]':
+                  - /url: /newyork/hotels/the-ludlow
+                  - img "The Ludlow Hotel" [ref=f3e1905]
+                  - generic [ref=f3e1906]: "Photograph: Courtesy Annie Schlecter"
+                - generic [ref=f3e1910]:
+                  - paragraph [ref=f3e1911]: Michelin recently started awarding hotels with Michelin Keys, awarding one Key to this East Village spot. Just south of busy Houston Street, The Ludlow Hotel, is a trendy spot to spend a night (or a few).
+                  - paragraph [ref=f3e1912]: During my stay, I was greeted by a friendly doorman and walked into the large lobby, which boasts a fireplace and plenty of spots to sit and a small bar and an outdoor terrace that is perfect for enjoying a meal, sipping on a drink or relaxing. My room had a balcony and sweeping views of Lower Manhattan as well as a loveseat sofa, coffee table, TV, desk and king-size bed. The room was on the smaller side, which made it feel a bit cramped at times, but that’s to be expected in most New York City hotels. That being said, the large floor-to-ceiling windows next to the bed let in lots of natural light.
+                  - paragraph [ref=f3e1913]: The location of the hotel was the real selling point for me. No matter what direction you walk in, you’ll find an iconic NYC restaurant or bar—making it pretty easy to find somewhere good to eat whether it’s for breakfast, lunch or dinner. It’s a seriously great stay for visitors to the city who want to experience downtown Manhattan and explore areas rich in food and shopping.
+                  - paragraph [ref=f3e1914]:
+                    - strong [ref=f3e1915]: "Time Out tip:"
+                    - text: If grabbing a pastrami sandwich from Katz’s Delicatessen is on your must-do list, head to the famous sandwich shop between 10am and 11am—after that, you’ll be spending a lot of time waiting on a long line
+                  - paragraph [ref=f3e1916]:
+                    - generic [ref=f3e1917]:
+                      - strong [ref=f3e1918]: "Address:"
+                      - text: 180 Ludlow Street, New York, 10002
+                      - strong [ref=f3e1919]: "Price:"
+                      - text: Starting at $402 per night
+                      - strong [ref=f3e1920]: "Closest Transport Link:"
+                      - text: F to Lower East Side–Second Ave
+                - generic [ref=f3e1921]:
+                  - link "Read more" [ref=f3e1923] [cursor=pointer]:
+                    - /url: /newyork/hotels/the-ludlow
+                  - link "Check prices" [ref=f3e1925] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/us/the-ludlow.en-us.html?aid=336004&label=best-hotels-in-nyc
+            - generic [ref=f3e1926]: Advertising
+            - article [ref=f3e1932]:
+              - generic [ref=f3e1933]:
+                - link [ref=f3e1935] [cursor=pointer]:
+                  - /url: /newyork/hotels/the-dominick-hotel
+                  - heading "29. The Dominick Hotel" [level=3] [ref=f3e1936]
+                - list [ref=f3e1939]:
+                  - listitem [ref=f3e1940]:
+                    - generic [ref=f3e1941]: Hotels
+                  - listitem [ref=f3e1942]:
+                    - generic [ref=f3e1943]: Chain hotels
+                  - listitem [ref=f3e1944]:
+                    - generic [ref=f3e1945]: West Village
+                  - listitem [ref=f3e1946]:
+                    - generic [ref=f3e1947]: Recommended
+                - 'link "The Dominick Hotel Photograph: courtesy the Dominick Hotel" [ref=f3e1952] [cursor=pointer]':
+                  - /url: /newyork/hotels/the-dominick-hotel
+                  - img "The Dominick Hotel" [ref=f3e1954]
+                  - generic [ref=f3e1955]: "Photograph: courtesy the Dominick Hotel"
+                - generic [ref=f3e1959]:
+                  - paragraph [ref=f3e1960]: This hotel is perfect for anyone looking for a fuss-free stay on one of New York City’s most exciting streets. I entered through the Spring Street entrance and was greeted by a lobby that blends modern and mid-century styles, featuring dark wood and plenty of cozy nooks to sit, read, take a call, or get some work done. Distinct hanging steel-caged light fixtures and wood panels reminiscent of church organs make up the very tall walls.
+                  - paragraph [ref=f3e1961]: I stayed in a Skyline View King Room, which consists of a king-sized bed, a sofa and coffee table, desk space and a wet bar. The room was spacious and the views were fantastic. It was a well-kept space; the robes were soft, and the bathroom featured both a standing shower and a full tub. The tub even has a TV you can pull out to watch while soaking. The toiletries were all by Diptyque, and the subtle scent of high-end fragrances lingered in the air—I must say, I didn’t hate that at all.
+                  - paragraph [ref=f3e1962]: The hotel offers a nice mix of amenities, including a spa (some suites even have saunas) and a terrace pool, allowing you to relax or swim seven stories above Soho. The pool is adjacent to the hotel restaurant, El Ta’Koy, which serves Hawaiian-style street food.
+                  - paragraph [ref=f3e1963]: The Dominick is a well-cared-for hotel, offering everything you need for a comfortable and relaxing stay. It’s elevated by its amazing views, chic poolside restaurant, and prime location on Spring Street, with all of Soho at its doorstep.
+                  - paragraph [ref=f3e1964]:
+                    - strong [ref=f3e1965]: "Time Out tip:"
+                    - text: There’s complimentary coffee and pastries served at the hotel, but they’re easy to miss! You’ll find this buffet breakfast on the 7th floor, not the lobby like in many other hotels.
+                  - paragraph [ref=f3e1966]:
+                    - strong [ref=f3e1967]: "Address:"
+                    - text: 246 Spring Street, New York, 10013
+                    - strong [ref=f3e1968]: "Price:"
+                    - text: Starting at $610 per night
+                    - strong [ref=f3e1969]: "Closest Transport Link:"
+                    - text: A/C/E to Spring Street or 1/2 to Canal Street
+                - generic [ref=f3e1970]:
+                  - link "Read more" [ref=f3e1972] [cursor=pointer]:
+                    - /url: /newyork/hotels/the-dominick-hotel
+                  - link "Check prices" [ref=f3e1974] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/us/the-dominick-hotel.en-gb.html?aid=336004&label=best-hotels-in-nyc
+            - article [ref=f3e1975]:
+              - generic [ref=f3e1976]:
+                - link [ref=f3e1978] [cursor=pointer]:
+                  - /url: /newyork/hotels/wythe-hotel
+                  - heading "30. Wythe Hotel" [level=3] [ref=f3e1979]
+                - list [ref=f3e1982]:
+                  - listitem [ref=f3e1983]:
+                    - generic [ref=f3e1984]: Hotels
+                  - listitem [ref=f3e1985]:
+                    - generic [ref=f3e1986]: Boutique hotels
+                  - listitem [ref=f3e1987]:
+                    - generic [ref=f3e1988]: Williamsburg
+                  - listitem [ref=f3e1989]:
+                    - generic [ref=f3e1990]:
+                      - generic [ref=f3e1991]: $
+                      - generic [ref=f3e1992]: $
+                      - generic [ref=f3e1993]: $
+                      - generic [ref=f3e1994]: price 3 of 4
+                  - listitem [ref=f3e1995]:
+                    - generic [ref=f3e1996]: Recommended
+                - link "Wythe Hotel The Wythe Hotel" [ref=f3e2001] [cursor=pointer]:
+                  - /url: /newyork/hotels/wythe-hotel
+                  - img "Wythe Hotel" [ref=f3e2003]
+                  - generic [ref=f3e2004]: The Wythe Hotel
+                - generic [ref=f3e2008]:
+                  - paragraph [ref=f3e2009]: Exposed brick walls covered in local artwork, 13-foot ceilings sporting original wood beams, floor-to-ceiling factory windows offering panoramic skyline views—the Wythe Hotel is a Brooklyn real estate wet dream. Alas, unless you’re one of the tech bros who have transformed the Williamsburg waterfront into one of the city’s wealthiest neighborhoods, you likely can’t afford those kind of industrial-chic digs full-time, but the Wythe allows you to at least pretend that this is your not-so-humble abode for a few days.
+                  - paragraph [ref=f3e2010]:
+                    - generic [ref=f3e2011]:
+                      - text: Directly across the street from
+                      - link "Brooklyn Brewery" [ref=f3e2012] [cursor=pointer]:
+                        - /url: https://www.timeout.com/newyork/bars/brooklyn-brewery
+                      - text: ", all of that quintessentially North Brooklyn cool is housed inside a former early-20th-century cooperage, which was turned into a 69-room boutique hotel in 2012. Though the factory feel is still evident, what with"
+                    - generic [ref=f3e2013]: the cast-iron pipework and poured concrete floors in the guest rooms—that flooring is heated, FYI, but could use a few area rugs not only for comfort but also sound absorption—it’s been glammed up for the gentrified ‘hood.
+                    - generic [ref=f3e2014]: Cheery
+                    - text: Chateau Toile wallpaper custom-designed by artist Dan Funderburgh cover the walls, the reclaimed-timber beds are piled with plush Downlite pillows, and buttery leather sectionals are set beneath large glass chandeliers in the North 7th Loft that I stayed in, a spacious corner suite with a generous minibar area (stocked with BonBon’s viral Swedish candies and bottles of No. 80 Whiskey, the hotel’s exclusive batch with neighbor NY Distilling Co.) and a double-vanity bathroom with Davines toiletries and a deep pedestal tub.
+                  - paragraph [ref=f3e2015]:
+                    - strong [ref=f3e2016]: "Time Out tip:"
+                    - text: The Wythe doesn’t have a gym, but if you need to get a bench session in during your stay, guests are entitled to free access to Brooklyn Athletic Club, a five-minute walk away.
+                  - paragraph [ref=f3e2017]:
+                    - generic [ref=f3e2018]:
+                      - strong [ref=f3e2019]: "Address:"
+                      - text: 80 Wythe Avenue, Brooklyn, 11249
+                      - strong [ref=f3e2020]: Price
+                      - text: ": Starting at $704 per night"
+                      - strong [ref=f3e2021]: "Closest Transport Link:"
+                      - text: L to Bedford Avenue
+                - generic [ref=f3e2022]:
+                  - link "Read more" [ref=f3e2024] [cursor=pointer]:
+                    - /url: /newyork/hotels/wythe-hotel
+                  - link "Check prices" [ref=f3e2026] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/us/wythe.en-gb.html?aid=336004&label=best-hotels-in-nyc
+            - generic [ref=f3e2027]: Advertising
+            - article [ref=f3e2033]:
+              - generic [ref=f3e2034]:
+                - link [ref=f3e2036] [cursor=pointer]:
+                  - /url: /newyork/hotels/boro-hotel
+                  - heading "31. Boro Hotel" [level=3] [ref=f3e2037]
+                - list [ref=f3e2040]:
+                  - listitem [ref=f3e2041]:
+                    - generic [ref=f3e2042]: Hotels
+                  - listitem [ref=f3e2043]:
+                    - generic [ref=f3e2044]: Boutique hotels
+                  - listitem [ref=f3e2045]:
+                    - generic [ref=f3e2046]: Long Island City
+                  - listitem [ref=f3e2047]:
+                    - generic [ref=f3e2048]:
+                      - generic [ref=f3e2049]: $
+                      - generic [ref=f3e2050]: $
+                      - generic [ref=f3e2051]: price 2 of 4
+                  - listitem [ref=f3e2052]:
+                    - generic [ref=f3e2053]: Recommended
+                - 'link "Boro Hotel Photograph: Courtesy Floto+Warner" [ref=f3e2058] [cursor=pointer]':
+                  - /url: /newyork/hotels/boro-hotel
+                  - img "Boro Hotel" [ref=f3e2060]
+                  - generic [ref=f3e2061]: "Photograph: Courtesy Floto+Warner"
+                - generic [ref=f3e2065]:
+                  - paragraph [ref=f3e2066]: Long Island City’s best lobby for working and using the free Wi-Fi is at the Boro Hotel. But it’s also the type of lodging ideal for couples and adult friends who might want to come to a space that feels big and airy after a long day of trudging through Manhattan. If you book a stay here, try to book a room with views of Manhattan—the sweeping views of the Queensboro Bridge and the Upper East Side are pretty difficult to match.
+                  - paragraph [ref=f3e2067]: The elegant industrial lobby was designed by the firm Grzywinski + Pons (also behind the Hotel on Rivington in the Lower East Side), and has lots of natural light, tables and chairs, modern sofas, a fireplace and bookshelves curated by Strand Books in Union Square.
+                  - paragraph [ref=f3e2068]: Rooms and suites have a similar minimalist feel, thanks to mid-century modern furniture, stark white linens and hanging edison bulbs. Non-guests can order coffees at the cafe and drinks at the lobby bar, or also check out their new-ish restaurant Beebe’s, which serves some pretty solid brick oven pizzas, pastas and a killer ricotta.
+                  - paragraph [ref=f3e2069]: While this might feel worlds away from the buzz of Manhattan, from the Boro Hotel it’s very easy to reach. Hop on the 7 train and you’ll be in Midtown in under 30 minutes.
+                  - paragraph [ref=f3e2070]:
+                    - strong [ref=f3e2071]: "Time Out Tip:"
+                    - text: Don’t cross the East River into Manhattan without first checking out
+                    - link "Socrates Sculpture Park" [ref=f3e2072] [cursor=pointer]:
+                      - /url: https://www.timeout.com/newyork/attractions/socrates-sculpture-park
+                    - text: ", a city park that hosts large-scale sculpture exhibits year round. Views of the Manhattan skyline are just an added bonus."
+                  - paragraph [ref=f3e2073]:
+                    - strong [ref=f3e2074]: "Address:"
+                    - text: 38-28 27th Street, Long Island City, 11101
+                    - strong [ref=f3e2075]: "Price:"
+                    - text: Starting at $165 per night
+                    - strong [ref=f3e2076]: "Closest Transport Link:"
+                    - text: N, Q to 39th Avenue
+                - generic [ref=f3e2077]:
+                  - link "Read more" [ref=f3e2079] [cursor=pointer]:
+                    - /url: /newyork/hotels/boro-hotel
+                  - link "Check prices" [ref=f3e2081] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/us/the-boro-hotel-lic.en-gb.html?aid=336004&label=best-hotels-in-nyc
+            - article [ref=f3e2082]:
+              - generic [ref=f3e2083]:
+                - link [ref=f3e2085] [cursor=pointer]:
+                  - /url: /newyork/hotels/modernhaus-soho
+                  - heading "32. Modernhaus SoHo" [level=3] [ref=f3e2086]
+                - list [ref=f3e2089]:
+                  - listitem [ref=f3e2090]:
+                    - generic [ref=f3e2091]: Hotels
+                  - listitem [ref=f3e2092]:
+                    - generic [ref=f3e2093]: Soho
+                  - listitem [ref=f3e2094]:
+                    - generic [ref=f3e2095]: Recommended
+                - 'link "Modernhaus SoHo Photograph: ModernHaus SoHo" [ref=f3e2100] [cursor=pointer]':
+                  - /url: /newyork/hotels/modernhaus-soho
+                  - img "Modernhaus SoHo" [ref=f3e2102]
+                  - generic [ref=f3e2103]: "Photograph: ModernHaus SoHo"
+                - generic [ref=f3e2107]:
+                  - paragraph [ref=f3e2108]: Located on the southwest corner of Soho, ModernHaus SoHo is a boutique hotel that blends art and design. Formerly The James New York - Soho, the 114-room property underwent an extensive year-and-a-half renovation in 2020, before reopening with a new name and new look. The result is a work of art, inside and out.
+                  - paragraph [ref=f3e2109]: Staying in the Skyline King Studio, the rooms mirror the sophistication of Soho with an edge. Elements of dark wood, concrete and tan leather detail the interior, giving the room a modernist feel. But the crown jewel of the room goes to the views themselves. Two walls of the corner studio feature floor-to-ceiling windows giving sights of Soho and Tribeca, and even a few glimpses of the water if you angle your head right. You can catch these views anywhere in the room, including inside the glass-encased bathroom. You may feel emboldened to survey your kingdom like a king in the nude, but for privacy’s sake, I hit the mechanical shutters and went to the bathroom in peace. The room is entirely insulated from the noise below, for once making the city a quiet place without people and honking cars—just a glorious skyline.
+                  - paragraph [ref=f3e2110]: This usage of glass is carried on in the hotel’s restaurant, Twenty Three Grand. The greenhouse-like dining room is entirely encased in glass, with a roof that retracts when the weather is pleasant. Reminiscent of a European bistro, the curved dining room is lined with lush greenery, aquamarine tufted booths and black and white tiled floor. Jazzy tunes from the live band only heightened the romantic space when I visited for dinner.
+                  - paragraph [ref=f3e2111]:
+                    - strong [ref=f3e2112]: "Time Out tip:"
+                    - text: Modernhaus is dog-friendly! So bring your pup and they’ll get a doggie bed and a bowl for water to sip water among the sky.
+                  - paragraph [ref=f3e2113]:
+                    - strong [ref=f3e2114]: "Address:"
+                    - text: 27 Grand Street, New York, 10013
+                    - strong [ref=f3e2115]: Price
+                    - text: ": Starting at $582 per night"
+                    - strong [ref=f3e2116]: Closest Transport Link
+                    - text: ": 1/2 to Canal Street or A/C/E to Spring Street"
+                - generic [ref=f3e2117]:
+                  - link "Read more" [ref=f3e2119] [cursor=pointer]:
+                    - /url: /newyork/hotels/modernhaus-soho
+                  - link "Check prices" [ref=f3e2121] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/us/modernhaus-soho.en-gb.html?aid=336004&label=best-hotels-in-nyc
+            - generic [ref=f3e2122]: Advertising
+            - article [ref=f3e2128]:
+              - generic [ref=f3e2129]:
+                - link [ref=f3e2131] [cursor=pointer]:
+                  - /url: /newyork/hotels/1-hotel-central-park
+                  - heading "33. 1 Hotel Central Park" [level=3] [ref=f3e2132]
+                - list [ref=f3e2135]:
+                  - listitem [ref=f3e2136]:
+                    - generic [ref=f3e2137]: Hotels
+                  - listitem [ref=f3e2138]:
+                    - generic [ref=f3e2139]: Boutique hotels
+                  - listitem [ref=f3e2140]:
+                    - generic [ref=f3e2141]: Midtown West
+                  - listitem [ref=f3e2142]:
+                    - generic [ref=f3e2143]:
+                      - generic [ref=f3e2144]: $
+                      - generic [ref=f3e2145]: $
+                      - generic [ref=f3e2146]: $
+                      - generic [ref=f3e2147]: price 3 of 4
+                  - listitem [ref=f3e2148]:
+                    - generic [ref=f3e2149]: Recommended
+                - 'link "1 Hotel Central Park Photograph: Courtesy 1 Hotel Central Park" [ref=f3e2154] [cursor=pointer]':
+                  - /url: /newyork/hotels/1-hotel-central-park
+                  - img "1 Hotel Central Park" [ref=f3e2156]
+                  - generic [ref=f3e2157]: "Photograph: Courtesy 1 Hotel Central Park"
+                - generic [ref=f3e2161]:
+                  - paragraph [ref=f3e2162]: Just a block from Central Park South, 1 Hotel Central Park is a green hotel combines nature with comfort, the perfect place if you’re looking to be close to the hustle and bustle of midtown and the calmness of Central Park.
+                  - paragraph [ref=f3e2163]: When I walked through the large wooden doors of the hotel and stepped inside the lobby, I noticed that the space is filled with nature-inspired decor including glass terrariums, potted plants, and walls of tree bark—all paying homage to the iconic green space just a block away.
+                  - paragraph [ref=f3e2164]: I stayed in the City King room which included a bed, small table, TV, king-sized bed and two night tables. The size of the room was comfortable for a Manhattan hotel and the green, nature-focused decor made the room feel so homey. The wood paneling and plants made me feel like I was staying in someone’s well-decorated guest room, which I really enjoyed.
+                  - paragraph [ref=f3e2165]: The attention to detail is prominent throughout the entire hotel, from the plants in the lobby to the potted moss on the bedroom windowsills. If you’re looking to stay at a hotel close to the hustle and bustle of midtown Manhattan, while also being a few steps away from Central park, this is definitely the spot.
+                  - paragraph [ref=f3e2166]:
+                    - strong [ref=f3e2167]: "Time Out tip:"
+                    - text: Skip room service and head downstairs to Jams for breakfast in the morning and try their Brioche French Toast.
+                  - paragraph [ref=f3e2168]:
+                    - generic [ref=f3e2169]:
+                      - strong [ref=f3e2170]: "Address:"
+                      - text: 1414 Avenue of the Americas, New York, 10019
+                      - strong [ref=f3e2171]: "Price:"
+                      - text: From $570 per night
+                      - strong [ref=f3e2172]: "Closest Transport Link:"
+                      - text: F to 57th St; N, Q, R to 5th Ave/59th St; D, D, E to 7th Ave
+                - generic [ref=f3e2173]:
+                  - link "Read more" [ref=f3e2175] [cursor=pointer]:
+                    - /url: /newyork/hotels/1-hotel-central-park
+                  - link "Check prices" [ref=f3e2177] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/us/1-hotel-central-park.en-gb.html?aid=336004&label=best-hotels-in-nyc
+            - article [ref=f3e2178]:
+              - generic [ref=f3e2179]:
+                - link [ref=f3e2181] [cursor=pointer]:
+                  - /url: /newyork/hotels/the-fidi-hotel
+                  - heading "34. The FiDi Hotel" [level=3] [ref=f3e2182]
+                - list [ref=f3e2185]:
+                  - listitem [ref=f3e2186]:
+                    - generic [ref=f3e2187]: Hotels
+                  - listitem [ref=f3e2188]:
+                    - generic [ref=f3e2189]: Financial District
+                  - listitem [ref=f3e2190]:
+                    - generic [ref=f3e2191]: Recommended
+                - 'link "The FiDi Hotel Photograph: Lester Ali" [ref=f3e2196] [cursor=pointer]':
+                  - /url: /newyork/hotels/the-fidi-hotel
+                  - img "The FiDi Hotel" [ref=f3e2198]
+                  - generic [ref=f3e2199]: "Photograph: Lester Ali"
+                - generic [ref=f3e2203]:
+                  - paragraph [ref=f3e2204]: "The 131-room FiDi Hotel aims to be ‘a welcome harbor for business travelers and holidaymakers in New York City’s Financial District’, and welcome it is: though similarly priced, the FiDi Hotel is immediately substantially cooler than the DoubleTree by Hilton rooted right across the street, with friendly, recommendation-ready staffers at the concierge desk and some rogue disco balls pepping up the industrial rawness of the lobby space."
+                  - paragraph [ref=f3e2205]: Designed by the New York-based firm Kroesser + Strat Design, the Stone Street building itself features a multi-colored, Piet Mondrian-inspired glass façade, hinting at the modern sleekness highlighted within.
+                  - paragraph [ref=f3e2206]: Ranging from 151-square-foot Superior Queen accommodations to 283-square-foot Executive King suites, each guest room is edgily dressed with wood-motif wallpaper, brass light fixtures and bold black-and-white artwork, along with thoughtfully luxe touches like SMEG mini-fridges, high-fashion art books and sumptuous white linens. Though clean and spacious, the bathrooms are slightly less than tranquil with their dizzying, all-over geometric tiles, and could benefit from some storage. Similarly, the larger suites with private terraces and floor-to-ceiling windows are well worth the splurge, but could make better use of their square footage in the living room space—if you want to enjoy your complimentary coffee from the hotel’s second-floor lounge (where, graciously, there is plenty of seating) or a surprise bottle of bubbly from the reception staff, there’s really nowhere to set it down in the sofa area.
+                  - paragraph [ref=f3e2207]: Speaking of drinks, there is a bar on premises—the SpareChange Lounge on the 30th and 31st floors, which is glammed up with velvet mid-century seating, a statement marble bar and more of those fun-loving disco balls.
+                  - paragraph [ref=f3e2208]:
+                    - strong [ref=f3e2209]: "Time Out tip:"
+                    - text: If it’s your first time staying in the Financial District, the hotel offers a handy ‘Stay and Stroll’ package for a three- or five-night stay, which includes a walking tour of Lower Manhattan hosted by Interboro Tours.
+                  - paragraph [ref=f3e2210]:
+                    - strong [ref=f3e2211]: Address
+                    - text: ": 11 Stone Street, New York, 10004"
+                    - strong [ref=f3e2212]: Price
+                    - text: ": Starting at $157 per night"
+                    - strong [ref=f3e2213]: Closest Transport Link
+                    - text: ": 1 at South Ferry; 4, 5 at Bowling Green; J,Z at Broad St; R,W at Whitehall St-South Ferry"
+                - generic [ref=f3e2214]:
+                  - link "Read more" [ref=f3e2216] [cursor=pointer]:
+                    - /url: /newyork/hotels/the-fidi-hotel
+                  - link "Check prices" [ref=f3e2218] [cursor=pointer]:
+                    - /url: https://www.booking.com/hotel/us/the-fidi.en-gb.html?aid=336004&label=venue-listing
+            - generic [ref=f3e2219]: Advertising
+            - article [ref=f3e2225]:
+              - generic [ref=f3e2226]:
+                - link [ref=f3e2228] [cursor=pointer]:
+                  - /url: /newyork/hotels/sofitel-new-york
+                  - heading "35. Sofitel New York" [level=3] [ref=f3e2229]
+                - list [ref=f3e2232]:
+                  - listitem [ref=f3e2233]:
+                    - generic [ref=f3e2234]: Hotels
+                  - listitem [ref=f3e2235]:
+                    - generic [ref=f3e2236]: Chain hotels
+                  - listitem [ref=f3e2237]:
+                    - generic [ref=f3e2238]: Midtown West
+                  - listitem [ref=f3e2239]:
+                    - generic [ref=f3e2240]:
+                      - generic [ref=f3e2241]: $
+                      - generic [ref=f3e2242]: $
+                      - generic [ref=f3e2243]: $
+                      - generic [ref=f3e2244]: $
+                      - generic [ref=f3e2245]: price 4 of 4
+                  - listitem [ref=f3e2246]:
+                    - generic [ref=f3e2247]: Recommended
+                - 'link "Sofitel New York Photograph: Abaca Press / Aaron Joel Santos" [ref=f3e2252] [cursor=pointer]':
+                  - /url: /newyork/hotels/sofitel-new-york
+                  - img "Sofitel New York" [ref=f3e2254]
+                  - generic [ref=f3e2255]: "Photograph: Abaca Press / Aaron Joel Santos"
+                - generic [ref=f3e2259]:
+                  - paragraph [ref=f3e2260]: Pass under the quintessential New York black awning and rotate through the revolving door into the Sofitel New York, the brand’s revamped North American flagship. The lobby is a lengthy, imposing, Art Deco-inspired lair that offers a warm, lowly illuminated welcome from the city streets. While the layout is slightly bizarre—requiring a walk past a glitzy statement staircase to reach reception—floating staff ensure the check-in process is seamless. This Midtown base brims with potential, balancing a “French zest” with the professional, efficient expertise of a seasoned business hotel.
+                  - paragraph [ref=f3e2261]: The guest rooms are a primary draw, ranging from generous 350-square-foot units to a lavish 1,205-square-foot penthouse. In the Prestige One-Bedroom King Suite, floor-to-ceiling windows and a clever circular layout provide a sense of space rarely found in Manhattan. While the beige marble bathrooms feel slightly dated, the functionality is top-tier, featuring piping-hot showers and floral Diptyque toiletries. The true standout is the Sofitel MyBed™, a doughy, feather-top mattress with satiny sheets and supportive pillows that provide some of the comfiest sleep imaginable. It is an ideal sanctuary for Big Light haters, kitted out with plenty of well-placed lamps.
+                  - paragraph [ref=f3e2262]: Service here is polished and experienced; many employees have been on-site since the hotel opened 25 years ago. While the on-site restaurant, Social 45, feels a bit cookie-cutter, room service is prompt and high-quality. Ultimately, the hotel’s greatest asset is its unbeatable location on West 44th Street. With the Rockefeller Center, Broadway, and Bryant Park just a short stroll away, it serves as a reliable, high-end base for those looking to maximize their time at the heart of Manhattan.
+                  - paragraph [ref=f3e2263]:
+                    - strong [ref=f3e2264]: "Time Out tip:"
+                    - text: Head to either
+                    - link "Nisran’s Kitchen" [ref=f3e2265] [cursor=pointer]:
+                      - /url: https://www.timeout.com/newyork/restaurants/nasrins-kitchen
+                    - text: or
+                    - link "Kochi" [ref=f3e2266] [cursor=pointer]:
+                      - /url: https://www.timeout.com/newyork/restaurants/kochi
+                    - text: for good, local dinner spots.
+                  - paragraph [ref=f3e2267]:
+                    - strong [ref=f3e2269]: "Address:"
+                    - generic [ref=f3e2270]: 45 West 44th Street, New York, NY 10036, USA
+                    - generic [ref=f3e2271]:
+                      - strong [ref=f3e2272]: "Price per night:"
+                      - text: Rooms start at $550 including breakfast
+                    - strong [ref=f3e2273]: "Closest transport:"
+                    - text: 42 St-Bryant Park subway station, for the B, D, F and M trains, is two blocks away, and you’re a 10-minute walk from Grand Central Station. LaGuardia Airport is a 45 minute drive, Newark is 50 and JFK is one hour and 10 minutes.
+                - generic [ref=f3e2274]:
+                  - link "Read more" [ref=f3e2276] [cursor=pointer]:
+                    - /url: /newyork/hotels/sofitel-new-york
+                  - link "Check prices" [ref=f3e2278] [cursor=pointer]:
+                    - /url: https://airbnb.pvxt.net/E092yn
+        - generic [ref=f3e2282]:
+          - generic [ref=f3e2283]:
+            - paragraph [ref=f3e2284]: Been there, done that? Think again, my friend.
+            - generic [ref=f3e2285]: Sign up to our newsletter to enjoy New York without spending a thing (as well as options when you're feeling flush).
+          - generic [ref=f3e2286]:
+            - generic [ref=f3e2287]:
+              - generic [ref=f3e2288]:
+                - generic [ref=f3e2289]: Enter email address
+                - textbox "Enter email address" [ref=f3e2290]
+              - button "Subscribe" [ref=f3e2293] [cursor=pointer]
+            - paragraph [ref=f3e2295]:
+              - text: By entering your email address you agree to our
+              - link "Terms of Use" [ref=f3e2296] [cursor=pointer]:
+                - /url: https://www.timeout.com/terms-of-use
+              - text: and
+              - link "Privacy Policy" [ref=f3e2297] [cursor=pointer]:
+                - /url: https://www.timeout.com/privacy-notice
+              - text: and consent to receive emails from Time Out about news, events, offers and partner promotions.
+      - complementary [ref=f3e2298]:
+        - generic [ref=f3e2303]:
+          - paragraph [ref=f3e2304]: Popular on Time Out
+          - generic [ref=f3e2305]:
+            - link [ref=f3e2306] [cursor=pointer]:
+              - /url: /newyork/events-calendar/october-events-calendar
+              - img "NYC events in October 2026" [ref=f3e2308]
+              - article [ref=f3e2309]:
+                - paragraph [ref=f3e2310]: Things to do
+                - paragraph [ref=f3e2311]: NYC events in October 2026
+            - link [ref=f3e2312] [cursor=pointer]:
+              - /url: /newyork/things-to-do/things-to-do-in-new-york-this-week
+              - img "The best things to do in NYC this week" [ref=f3e2314]
+              - article [ref=f3e2315]:
+                - paragraph [ref=f3e2316]: Things to do
+                - paragraph [ref=f3e2317]: The best things to do in NYC this week
+            - link [ref=f3e2318] [cursor=pointer]:
+              - /url: /newyork/things-to-do/things-to-do-in-nyc-this-weekend
+              - img "The best things to do in NYC this weekend" [ref=f3e2320]
+              - article [ref=f3e2321]:
+                - paragraph [ref=f3e2322]: Things to do
+                - paragraph [ref=f3e2323]: The best things to do in NYC this weekend
+            - link [ref=f3e2324] [cursor=pointer]:
+              - /url: /newyork/things-to-do/things-to-do-in-new-york-this-fall
+              - img "The best fall activities in NYC to do with the arrival of Autumn" [ref=f3e2326]
+              - article [ref=f3e2327]:
+                - paragraph [ref=f3e2328]: Things to do
+                - paragraph [ref=f3e2329]: The best fall activities in NYC to do with the arrival of Autumn
+            - link [ref=f3e2330] [cursor=pointer]:
+              - /url: /newyork/news/this-midtown-steakhouse-is-bringing-back-its-2006-prices-for-one-day-only-092526
+              - img "This midtown steakhouse is bringing back its 2006 prices for one day only" [ref=f3e2332]
+              - article [ref=f3e2333]:
+                - paragraph [ref=f3e2334]: Restaurants
+                - paragraph [ref=f3e2335]: This midtown steakhouse is bringing back its 2006 prices for one day only
+    - generic [ref=f3e2338]:
+      - complementary
+  - generic [ref=f3e2339]:
+    - link "Back to Top" [ref=f3e2341] [cursor=pointer]:
+      - /url: "#top"
+    - generic [ref=f3e2349]:
+      - generic [ref=f3e2350]:
+        - link [ref=f3e2351] [cursor=pointer]:
+          - /url: https://www.timeout.com/newyork
+          - img "Timeout" [ref=f3e2352]
+        - generic [ref=f3e2361]:
+          - paragraph [ref=f3e2363]: Get us in your inbox
+          - generic [ref=f3e2364]:
+            - generic [ref=f3e2365]:
+              - generic [ref=f3e2366]:
+                - generic [ref=f3e2367]: Email address
+                - textbox "Email address" [ref=f3e2368]
+              - button "Subscribe" [ref=f3e2371] [cursor=pointer]
+            - paragraph [ref=f3e2372]:
+              - text: By entering your email address you agree to our
+              - link "Terms of Use" [ref=f3e2373] [cursor=pointer]:
+                - /url: https://www.timeout.com/terms-of-use
+              - text: and
+              - link "Privacy Policy" [ref=f3e2374] [cursor=pointer]:
+                - /url: https://www.timeout.com/privacy-notice
+              - text: and consent to receive emails from Time Out about news, events, offers and partner promotions.
+        - generic [ref=f3e2377]:
+          - link "instagram" [ref=f3e2378] [cursor=pointer]:
+            - /url: http://instagram.com/timeoutnewyork
+          - link "tiktok" [ref=f3e2383] [cursor=pointer]:
+            - /url: https://www.tiktok.com/@timeoutnewyork
+          - link "facebook" [ref=f3e2387] [cursor=pointer]:
+            - /url: https://www.facebook.com/timeoutnewyork
+          - link "twitter" [ref=f3e2391] [cursor=pointer]:
+            - /url: https://twitter.com/TimeOutNewYork
+          - link "youtube" [ref=f3e2395] [cursor=pointer]:
+            - /url: https://www.youtube.com/user/TimeOutNewYork
+      - generic [ref=f3e2399]:
+        - generic [ref=f3e2401]:
+          - generic [ref=f3e2402]:
+            - paragraph [ref=f3e2403]:
+              - link "About us" [ref=f3e2404] [cursor=pointer]:
+                - /url: https://www.timeout.com/about
+            - list [ref=f3e2405]:
+              - listitem [ref=f3e2406]:
+                - link "Press office" [ref=f3e2407] [cursor=pointer]:
+                  - /url: https://www.timeout.com/about/latest-news
+              - listitem [ref=f3e2408]:
+                - link "Investor relations" [ref=f3e2409] [cursor=pointer]:
+                  - /url: https://www.timeout.com/about/investors
+              - listitem [ref=f3e2410]:
+                - link "Our awards" [ref=f3e2411] [cursor=pointer]:
+                  - /url: https://www.timeout.com/about/awards
+              - listitem [ref=f3e2412]:
+                - link "Work for Time Out" [ref=f3e2413] [cursor=pointer]:
+                  - /url: https://www.timeout.com/about/work-for-time-out
+              - listitem [ref=f3e2414]:
+                - link "Editorial guidelines" [ref=f3e2415] [cursor=pointer]:
+                  - /url: https://www.timeout.com/about/editorial-guidelines
+              - listitem [ref=f3e2416]:
+                - link "Privacy notice" [ref=f3e2417] [cursor=pointer]:
+                  - /url: https://www.timeout.com/privacy-notice
+              - listitem [ref=f3e2418]:
+                - link "Do not sell my information" [ref=f3e2419] [cursor=pointer]:
+                  - /url: https://www.timeout.com/privacy-notice#CCPA
+              - listitem [ref=f3e2420]:
+                - link "Cookie policy" [ref=f3e2421] [cursor=pointer]:
+                  - /url: https://www.timeout.com/cookie-policy
+              - listitem [ref=f3e2422]:
+                - link "Accessibility statement" [ref=f3e2423] [cursor=pointer]:
+                  - /url: https://www.timeout.com/accessibility-statement
+              - listitem [ref=f3e2424]:
+                - link "Terms of use" [ref=f3e2425] [cursor=pointer]:
+                  - /url: https://www.timeout.com/usa/terms-of-use
+              - listitem [ref=f3e2426]:
+                - link "Copyright agent" [ref=f3e2427] [cursor=pointer]:
+                  - /url: https://www.timeout.com/usa/terms-of-use#copyrightagent
+              - listitem [ref=f3e2428]:
+                - link "Modern slavery statement" [ref=f3e2429] [cursor=pointer]:
+                  - /url: https://assets.timeout.com/application/pdf/1d50b1f88ff2e3350a3204f2321d9671/modern_slavery_statement.pdf
+              - listitem [ref=f3e2430]:
+                - link "Manage cookies" [ref=f3e2431] [cursor=pointer]:
+                  - /url: ""
+          - generic [ref=f3e2432]:
+            - paragraph [ref=f3e2433]:
+              - link "Contact us" [ref=f3e2434] [cursor=pointer]:
+                - /url: https://www.timeout.com/about/contact-us
+            - list [ref=f3e2435]:
+              - listitem [ref=f3e2436]:
+                - link "Get Listed" [ref=f3e2437] [cursor=pointer]:
+                  - /url: https://www.timeout.com/newyork/get-listed
+              - listitem [ref=f3e2438]:
+                - link "Claim your listing" [ref=f3e2439] [cursor=pointer]:
+                  - /url: https://www.timeout.com/newyork/get-listed-submit-a-venue
+              - listitem [ref=f3e2440]:
+                - link "Local Marketing Solutions" [ref=f3e2441] [cursor=pointer]:
+                  - /url: https://business.timeout.group/united-states/product/local/
+              - listitem [ref=f3e2442]:
+                - link "Advertising" [ref=f3e2443] [cursor=pointer]:
+                  - /url: https://business.timeout.group/united-states/
+              - listitem [ref=f3e2444]:
+                - link "Time Out Market" [ref=f3e2445] [cursor=pointer]:
+                  - /url: https://www.timeout.com/time-out-market
+          - generic [ref=f3e2446]:
+            - paragraph [ref=f3e2447]: Time Out products
+            - list [ref=f3e2448]:
+              - listitem [ref=f3e2449]:
+                - link "Time Out Worldwide" [ref=f3e2450] [cursor=pointer]:
+                  - /url: https://www.timeout.com
+              - listitem [ref=f3e2451]:
+                - link "Guidebook" [ref=f3e2452] [cursor=pointer]:
+                  - /url: https://www.amazon.co.uk/stores/page/CEE7EE6C-EDBD-4D7F-9FC1-D67C5A7558D4?ingress=3
+              - listitem [ref=f3e2453]:
+                - link "Movies" [ref=f3e2454] [cursor=pointer]:
+                  - /url: https://www.timeout.com/movies
+              - listitem [ref=f3e2455]:
+                - link "Music Lists" [ref=f3e2456] [cursor=pointer]:
+                  - /url: https://www.timeout.com/music
+              - listitem [ref=f3e2457]:
+                - link "Restaurants" [ref=f3e2458] [cursor=pointer]:
+                  - /url: https://www.timeout.com/newyork/restaurants
+              - listitem [ref=f3e2459]:
+                - link "Neighborhood Guides" [ref=f3e2460] [cursor=pointer]:
+                  - /url: https://www.timeout.com/newyork/neighborhoods
+        - generic [ref=f3e2462]:
+          - link "Site map" [ref=f3e2464] [cursor=pointer]:
+            - /url: /newyork/sitemaps
+          - text: © 2026 Time Out England Limited and affiliated companies owned by Time Out Group Plc. All rights reserved. Time Out is a registered trademark of Time Out Digital Limited.

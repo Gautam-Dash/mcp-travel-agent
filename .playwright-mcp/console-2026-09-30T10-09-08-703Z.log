@@ -1,0 +1,153 @@
+[    1269ms] [WARNING] [GPT] PubAdsService.enableSingleRequest is deprecated, use googletag.setConfig({singleRequest: ...}) instead.
+https://goo.gle/gpt-message#170 @ :5
+[    1272ms] [WARNING] [GPT] Slot.setTargeting is deprecated, use Slot.setConfig({targeting: ...}) instead.
+https://goo.gle/gpt-message#171 @ :5
+[    1448ms] Error: Minified React error #418; visit https://react.dev/errors/418?args[]=HTML&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at rY (https://weather.com/_next/static/chunks/1h9ohlsc0hfe7.js?dpl=dpl_28iHBNRsgKKEsLMBp2xzUxTpg6wn:1:40207)
+    at iu (https://weather.com/_next/static/chunks/1h9ohlsc0hfe7.js?dpl=dpl_28iHBNRsgKKEsLMBp2xzUxTpg6wn:1:91248)
+    at sd (https://weather.com/_next/static/chunks/1h9ohlsc0hfe7.js?dpl=dpl_28iHBNRsgKKEsLMBp2xzUxTpg6wn:1:131938)
+    at https://weather.com/_next/static/chunks/1h9ohlsc0hfe7.js?dpl=dpl_28iHBNRsgKKEsLMBp2xzUxTpg6wn:1:126824
+    at se (https://weather.com/_next/static/chunks/1h9ohlsc0hfe7.js?dpl=dpl_28iHBNRsgKKEsLMBp2xzUxTpg6wn:1:126925)
+    at sH (https://weather.com/_next/static/chunks/1h9ohlsc0hfe7.js?dpl=dpl_28iHBNRsgKKEsLMBp2xzUxTpg6wn:1:153489)
+    at MessagePort._ (https://weather.com/_next/static/chunks/1h9ohlsc0hfe7.js?dpl=dpl_28iHBNRsgKKEsLMBp2xzUxTpg6wn:1:1647)
+[    1535ms] [LOG] Pushly SDK loaded @ :5
+[    1575ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://api.weather.com/v3/alerts/headlines?format=json&language=en-US&apiKey=71f92ea9dd2f4790b92ea9dd2f779061&geocode=12.979%2C77.591:0
+[    1632ms] [WARNING] Identity value for 'email' is falsy (). This value will be removed from the request. @ :5
+[    1681ms] [ERROR] Not signed in with the identity provider. @ https://weather.com/in/karnataka/city/bengaluru/today:0
+[    2044ms] [WARNING] [GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead.
+https://goo.gle/gpt-message#155 @ :5
+[    3154ms] [WARNING] publisher-end divID: #internal_trc_trc_519123451: not found @ :5
+[    3154ms] [WARNING] publisher-end divID: #internal_trc_trc_5159812412: not found @ :5
+[    3155ms] [WARNING] publisher-end divID: #internal_trc_trc_12677809: not found @ :5
+[    3156ms] [WARNING] publisher-end divID: #internal_trc_trc_26149599: not found @ :5
+[    3315ms] [WARNING] Placements With no Content: Below Content Thumbnails - today | Lazy Injected 1 @ :5
+[    3315ms] [WARNING] Placements With no Content: Below Content Thumbnails - today | Lazy Injected 1 @ :5
+[    3476ms] [LOG] [flags] Cleared persisted variants from IndexedDB @ :5
+[    3918ms] [LOG] %c *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  color: #293BFF; @ :5
+[    3918ms] [LOG] %c LetMeAllez font-weight: bold; font-size: 50px; color: #293BFF; text-shadow: 3px 3px 0 #2BCCCC , 6px 6px 0 #57CCFF , 9px 9px 0 #33FF57 , 12px 12px 0 #FFC300 , 15px 15px 0 #FF5733 , 18px 18px 0 #F52B9A , 21px 21px 0 #9A2BF5; @ :5
+[    3918ms] [LOG] [LMA] 🔖 Version: %c75a05b0 color: #6B8FFF; font-weight: bold; @ :5
+[    3918ms] [LOG] [LMA] 🪪 Script ID: %c698ca9e34c34b202a2c68958 color: #6B8FFF; font-weight: bold; @ :5
+[    3918ms] [LOG] [LMA] 🟢 Active: %ctrue color: #6B8FFF; font-weight: bold; @ :5
+[    3918ms] [LOG] [LMA] 👥 Partner ID: %ctheweathercompany color: #6B8FFF; font-weight: bold; @ :5
+[    3918ms] [LOG] [LMA] 🔎 deepStruct: %c(none) color: #6B8FFF; font-weight: bold; @ :5
+[    3918ms] [LOG] [LMA] 🏕️ Campaign: %cweather-in-today color: #6B8FFF; font-weight: bold; @ :5
+[    3918ms] [LOG] [LMA] ⚡️ Sparklink: %cDisabled color: #FF5733; font-weight: bold; @ :5
+[    3918ms] [LOG] [LMA] ⛓️‍💥 Link Swap: %cDisabled color: #FF5733; font-weight: bold; @ :5
+[    3918ms] [LOG] [LMA] 🚫 Excludes: %cagoda, booking, expedia, hotelscom, kayak, vrbo, getyourguide color: #FF5733; font-weight: bold; @ :5
+[    3918ms] [LOG] %c *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  color: #293BFF; @ :5
+[    4316ms] [WARNING] This ad's html cannot be accessed using the getHtml method on googletag.Slot. Returning the empty string instead. @ :5
+[    4319ms] [WARNING] This ad's html cannot be accessed using the getHtml method on googletag.Slot. Returning the empty string instead. @ :5
+[    4324ms] [WARNING] This ad's html cannot be accessed using the getHtml method on googletag.Slot. Returning the empty string instead. @ :5
+[    4329ms] [WARNING] This ad's html cannot be accessed using the getHtml method on googletag.Slot. Returning the empty string instead. @ :5
+[    4407ms] [WARNING] This ad's html cannot be accessed using the getHtml method on googletag.Slot. Returning the empty string instead. @ :5
+[    4780ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://dps.jp.cinarra.com/pxd?PLATFORM_ID=1&USER_ID=dadd03d7-401c-8098-f650-9dbc2e47c060:0
+[    4940ms] [LOG] 14.68 @ https://s0.2mdn.net/sadbundle/1888251582964094055/2503g0015_0924_9924400_in_isg_ent_fy27q3w1_oa_nvdmdf_ai-factory-mayahtt-300x600-custom.js:67
+[    4947ms] [LOG] 14.68 @ https://s0.2mdn.net/sadbundle/5546682434209244472/2503g0015_0924_9924400_in_isg_ent_fy27q3w1_oa_nvdmdf_ai-factory-mayahtt-970x250-custom.js:72
+[    5892ms] [ERROR] [GSI_LOGGER]: FedCM get() rejects with NetworkError: Error retrieving a token. @ :5
+[    7078ms] [LOG] invalid tracking pixel from cid: 7162878366_138512087564 @ :36
+[    7078ms] [LOG] invalid tracking pixel from cid: 7162878366_138512087564 @ :36
+[    7078ms] [LOG] invalid tracking pixel from cid: 7162878366_138512087564 @ :36
+[    7092ms] [LOG] http://weather.com?cm_ven=MktgDisplayHouse_Evergreen_4012025_1 @ :59
+[    7092ms] [LOG] http @ :63
+[    7158ms] [LOG] invalid tracking pixel from cid: 7162878453_138512662876 @ :36
+[    7158ms] [LOG] invalid tracking pixel from cid: 7162878453_138512662876 @ :36
+[    7158ms] [LOG] invalid tracking pixel from cid: 7162878453_138512662876 @ :36
+[    7172ms] [LOG] http://weather.com?cm_ven=MktgDisplayHouse_Evergreen_4012025_1 @ :59
+[    7172ms] [LOG] http @ :63
+[    7194ms] [LOG] invalid tracking pixel from cid: 7162878453_138512662876 @ :36
+[    7194ms] [LOG] invalid tracking pixel from cid: 7162878453_138512662876 @ :36
+[    7194ms] [LOG] invalid tracking pixel from cid: 7162878453_138512662876 @ :36
+[    7209ms] [LOG] http://weather.com?cm_ven=MktgDisplayHouse_Evergreen_4012025_1 @ :59
+[    7209ms] [LOG] http @ :63
+[    7235ms] [LOG] invalid tracking pixel from cid: 7162878366_138512087564 @ :36
+[    7235ms] [LOG] invalid tracking pixel from cid: 7162878366_138512087564 @ :36
+[    7235ms] [LOG] invalid tracking pixel from cid: 7162878366_138512087564 @ :36
+[    7250ms] [LOG] http://weather.com?cm_ven=MktgDisplayHouse_Evergreen_4012025_1 @ :59
+[    7250ms] [LOG] http @ :63
+[    7269ms] [LOG] invalid tracking pixel from cid: 7162878453_138512662876 @ :36
+[    7269ms] [LOG] invalid tracking pixel from cid: 7162878453_138512662876 @ :36
+[    7269ms] [LOG] invalid tracking pixel from cid: 7162878453_138512662876 @ :36
+[    7284ms] [LOG] http://weather.com?cm_ven=MktgDisplayHouse_Evergreen_4012025_1 @ :59
+[    7284ms] [LOG] http @ :63
+[    7305ms] [LOG] invalid tracking pixel from cid: 7162878453_138512662876 @ :36
+[    7305ms] [LOG] invalid tracking pixel from cid: 7162878453_138512662876 @ :36
+[    7305ms] [LOG] invalid tracking pixel from cid: 7162878453_138512662876 @ :36
+[    7321ms] [LOG] http://weather.com?cm_ven=MktgDisplayHouse_Evergreen_4012025_1 @ :59
+[    7321ms] [LOG] http @ :63
+[    4780ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://dps.jp.cinarra.com/pxd?PLATFORM_ID=1&USER_ID=dadd03d7-401c-8098-f650-9dbc2e47c060:0
+[    8114ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://match.rundsp.com/redirect?ex=openx:0
+[    8410ms] [WARNING] This ad's html cannot be accessed using the getHtml method on googletag.Slot. Returning the empty string instead. @ :5
+[    8410ms] [WARNING] This ad's html cannot be accessed using the getHtml method on googletag.Slot. Returning the empty string instead. @ :5
+[    8410ms] [WARNING] This ad's html cannot be accessed using the getHtml method on googletag.Slot. Returning the empty string instead. @ :5
+[    8411ms] [WARNING] This ad's html cannot be accessed using the getHtml method on googletag.Slot. Returning the empty string instead. @ :5
+[    8411ms] [WARNING] This ad's html cannot be accessed using the getHtml method on googletag.Slot. Returning the empty string instead. @ :5
+[    8411ms] [WARNING] This ad's html cannot be accessed using the getHtml method on googletag.Slot. Returning the empty string instead. @ :5
+[    8477ms] [LOG] [batch] MIXPANEL REQUEST: [Object] @ :5
+[    8479ms] [LOG] [batch] MIXPANEL REQUEST: [Object] @ :5
+[    8509ms] [WARNING] This ad's html cannot be accessed using the getHtml method on googletag.Slot. Returning the empty string instead. @ :5
+[    8509ms] [WARNING] This ad's html cannot be accessed using the getHtml method on googletag.Slot. Returning the empty string instead. @ :5
+[    8553ms] [WARNING] This ad's html cannot be accessed using the getHtml method on googletag.Slot. Returning the empty string instead. @ :5
+[    8554ms] [WARNING] This ad's html cannot be accessed using the getHtml method on googletag.Slot. Returning the empty string instead. @ :5
+[    8582ms] [WARNING] This ad's html cannot be accessed using the getHtml method on googletag.Slot. Returning the empty string instead. @ :5
+[    8582ms] [WARNING] This ad's html cannot be accessed using the getHtml method on googletag.Slot. Returning the empty string instead. @ :5
+[    8783ms] [TIMEEND] a: 0.00390625 ms @ https://static.adsafeprotected.com/sca.17.6.4.js:31
+[    4780ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://dps.jp.cinarra.com/pxd?PLATFORM_ID=1&USER_ID=dadd03d7-401c-8098-f650-9dbc2e47c060:0
+[    8114ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://match.rundsp.com/redirect?ex=openx:0
+[    9196ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://j.mrpdata.net/c.html?ex=OpenX:0
+[    9255ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://match.prod.bidr.io/cookie-sync/see:0
+[    9392ms] [ERROR] Failed to load resource: the server responded with a status of 424 (Failed Dependency) @ https://t.adx.opera.com/pub/sync?pubid=pub10101531197440&gdpr=1&gdpr_consent=:0
+[   11294ms] [WARNING] Mixed Content: The page at 'https://cds.connatix.com/p/749266304/cnx_usync_light.html?pId=53&gdpr=&gdpr_consent=&us_privacy=1---&gpp=&gpp_sid=&callback=https%3A%2F%2Fpbs-eu-central.ay.delivery%2Fsetuid%3Fbidder%3Dconnatix%26gdpr%3D%26gdpr_consent%3D%26gpp%3D%26gpp_sid%3D%26f%3Db%26uid%3D%5BUID%5D&et=2' was loaded over HTTPS, but requested an insecure element 'http://sync.pmbmonetize.live/psync?t=s&e=92&cb=https%3A%2F%2Fcapi.connatix.com%2Fcore%2Fus%3FDemandPartner%3D79%26UserId%3D2-09375f47c9f04eea9c21f06ea14d56df%26DemandPartnerName%3DAdipolo%26tier%3D2%26uid%3D%25USER_ID%25&gdpr=0&us_privacy=1---'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ https://cds.connatix.com/p/749266304/cnx_usync_light.html?pId=53&gdpr=&gdpr_consent=&us_privacy=1---&gpp=&gpp_sid=&callback=https%3A%2F%2Fpbs-eu-central.ay.delivery%2Fsetuid%3Fbidder%3Dconnatix%26gdpr%3D%26gdpr_consent%3D%26gpp%3D%26gpp_sid%3D%26f%3Db%26uid%3D%5BUID%5D&et=2:0
+[   11398ms] [ERROR] Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ https://id5-sync.com/c/1443/3/1/8.gif?puid=886f6abc-dfca-4600-88aa-55c8b7d41c02&gdpr=0&gdpr_consent=:0
+[   11405ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://match.prod.bidr.io/cookie-sync/connatix?redir=https%3A%2F%2Fcapi.connatix.com%2Fcore%2Fus%3FDemandPartner%3D15%26UserId%3D2-09375f47c9f04eea9c21f06ea14d56df%26DemandPartnerName%3DBeeswax%26tier%3D2%26uid%3D%7Buserid%7D&gdpr=0&us_privacy=1---:0
+[   11588ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://api.weather.com/v3/alerts/headlines?format=json&language=en-US&apiKey=71f92ea9dd2f4790b92ea9dd2f779061&geocode=12.979%2C77.591:0
+[    4780ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://dps.jp.cinarra.com/pxd?PLATFORM_ID=1&USER_ID=dadd03d7-401c-8098-f650-9dbc2e47c060:0
+[    8114ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://match.rundsp.com/redirect?ex=openx:0
+[    9196ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://j.mrpdata.net/c.html?ex=OpenX:0
+[   11294ms] [WARNING] Mixed Content: The page at 'https://cds.connatix.com/p/749266304/cnx_usync_light.html?pId=53&gdpr=&gdpr_consent=&us_privacy=1---&gpp=&gpp_sid=&callback=https%3A%2F%2Fpbs-eu-central.ay.delivery%2Fsetuid%3Fbidder%3Dconnatix%26gdpr%3D%26gdpr_consent%3D%26gpp%3D%26gpp_sid%3D%26f%3Db%26uid%3D%5BUID%5D&et=2' was loaded over HTTPS, but requested an insecure element 'http://sync.pmbmonetize.live/psync?t=s&e=92&cb=https%3A%2F%2Fcapi.connatix.com%2Fcore%2Fus%3FDemandPartner%3D79%26UserId%3D2-09375f47c9f04eea9c21f06ea14d56df%26DemandPartnerName%3DAdipolo%26tier%3D2%26uid%3D%25USER_ID%25&gdpr=0&us_privacy=1---'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ https://cds.connatix.com/p/749266304/cnx_usync_light.html?pId=53&gdpr=&gdpr_consent=&us_privacy=1---&gpp=&gpp_sid=&callback=https%3A%2F%2Fpbs-eu-central.ay.delivery%2Fsetuid%3Fbidder%3Dconnatix%26gdpr%3D%26gdpr_consent%3D%26gpp%3D%26gpp_sid%3D%26f%3Db%26uid%3D%5BUID%5D&et=2:0
+[   11405ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://match.prod.bidr.io/cookie-sync/connatix?redir=https%3A%2F%2Fcapi.connatix.com%2Fcore%2Fus%3FDemandPartner%3D15%26UserId%3D2-09375f47c9f04eea9c21f06ea14d56df%26DemandPartnerName%3DBeeswax%26tier%3D2%26uid%3D%7Buserid%7D&gdpr=0&us_privacy=1---:0
+[   11722ms] [ERROR] Refused to execute script from 'https://track.bidgx.com/sync?p=connatix&uid=2-09375f47c9f04eea9c21f06ea14d56df&redir=https%3A%2F%2Fcks.connatix.com%2Fcks%3Fpid%3D58%26ev%3D2-09375f47c9f04eea9c21f06ea14d56df%26pname%3DBidgency%26api-tier%3D2%26uid%3D%24UID&gdpr=0&us_privacy=1---' because its MIME type ('image/gif') is not executable. @ https://cds.connatix.com/p/749266304/cnx_usync_light.html?pId=53&gdpr=&gdpr_consent=&us_privacy=1---&gpp=&gpp_sid=&callback=https%3A%2F%2Fpbs-eu-central.ay.delivery%2Fsetuid%3Fbidder%3Dconnatix%26gdpr%3D%26gdpr_consent%3D%26gpp%3D%26gpp_sid%3D%26f%3Db%26uid%3D%5BUID%5D&et=2:0
+[   11722ms] [ERROR] Syncing cannot be made with  https://srv.bidgx.com/sync?p=connatix&uid=2-09375f47c9f04eea9c21f06ea14d56df&redir=https%3A%2F%2Fcks.connatix.com%2Fcks%3Fpid%3D58%26ev%3D2-09375f47c9f04eea9c21f06ea14d56df%26pname%3DBidgency%26api-tier%3D2%26uid%3D%24UID&gdpr=0&us_privacy=1--- @ https://cds.connatix.com/p/749266304/cnx_usync_light.js:0
+[   11814ms] [ERROR] Refused to execute script from 'https://capi.connatix.com/us/pixel?puid=5540582119977673154&pId=40&gdpr=0&gdpr_consent=' because its MIME type ('image/gif') is not executable. @ https://cds.connatix.com/p/749266304/cnx_usync_light.html?pId=53&gdpr=&gdpr_consent=&us_privacy=1---&gpp=&gpp_sid=&callback=https%3A%2F%2Fpbs-eu-central.ay.delivery%2Fsetuid%3Fbidder%3Dconnatix%26gdpr%3D%26gdpr_consent%3D%26gpp%3D%26gpp_sid%3D%26f%3Db%26uid%3D%5BUID%5D&et=2:0
+[   11814ms] [ERROR] Syncing cannot be made with  https://ssbsync.smartadserver.com/api/sync?callerId=6&nwid=3630&gdpr=0&gdpr_consent=&url=https%3A%2F%2Fcks.connatix.com%2Fcks%3Fpid%3D40%26ev%3D2-09375f47c9f04eea9c21f06ea14d56df%26pname%3DSmartAdServer%26api-tier%3D2%26uid%3D%5Bsas_uid%5D&us_privacy=1--- @ https://cds.connatix.com/p/749266304/cnx_usync_light.js:0
+[   11294ms] [WARNING] Mixed Content: The page at 'https://cds.connatix.com/p/749266304/cnx_usync_light.html?pId=53&gdpr=&gdpr_consent=&us_privacy=1---&gpp=&gpp_sid=&callback=https%3A%2F%2Fpbs-eu-central.ay.delivery%2Fsetuid%3Fbidder%3Dconnatix%26gdpr%3D%26gdpr_consent%3D%26gpp%3D%26gpp_sid%3D%26f%3Db%26uid%3D%5BUID%5D&et=2' was loaded over HTTPS, but requested an insecure element 'http://sync.pmbmonetize.live/psync?t=s&e=92&cb=https%3A%2F%2Fcapi.connatix.com%2Fcore%2Fus%3FDemandPartner%3D79%26UserId%3D2-09375f47c9f04eea9c21f06ea14d56df%26DemandPartnerName%3DAdipolo%26tier%3D2%26uid%3D%25USER_ID%25&gdpr=0&us_privacy=1---'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ https://cds.connatix.com/p/749266304/cnx_usync_light.html?pId=53&gdpr=&gdpr_consent=&us_privacy=1---&gpp=&gpp_sid=&callback=https%3A%2F%2Fpbs-eu-central.ay.delivery%2Fsetuid%3Fbidder%3Dconnatix%26gdpr%3D%26gdpr_consent%3D%26gpp%3D%26gpp_sid%3D%26f%3Db%26uid%3D%5BUID%5D&et=2:0
+[   11405ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://match.prod.bidr.io/cookie-sync/connatix?redir=https%3A%2F%2Fcapi.connatix.com%2Fcore%2Fus%3FDemandPartner%3D15%26UserId%3D2-09375f47c9f04eea9c21f06ea14d56df%26DemandPartnerName%3DBeeswax%26tier%3D2%26uid%3D%7Buserid%7D&gdpr=0&us_privacy=1---:0
+[   11722ms] [ERROR] Refused to execute script from 'https://track.bidgx.com/sync?p=connatix&uid=2-09375f47c9f04eea9c21f06ea14d56df&redir=https%3A%2F%2Fcks.connatix.com%2Fcks%3Fpid%3D58%26ev%3D2-09375f47c9f04eea9c21f06ea14d56df%26pname%3DBidgency%26api-tier%3D2%26uid%3D%24UID&gdpr=0&us_privacy=1---' because its MIME type ('image/gif') is not executable. @ https://cds.connatix.com/p/749266304/cnx_usync_light.html?pId=53&gdpr=&gdpr_consent=&us_privacy=1---&gpp=&gpp_sid=&callback=https%3A%2F%2Fpbs-eu-central.ay.delivery%2Fsetuid%3Fbidder%3Dconnatix%26gdpr%3D%26gdpr_consent%3D%26gpp%3D%26gpp_sid%3D%26f%3Db%26uid%3D%5BUID%5D&et=2:0
+[   11814ms] [ERROR] Refused to execute script from 'https://capi.connatix.com/us/pixel?puid=5540582119977673154&pId=40&gdpr=0&gdpr_consent=' because its MIME type ('image/gif') is not executable. @ https://cds.connatix.com/p/749266304/cnx_usync_light.html?pId=53&gdpr=&gdpr_consent=&us_privacy=1---&gpp=&gpp_sid=&callback=https%3A%2F%2Fpbs-eu-central.ay.delivery%2Fsetuid%3Fbidder%3Dconnatix%26gdpr%3D%26gdpr_consent%3D%26gpp%3D%26gpp_sid%3D%26f%3Db%26uid%3D%5BUID%5D&et=2:0
+[   11398ms] [ERROR] Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ https://id5-sync.com/c/1443/3/1/8.gif?puid=886f6abc-dfca-4600-88aa-55c8b7d41c02&gdpr=0&gdpr_consent=:0
+[   11294ms] [WARNING] Mixed Content: The page at 'https://cds.connatix.com/p/749266304/cnx_usync_light.html?pId=53&gdpr=&gdpr_consent=&us_privacy=1---&gpp=&gpp_sid=&callback=https%3A%2F%2Fpbs-eu-central.ay.delivery%2Fsetuid%3Fbidder%3Dconnatix%26gdpr%3D%26gdpr_consent%3D%26gpp%3D%26gpp_sid%3D%26f%3Db%26uid%3D%5BUID%5D&et=2' was loaded over HTTPS, but requested an insecure element 'http://sync.pmbmonetize.live/psync?t=s&e=92&cb=https%3A%2F%2Fcapi.connatix.com%2Fcore%2Fus%3FDemandPartner%3D79%26UserId%3D2-09375f47c9f04eea9c21f06ea14d56df%26DemandPartnerName%3DAdipolo%26tier%3D2%26uid%3D%25USER_ID%25&gdpr=0&us_privacy=1---'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ https://cds.connatix.com/p/749266304/cnx_usync_light.html?pId=53&gdpr=&gdpr_consent=&us_privacy=1---&gpp=&gpp_sid=&callback=https%3A%2F%2Fpbs-eu-central.ay.delivery%2Fsetuid%3Fbidder%3Dconnatix%26gdpr%3D%26gdpr_consent%3D%26gpp%3D%26gpp_sid%3D%26f%3Db%26uid%3D%5BUID%5D&et=2:0
+[   11405ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://match.prod.bidr.io/cookie-sync/connatix?redir=https%3A%2F%2Fcapi.connatix.com%2Fcore%2Fus%3FDemandPartner%3D15%26UserId%3D2-09375f47c9f04eea9c21f06ea14d56df%26DemandPartnerName%3DBeeswax%26tier%3D2%26uid%3D%7Buserid%7D&gdpr=0&us_privacy=1---:0
+[   11722ms] [ERROR] Refused to execute script from 'https://track.bidgx.com/sync?p=connatix&uid=2-09375f47c9f04eea9c21f06ea14d56df&redir=https%3A%2F%2Fcks.connatix.com%2Fcks%3Fpid%3D58%26ev%3D2-09375f47c9f04eea9c21f06ea14d56df%26pname%3DBidgency%26api-tier%3D2%26uid%3D%24UID&gdpr=0&us_privacy=1---' because its MIME type ('image/gif') is not executable. @ https://cds.connatix.com/p/749266304/cnx_usync_light.html?pId=53&gdpr=&gdpr_consent=&us_privacy=1---&gpp=&gpp_sid=&callback=https%3A%2F%2Fpbs-eu-central.ay.delivery%2Fsetuid%3Fbidder%3Dconnatix%26gdpr%3D%26gdpr_consent%3D%26gpp%3D%26gpp_sid%3D%26f%3Db%26uid%3D%5BUID%5D&et=2:0
+[   11814ms] [ERROR] Refused to execute script from 'https://capi.connatix.com/us/pixel?puid=5540582119977673154&pId=40&gdpr=0&gdpr_consent=' because its MIME type ('image/gif') is not executable. @ https://cds.connatix.com/p/749266304/cnx_usync_light.html?pId=53&gdpr=&gdpr_consent=&us_privacy=1---&gpp=&gpp_sid=&callback=https%3A%2F%2Fpbs-eu-central.ay.delivery%2Fsetuid%3Fbidder%3Dconnatix%26gdpr%3D%26gdpr_consent%3D%26gpp%3D%26gpp_sid%3D%26f%3Db%26uid%3D%5BUID%5D&et=2:0
+[   16016ms] [ERROR] Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ https://pm.w55c.net/ping_match.gif?st=ID5&rurl=https%3A%2F%2Fid5-sync.com%2Fc%2F1095%2F163%2F1%2F9.gif%3Fpuid%3D_wfivefivec_%26gdpr%3D0%26gdpr_consent%3D:0
+[   33394ms] [WARNING] This ad's html cannot be accessed using the getHtml method on googletag.Slot. Returning the empty string instead. @ :5
+[   33398ms] [WARNING] This ad's html cannot be accessed using the getHtml method on googletag.Slot. Returning the empty string instead. @ :5
+[   33457ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://sync.search.spotxchange.com/partner?adv_id=7025&redir=https%3A%2F%2Fcm.g.doubleclick.net%2Fpixel%3Fgoogle_nid%3Dspotxchange_dbm%26google_hm%3D%24SPOTX_BASE64_USER_ID:0
+[   33499ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://sync.search.spotxchange.com/partner?adv_id=7025&uid=CAESELubSFi_1LzaJDL4HpufW0c&google_cver=1:0
+[   33581ms] [WARNING] GSAP target .txtIcon-f1 not found. https://greensock.com @ https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.1/gsap.min.js:9
+[   33582ms] [WARNING] GSAP target  not found. https://greensock.com @ https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.1/gsap.min.js:9
+[   33582ms] [WARNING] GSAP target .txtIcon-f3 not found. https://greensock.com @ https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.1/gsap.min.js:9
+[   33582ms] [WARNING] GSAP target  not found. https://greensock.com @ https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.1/gsap.min.js:9
+[   33582ms] [WARNING] GSAP target .txtIcon-f4 not found. https://greensock.com @ https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.1/gsap.min.js:9
+[   33582ms] [WARNING] GSAP target  not found. https://greensock.com @ https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.1/gsap.min.js:9
+[   33582ms] [WARNING] GSAP target .price-txt not found. https://greensock.com @ https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.1/gsap.min.js:9
+[   33582ms] [WARNING] GSAP target  not found. https://greensock.com @ https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.1/gsap.min.js:9
+[   33582ms] [LOG] 12 @ https://s0.2mdn.net/sadbundle/6108528475618093742/2701l0030_0002_10132819_in_csg_con_fy27q3w5_oa_ccf_csg-xps_jemimah-festive-970x250-custom.js:67
+[   33697ms] [WARNING] This ad's html cannot be accessed using the getHtml method on googletag.Slot. Returning the empty string instead. @ :5
+[   33457ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://sync.search.spotxchange.com/partner?adv_id=7025&redir=https%3A%2F%2Fcm.g.doubleclick.net%2Fpixel%3Fgoogle_nid%3Dspotxchange_dbm%26google_hm%3D%24SPOTX_BASE64_USER_ID:0
+[   33499ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://sync.search.spotxchange.com/partner?adv_id=7025&uid=CAESELubSFi_1LzaJDL4HpufW0c&google_cver=1:0
+[   33798ms] [WARNING] GSAP target .txtIcon-f1 not found. https://greensock.com @ https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.1/gsap.min.js:9
+[   33798ms] [WARNING] GSAP target  not found. https://greensock.com @ https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.1/gsap.min.js:9
+[   33798ms] [WARNING] GSAP target .txtIcon-f3 not found. https://greensock.com @ https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.1/gsap.min.js:9
+[   33798ms] [WARNING] GSAP target  not found. https://greensock.com @ https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.1/gsap.min.js:9
+[   33799ms] [WARNING] GSAP target .txtIcon-f4 not found. https://greensock.com @ https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.1/gsap.min.js:9
+[   33799ms] [WARNING] GSAP target  not found. https://greensock.com @ https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.1/gsap.min.js:9
+[   33799ms] [WARNING] GSAP target .proname-f5-1, .proname-f5-2 not found. https://greensock.com @ https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.1/gsap.min.js:9
+[   33799ms] [WARNING] GSAP target  not found. https://greensock.com @ https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.1/gsap.min.js:9
+[   33799ms] [WARNING] GSAP target .price-txt not found. https://greensock.com @ https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.1/gsap.min.js:9
+[   33799ms] [WARNING] GSAP target  not found. https://greensock.com @ https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.1/gsap.min.js:9
+[   33799ms] [LOG] 12 @ https://s0.2mdn.net/sadbundle/7051222521197170121/2701l0030_0002_10132819_in_csg_con_fy27q3w5_oa_ccf_csg-xps_jemimah-festive-300x600-custom.js:63
+[   35185ms] [WARNING] For 'asset-viewed', the corresponding attribute value of 'tagsKeyword' must be a string, number, boolean, or null. @ :5
+[   36598ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://api.weather.com/v3/alerts/headlines?format=json&language=en-US&apiKey=71f92ea9dd2f4790b92ea9dd2f779061&geocode=12.979%2C77.591:0
+[   36983ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ https://t.seedtag.com/c/v/14/headerBidding.js?cb=1790762400000:1
+[   37333ms] [ERROR] Failed to load resource: the server responded with a status of 451 () @ https://idsync.rlcdn.com/403886.gif?partner_uid=CiQwMWEwZjFjYS0yMjRlLTc1YjktYjRmNi0wNTg3MWVkN2Y0NWMQBBoEQVBBQyAs&gdpr=0:0
+[   11398ms] [ERROR] Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ https://id5-sync.com/c/1443/3/1/8.gif?puid=886f6abc-dfca-4600-88aa-55c8b7d41c02&gdpr=0&gdpr_consent=:0

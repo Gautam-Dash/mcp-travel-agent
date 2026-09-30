@@ -1,0 +1,780 @@
+- generic [active] [ref=e1]:
+  - link "Jump to content" [ref=e2] [cursor=pointer]:
+    - /url: "#bodyContent"
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - navigation "Site" [ref=e6]:
+        - generic "Main menu" [ref=e7]:
+          - button "Main menu" [ref=e8] [cursor=pointer]
+          - generic [ref=e11]: Main menu
+      - link [ref=e12] [cursor=pointer]:
+        - /url: /wiki/Main_Page
+        - generic [ref=e13]:
+          - img "Wikipedia" [ref=e14]
+          - img "The Free Encyclopedia" [ref=e15]
+    - generic [ref=e16]:
+      - search [ref=e17]:
+        - generic [ref=e20]:
+          - searchbox "Search Wikipedia" [ref=e23]
+          - button "Search" [ref=e25]
+      - navigation "Personal tools" [ref=e26]:
+        - list [ref=e30]:
+          - listitem [ref=e31]:
+            - link "Donate" [ref=e32] [cursor=pointer]:
+              - /url: https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+          - listitem [ref=e33]:
+            - link "Create account" [ref=e34] [cursor=pointer]:
+              - /url: /w/index.php?title=Special:CreateAccount&returnto=List+of+hotels+in+New+York+City
+          - listitem [ref=e35]:
+            - link "Log in" [ref=e36] [cursor=pointer]:
+              - /url: /w/index.php?title=Special:UserLogin&returnto=List+of+hotels+in+New+York+City
+  - generic [ref=e38]:
+    - navigation "Contents" [ref=e42]:
+      - generic [ref=e44]:
+        - generic [ref=e45]:
+          - heading "Contents" [level=2] [ref=e46]
+          - button "Hide Contents" [ref=e47] [cursor=pointer]: hide
+        - list [ref=e48]:
+          - listitem [ref=e49]:
+            - link "(Top)" [ref=e50] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e52]:
+            - link "Number of hotels" [ref=e53] [cursor=pointer]:
+              - /url: "#Number_of_hotels"
+            - list
+          - listitem [ref=e55]:
+            - link "Largest hotels" [ref=e56] [cursor=pointer]:
+              - /url: "#Largest_hotels"
+            - list
+          - listitem [ref=e58]:
+            - link "Hotels on the National Register of Historic Places" [ref=e59] [cursor=pointer]:
+              - /url: "#Hotels_on_the_National_Register_of_Historic_Places"
+            - list
+          - listitem [ref=e61]:
+            - link "Hotels in the Historic Hotels of America" [ref=e62] [cursor=pointer]:
+              - /url: "#Hotels_in_the_Historic_Hotels_of_America"
+            - list
+          - listitem [ref=e64]:
+            - link "Future casino hotels" [ref=e65] [cursor=pointer]:
+              - /url: "#Future_casino_hotels"
+            - list
+          - listitem [ref=e67]:
+            - link "Former hotels" [ref=e68] [cursor=pointer]:
+              - /url: "#Former_hotels"
+            - list
+          - listitem [ref=e70]:
+            - link "References" [ref=e71] [cursor=pointer]:
+              - /url: "#References"
+            - list
+          - listitem [ref=e73]:
+            - link "External links" [ref=e74] [cursor=pointer]:
+              - /url: "#External_links"
+            - list
+    - main [ref=e77]:
+      - generic [ref=e78]:
+        - heading "List of hotels in New York City" [level=1] [ref=e79]
+        - generic [ref=e81]:
+          - button "1 language" [ref=e82] [cursor=pointer]
+          - generic [ref=e85]: 1 language
+      - generic [ref=e87]:
+        - navigation "Namespaces" [ref=e89]:
+          - list [ref=e92]:
+            - listitem [ref=e93]:
+              - link "Article" [ref=e94] [cursor=pointer]:
+                - /url: /wiki/List_of_hotels_in_New_York_City
+            - listitem [ref=e96]:
+              - link "Talk" [ref=e97] [cursor=pointer]:
+                - /url: /wiki/Talk:List_of_hotels_in_New_York_City
+        - generic [ref=e99]:
+          - navigation "Views" [ref=e100]:
+            - list [ref=e103]:
+              - listitem [ref=e104]:
+                - link "Read" [ref=e105] [cursor=pointer]:
+                  - /url: /wiki/List_of_hotels_in_New_York_City
+              - listitem [ref=e107]:
+                - link "Edit" [ref=e108] [cursor=pointer]:
+                  - /url: /w/index.php?title=List_of_hotels_in_New_York_City&action=edit
+              - listitem [ref=e110]:
+                - link "View history" [ref=e111] [cursor=pointer]:
+                  - /url: /w/index.php?title=List_of_hotels_in_New_York_City&action=history
+          - navigation "Page tools" [ref=e113]:
+            - generic [ref=e114]:
+              - button "Tools" [ref=e115] [cursor=pointer]
+              - generic [ref=e118]: Tools
+      - navigation "Appearance" [ref=e121]:
+        - generic [ref=e123]:
+          - generic [ref=e124]:
+            - generic [ref=e125]: Appearance
+            - button "Hide Appearance" [ref=e126] [cursor=pointer]: hide
+          - generic [ref=e127]:
+            - generic [ref=e128]: Text
+            - list [ref=e130]:
+              - listitem [ref=e131]:
+                - generic [ref=e133]:
+                  - generic [ref=e134]:
+                    - radio "Small" [ref=e135]
+                    - generic [ref=e137]: Small
+                  - generic [ref=e139]:
+                    - radio "Standard" [checked] [ref=e140]
+                    - generic [ref=e142]: Standard
+                  - generic [ref=e144]:
+                    - radio "Large" [ref=e145]
+                    - generic [ref=e147]: Large
+          - generic [ref=e149]:
+            - generic [ref=e150]: Width
+            - list [ref=e152]:
+              - listitem [ref=e153]:
+                - generic [ref=e155]:
+                  - generic [ref=e156]:
+                    - radio "Standard" [checked] [ref=e157]
+                    - generic [ref=e159]: Standard
+                  - generic [ref=e161]:
+                    - radio "Wide" [ref=e162]
+                    - generic [ref=e164]: Wide
+          - generic [ref=e166]:
+            - generic [ref=e167]: Color
+            - list [ref=e169]:
+              - listitem [ref=e170]:
+                - generic [ref=e172]:
+                  - generic [ref=e173]:
+                    - radio "Automatic" [ref=e174]
+                    - generic [ref=e176]: Automatic
+                  - generic [ref=e178]:
+                    - radio "Light" [checked] [ref=e179]
+                    - generic [ref=e181]: Light
+                  - generic [ref=e183]:
+                    - radio "Dark" [ref=e184]
+                    - generic [ref=e186]: Dark
+      - generic "List of hotels in New York City" [ref=e188]:
+        - generic [ref=e189]: From Wikipedia, the free encyclopedia
+        - generic [ref=e192]:
+          - generic [ref=e193]:
+            - note [ref=e194]:
+              - text: This is a
+              - link "dynamic list" [ref=e195] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Lists#Dynamic_lists
+              - text: and may never be able to satisfy particular standards for completeness. You can help by
+              - link "editing the page" [ref=e196] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Special:EditPage/List_of_hotels_in_New_York_City
+              - text: to add missing items, with references to
+              - link "reliable sources" [ref=e197] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Wikipedia:Reliable_sources
+              - text: .
+            - paragraph [ref=e198]: The following is a list of some notable hotels in New York City.
+          - region [ref=e199]:
+            - generic [ref=e200]:
+              - heading "Number of hotels" [level=2] [ref=e201]
+              - generic [ref=e202]:
+                - link "edit":
+                  - /url: /w/index.php?title=List_of_hotels_in_New_York_City&action=edit&section=1
+            - paragraph [ref=e203]:
+              - text: Most of the hotels are represented by the Hotel Association of New York City
+              - link "trade organization" [ref=e204] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Trade_organization
+              - text: . As of 2016, the organization had 270 members, representing 75,000 rooms and 50,000 employees.
+              - superscript [ref=e205]:
+                - link "[1]" [ref=e206] [cursor=pointer]:
+                  - /url: "#cite_note-1"
+              - text: Private hotels, such as the
+              - link "Yale Club" [ref=e208] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Yale_Club
+              - text: ", are members of the group."
+            - paragraph [ref=e209]:
+              - text: More than half the hotels (114) are in
+              - link "Midtown Manhattan" [ref=e210] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Midtown_Manhattan
+              - text: with 75 on the west side (most in the
+              - link "Times Square" [ref=e211] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Times_Square
+              - text: area) and 39 on the Midtown East Side.
+              - superscript [ref=e212]:
+                - link "[2]" [ref=e213] [cursor=pointer]:
+                  - /url: "#cite_note-2"
+              - text: The city tourist list does not include
+              - link "single room occupancy" [ref=e215] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Single_room_occupancy
+              - text: hotels.
+          - region [ref=e216]:
+            - generic [ref=e217]:
+              - heading "Largest hotels" [level=2] [ref=e218]
+              - generic [ref=e219]:
+                - link "edit":
+                  - /url: /w/index.php?title=List_of_hotels_in_New_York_City&action=edit&section=2
+            - paragraph [ref=e220]:
+              - text: Following is a list of the largest hotels in New York based on number of rentable rooms.
+              - superscript [ref=e221]:
+                - link "[3]" [ref=e222] [cursor=pointer]:
+                  - /url: "#cite_note-3"
+              - text: Included in this lists is any hotel in the NYC area with at least 600 rooms.
+            - paragraph [ref=e224]: The total room number includes suites. Some large hotels have been carved up into mixed use buildings in which the hotel occupies a portion of the building. This list includes only the hotel portion.
+            - table [ref=e225]:
+              - rowgroup [ref=e226]:
+                - row [ref=e227]:
+                  - columnheader "Hotel" [ref=e228]
+                  - columnheader "Total Rooms" [ref=e229]
+                - row [ref=e230]:
+                  - cell [ref=e231]:
+                    - link "New York Marriott Marquis" [ref=e232] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/New_York_Marriott_Marquis
+                  - cell "1,966" [ref=e233]
+                - row [ref=e234]:
+                  - cell [ref=e235]:
+                    - link "New York Hilton Midtown" [ref=e236] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/New_York_Hilton_Midtown
+                  - cell "1,929" [ref=e237]
+                - row [ref=e238]:
+                  - cell [ref=e239]:
+                    - link "Sheraton New York Times Square Hotel" [ref=e240] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Sheraton_New_York_Times_Square_Hotel
+                  - cell "1,780" [ref=e241]
+                - row [ref=e242]:
+                  - cell [ref=e243]:
+                    - link "Hyatt Grand Central New York" [ref=e244] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Hyatt_Grand_Central_New_York
+                  - cell "1,298" [ref=e245]
+                - row [ref=e246]:
+                  - cell [ref=e247]:
+                    - link "Row NYC" [ref=e248] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Row_NYC
+                  - cell "1,331" [ref=e249]
+                - row [ref=e250]:
+                  - cell [ref=e251]:
+                    - link "New Yorker Hotel" [ref=e252] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/New_Yorker_Hotel
+                  - cell "1,083" [ref=e253]
+                - row [ref=e254]:
+                  - cell [ref=e255]:
+                    - link "Park Central Hotel" [ref=e256] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Park_Central_Hotel
+                  - cell "935" [ref=e257]
+                - row [ref=e258]:
+                  - cell [ref=e259]:
+                    - link "The New York Palace Hotel" [ref=e260] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Lotte_New_York_Palace_Hotel
+                  - cell "909" [ref=e261]
+                - row [ref=e262]:
+                  - cell [ref=e263]:
+                    - link "Edison Hotel" [ref=e264] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Edison_Hotel
+                  - cell "900" [ref=e265]
+                - row [ref=e266]:
+                  - cell [ref=e267]:
+                    - link "The Westin New York at Times Square" [ref=e268] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/The_Westin_New_York_at_Times_Square?action=edit&redlink=1
+                  - cell "873" [ref=e269]
+                - row [ref=e270]:
+                  - cell [ref=e271]:
+                    - link "Crowne Plaza Times Square" [ref=e272] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Crowne_Plaza_Times_Square
+                  - cell "795" [ref=e273]
+                - row [ref=e274]:
+                  - cell [ref=e275]:
+                    - link "The Westin New York Grand Central Hotel" [ref=e276] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/The_Westin_New_York_Grand_Central_Hotel
+                  - cell "774" [ref=e277]
+                - row [ref=e278]:
+                  - cell [ref=e279]:
+                    - link "Millennium Broadway Hotel" [ref=e280] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Millennium_Broadway_Hotel
+                  - cell "750" [ref=e281]
+                - row [ref=e282]:
+                  - cell [ref=e283]:
+                    - link "The Lexington Hotel NYC" [ref=e284] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/The_Lexington_Hotel_NYC
+                  - cell "725" [ref=e285]
+                - row [ref=e286]:
+                  - cell [ref=e287]:
+                    - link "YOTEL New York at Times Square" [ref=e288] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/YOTEL
+                  - cell "713" [ref=e289]
+                - row [ref=e290]:
+                  - cell [ref=e291]:
+                    - link "Wellington Hotel" [ref=e292] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Wellington_Hotel?action=edit&redlink=1
+                  - cell "700" [ref=e293]
+                - row [ref=e294]:
+                  - cell [ref=e295]:
+                    - link "InterContinental New York Barclay Hotel" [ref=e296] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/InterContinental_New_York_Barclay_Hotel
+                  - cell [ref=e297]:
+                    - text: "686"
+                    - superscript [ref=e298]:
+                      - link "[4]" [ref=e299] [cursor=pointer]:
+                        - /url: "#cite_note-4"
+                - row [ref=e301]:
+                  - cell [ref=e302]:
+                    - link "The Manhattan at Times Square" [ref=e303] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/The_Manhattan_at_Times_Square?action=edit&redlink=1
+                  - cell "685" [ref=e304]
+                - row [ref=e305]:
+                  - cell [ref=e306]:
+                    - link "New York Marriott at the Brooklyn Bridge" [ref=e307] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/New_York_Marriott_at_the_Brooklyn_Bridge?action=edit&redlink=1
+                  - cell "665" [ref=e308]
+                - row [ref=e309]:
+                  - cell "Moxy NYC Times Square" [ref=e310]
+                  - cell "612" [ref=e311]
+                - row [ref=e312]:
+                  - cell [ref=e313]:
+                    - link "InterContinental New York Times Square" [ref=e314] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/InterContinental_New_York_Times_Square?action=edit&redlink=1
+                  - cell [ref=e315]:
+                    - text: "607"
+                    - superscript [ref=e316]:
+                      - link "[5]" [ref=e317] [cursor=pointer]:
+                        - /url: "#cite_note-5"
+          - region [ref=e319]:
+            - generic [ref=e320]:
+              - heading "Hotels on the National Register of Historic Places" [level=2] [ref=e321]
+              - generic [ref=e322]:
+                - link "edit":
+                  - /url: /w/index.php?title=List_of_hotels_in_New_York_City&action=edit&section=3
+            - table [ref=e323]:
+              - rowgroup [ref=e324]:
+                - row [ref=e325]:
+                  - columnheader "Hotel" [ref=e326]
+                  - columnheader "Address" [ref=e327]
+                  - columnheader "Notes" [ref=e328]
+                - row [ref=e329]:
+                  - cell [ref=e330]:
+                    - link "Ansonia Hotel" [ref=e331] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Ansonia_Hotel
+                  - cell "2101–2119 Broadway" [ref=e332]
+                  - cell [ref=e333]
+                - row [ref=e334]:
+                  - cell [ref=e335]:
+                    - link "Barbizon Hotel for Women" [ref=e336] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Barbizon_Hotel_for_Women
+                  - cell "140 East 63rd Street" [ref=e337]
+                  - cell [ref=e338]
+                - row [ref=e339]:
+                  - cell [ref=e340]:
+                    - link "The Chatwal New York" [ref=e341] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Lambs_Club_Building
+                  - cell "130 West 44th Street" [ref=e342]
+                  - cell "Listed on the NRHP as the Lamb's Club; the building was converted into a hotel later." [ref=e343]
+                - row [ref=e344]:
+                  - cell [ref=e345]:
+                    - link "Gilsey Hotel" [ref=e346] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Gilsey_Hotel
+                  - cell "1200 Broadway" [ref=e347]
+                  - cell [ref=e348]
+                - row [ref=e349]:
+                  - cell [ref=e350]:
+                    - link "Grand Hotel" [ref=e351] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Grand_Hotel_(New_York,_New_York)
+                  - cell "1232–1238 Broadway" [ref=e352]
+                  - cell [ref=e353]
+                - row [ref=e354]:
+                  - cell [ref=e355]:
+                    - link "Hotel Beacon" [ref=e356] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Hotel_Beacon
+                  - cell "2124 Broadway" [ref=e357]
+                  - cell [ref=e358]:
+                    - text: Listed along with the
+                    - link "Beacon Theatre" [ref=e359] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Beacon_Theatre_(New_York_City)
+                    - text: .
+                - row [ref=e360]:
+                  - cell [ref=e361]:
+                    - link "Hotel Chelsea" [ref=e362] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Hotel_Chelsea
+                  - cell "222 West 23rd Street" [ref=e363]
+                  - cell [ref=e364]
+                - row [ref=e365]:
+                  - cell [ref=e366]:
+                    - link "Hotel Gerard" [ref=e367] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Hotel_Gerard
+                  - cell "123 West 44th Street" [ref=e368]
+                  - cell [ref=e369]
+                - row [ref=e370]:
+                  - cell [ref=e371]:
+                    - link "Hotel Theresa" [ref=e372] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Hotel_Theresa
+                  - cell "2082–2096 Adam Clayton Powell, Jr. Boulevard." [ref=e373]
+                  - cell [ref=e374]
+                - row [ref=e375]:
+                  - cell [ref=e376]:
+                    - link "The Knickerbocker Hotel" [ref=e377] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/The_Knickerbocker_Hotel
+                  - cell "142 West 42nd Street" [ref=e378]
+                  - cell [ref=e379]
+                - row [ref=e380]:
+                  - cell [ref=e381]:
+                    - link "Plaza Hotel" [ref=e382] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Plaza_Hotel
+                  - cell "768 Fifth Avenue" [ref=e383]
+                  - cell [ref=e384]
+                - row [ref=e385]:
+                  - cell [ref=e386]:
+                    - link "Prince George Hotel" [ref=e387] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Prince_George_Hotel
+                  - cell "505 Eighth Avenue" [ref=e388]
+                  - cell [ref=e389]
+                - row [ref=e390]:
+                  - cell [ref=e391]:
+                    - link "Seville Hotel" [ref=e392] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Seville_Hotel
+                  - cell "22 East 29th Street" [ref=e393]
+                  - cell [ref=e394]
+                - row [ref=e395]:
+                  - cell [ref=e396]:
+                    - link "Times Square Hotel" [ref=e397] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Times_Square_Hotel
+                  - cell "255 West 43rd Street" [ref=e398]
+                  - cell [ref=e399]
+                - row [ref=e400]:
+                  - cell [ref=e401]:
+                    - link "Webster Hotel" [ref=e402] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Webster_Hotel
+                  - cell "40 West 45th Street" [ref=e403]
+                  - cell [ref=e404]
+          - region [ref=e405]:
+            - generic [ref=e406]:
+              - heading "Hotels in the Historic Hotels of America" [level=2] [ref=e407]
+              - generic [ref=e408]:
+                - link "edit":
+                  - /url: /w/index.php?title=List_of_hotels_in_New_York_City&action=edit&section=4
+            - table [ref=e409]:
+              - rowgroup [ref=e410]:
+                - row [ref=e411]:
+                  - columnheader "Hotel" [ref=e412]
+                  - columnheader "Address" [ref=e413]
+                  - columnheader "Notes" [ref=e414]
+                - row [ref=e415]:
+                  - cell [ref=e416]:
+                    - link "Essex House" [ref=e417] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/JW_Marriott_Essex_House
+                  - cell "160 Central Park South" [ref=e418]
+                  - cell [ref=e419]
+                - row [ref=e420]:
+                  - cell [ref=e421]:
+                    - link "Martinique New York" [ref=e422] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Martinique_New_York_on_Broadway,_Curio_Collection_by_Hilton
+                  - cell "49 West 32nd Street" [ref=e423]
+                  - cell [ref=e424]
+                - row [ref=e425]:
+                  - cell [ref=e426]:
+                    - link "Omni Berkshire Place" [ref=e427] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Omni_Berkshire_Place
+                  - cell "21 East 52nd Street" [ref=e428]
+                  - cell [ref=e429]
+                - row [ref=e430]:
+                  - cell [ref=e431]:
+                    - link "Plaza Hotel" [ref=e432] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Plaza_Hotel
+                  - cell "768 Fifth Avenue" [ref=e433]
+                  - cell [ref=e434]
+                - row [ref=e435]:
+                  - cell [ref=e436]:
+                    - link "The Redbury New York" [ref=e437] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/The_Redbury_New_York
+                  - cell "29 East 29th Street" [ref=e438]
+                  - cell [ref=e439]
+          - region [ref=e440]:
+            - generic [ref=e441]:
+              - heading "Future casino hotels" [level=2] [ref=e442]
+              - generic [ref=e443]:
+                - link "edit":
+                  - /url: /w/index.php?title=List_of_hotels_in_New_York_City&action=edit&section=5
+            - paragraph [ref=e444]:
+              - text: In late 2025, three casino licenses for Downstate New York were awarded. New
+              - link "casino hotels" [ref=e445] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Casino_hotel
+              - text: ", often referred to as"
+              - link "integrated resorts" [ref=e446] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/List_of_integrated_resorts
+              - text: will be built in
+              - link "New York City" [ref=e447] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/New_York_City
+              - text: .
+              - superscript [ref=e448]:
+                - link "[6]" [ref=e449] [cursor=pointer]:
+                  - /url: "#cite_note-6"
+            - paragraph [ref=e451]:
+              - text: In
+              - link "Queens" [ref=e452] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Queens_(borough)
+              - text: ", two proposals for large casino hotels were approved."
+              - link "Hard Rock International" [ref=e453] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Hard_Rock_International
+              - text: will build a 2,300 room integrated resort next to
+              - link "Citi Field" [ref=e454] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Citi_Field
+              - text: at
+              - link "Flushing Meadow-Corona Park" [ref=e455] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Flushing_Meadow-Corona_Park
+              - text: .
+              - link "Hard Rock Hotel & Casino Metropolitan Park" [ref=e456] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Hard_Rock_Hotel_&_Casino_Metropolitan_Park
+              - text: will become the largest hotel in New York City. In
+              - link "South Ozone Park" [ref=e457] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/South_Ozone_Park
+              - text: ","
+              - link "Genting Group" [ref=e458] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Genting_Group
+              - text: will expand
+              - link "Resorts World New York City" [ref=e459] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Resorts_World_New_York_City
+              - text: into a 2,000 room integrated resort, which will also be among the largest hotel in the city.
+              - superscript [ref=e460]:
+                - link "[7]" [ref=e461] [cursor=pointer]:
+                  - /url: "#cite_note-7"
+              - text: In the
+              - link "Bronx" [ref=e463] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Bronx
+              - text: ","
+              - link "Bally's Corporation" [ref=e464] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Bally's_Corporation
+              - text: will build a casino hotel that features 500 rooms. The hotel will be located at the golf course they operate at
+              - link "Ferry Point Park" [ref=e465] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Ferry_Point_Park
+              - text: in
+              - link "Throggs Neck" [ref=e466] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Throggs_Neck
+              - text: .
+              - superscript [ref=e467]:
+                - link "[8]" [ref=e468] [cursor=pointer]:
+                  - /url: "#cite_note-8"
+          - region [ref=e470]:
+            - generic [ref=e471]:
+              - heading "Former hotels" [level=2] [ref=e472]
+              - generic [ref=e473]:
+                - link "edit":
+                  - /url: /w/index.php?title=List_of_hotels_in_New_York_City&action=edit&section=6
+            - note [ref=e474]:
+              - text: "Main article:"
+              - link "List of former hotels in Manhattan" [ref=e475] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/List_of_former_hotels_in_Manhattan
+            - list [ref=e476]:
+              - listitem [ref=e477]:
+                - link "Grand Central Hotel" [ref=e478] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Grand_Central_Hotel
+              - listitem [ref=e479]:
+                - link "Hotel Pennsylvania" [ref=e480] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Hotel_Pennsylvania
+              - listitem [ref=e481]:
+                - link "Hotel Vanderbilt" [ref=e482] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/4_Park_Avenue
+              - listitem [ref=e483]:
+                - link "New York Biltmore Hotel" [ref=e484] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/New_York_Biltmore_Hotel
+              - listitem [ref=e485]:
+                - link "Stanhope Hotel" [ref=e486] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Stanhope_Hotel
+              - listitem [ref=e487]:
+                - link "Marriott World Trade Center" [ref=e488] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Marriott_World_Trade_Center
+          - region [ref=e489]:
+            - generic [ref=e490]:
+              - heading "References" [level=2] [ref=e491]
+              - generic [ref=e492]:
+                - link "edit":
+                  - /url: /w/index.php?title=List_of_hotels_in_New_York_City&action=edit&section=7
+            - navigation "Portals" [ref=e493]:
+              - listitem [ref=e494]:
+                - link [ref=e497] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/File:Map_Icon_-_Hotel.png
+                  - img "icon" [ref=e498]
+                - link "Hotels portal" [ref=e500] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Portal:Hotels
+              - listitem [ref=e501]:
+                - link [ref=e504] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/File:Flag_of_New_York_City.svg
+                  - img "flag" [ref=e505]
+                - link "New York City portal" [ref=e507] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Portal:New_York_City
+            - list [ref=e510]:
+              - listitem [ref=e511]:
+                - link "Jump up" [ref=e513] [cursor=pointer]:
+                  - /url: "#cite_ref-1"
+                  - text: ^
+                - link "Hotel Association of New York City - hanyc.org - Retrieved September 05, 2016" [ref=e515] [cursor=pointer]:
+                  - /url: http://www.hanyc.org/about/
+              - listitem [ref=e516]:
+                - link "Jump up" [ref=e518] [cursor=pointer]:
+                  - /url: "#cite_ref-2"
+                  - text: ^
+                - generic [ref=e519]:
+                  - generic [ref=e520]:
+                    - link "\"The Official New York City Guide / nycgo.com\"" [ref=e521] [cursor=pointer]:
+                      - /url: https://www.nycgo.com/
+                    - text: . NYCgo.com.
+                  - generic "ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=unknown&rft.jtitle=NYCgo.com&rft.atitle=The+Official+New+York+City+Guide+%2F+nycgo.com&rft_id=https%3A%2F%2Fwww.nycgo.com%2F&rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+hotels+in+New+York+City"
+              - listitem [ref=e522]:
+                - link "Jump up" [ref=e524] [cursor=pointer]:
+                  - /url: "#cite_ref-3"
+                  - text: ^
+                - generic [ref=e525]:
+                  - 'link "Crain''s new York Businesses: Book of Lists 2008 - Via cuny.edu - Retrieved September 22, 2009" [ref=e526] [cursor=pointer]':
+                    - /url: http://www.baruch.cuny.edu/nycdata/chapter02_files/sheet017.html
+                  - link "Archived" [ref=e527] [cursor=pointer]:
+                    - /url: https://web.archive.org/web/20100527061525/http://www.baruch.cuny.edu/nycdata/chapter02_files/sheet017.html
+                  - text: May 27, 2010, at the
+                  - link "Wayback Machine" [ref=e528] [cursor=pointer]:
+                    - /url: https://en.wikipedia.org/wiki/Wayback_Machine
+              - listitem [ref=e529]:
+                - link "Jump up" [ref=e531] [cursor=pointer]:
+                  - /url: "#cite_ref-4"
+                  - text: ^
+                - generic [ref=e532]:
+                  - generic [ref=e533]:
+                    - link "\"InterContinental New York Barclay\"" [ref=e534] [cursor=pointer]:
+                      - /url: http://www.ihg.com/intercontinental/hotels/gb/en/new-york/nycha/hoteldetail
+                    - text: . IHG.
+                  - generic "ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=unknown&rft.jtitle=IHG&rft.atitle=InterContinental+New+York+Barclay&rft_id=http%3A%2F%2Fwww.ihg.com%2Fintercontinental%2Fhotels%2Fgb%2Fen%2Fnew-york%2Fnycha%2Fhoteldetail&rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+hotels+in+New+York+City"
+              - listitem [ref=e535]:
+                - link "Jump up" [ref=e537] [cursor=pointer]:
+                  - /url: "#cite_ref-5"
+                  - text: ^
+                - generic [ref=e538]:
+                  - generic [ref=e539]:
+                    - link "\"InterContinental New York Times Square\"" [ref=e540] [cursor=pointer]:
+                      - /url: http://www.ihg.com/intercontinental/hotels/gb/en/new-york/nychc/hoteldetail
+                    - text: . IHG.
+                  - generic "ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=unknown&rft.jtitle=IHG&rft.atitle=InterContinental+New+York+Times+Square&rft_id=http%3A%2F%2Fwww.ihg.com%2Fintercontinental%2Fhotels%2Fgb%2Fen%2Fnew-york%2Fnychc%2Fhoteldetail&rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+hotels+in+New+York+City"
+              - listitem [ref=e541]:
+                - link "Jump up" [ref=e543] [cursor=pointer]:
+                  - /url: "#cite_ref-6"
+                  - text: ^
+                - link "https://qns.com/2025/12/gaming-commission-approves-3-casinos/" [ref=e545] [cursor=pointer]:
+                  - /url: https://qns.com/2025/12/gaming-commission-approves-3-casinos/
+              - listitem [ref=e546]:
+                - link "Jump up" [ref=e548] [cursor=pointer]:
+                  - /url: "#cite_ref-7"
+                  - text: ^
+                - generic [ref=e549]:
+                  - generic [ref=e550]:
+                    - link "\"Resorts World Casino in New York City Unveils $5B Expansion Plan – Construction Review\"" [ref=e551] [cursor=pointer]:
+                      - /url: https://rwnewyork.com/news/resorts-world-casino-in-new-york-city-unveils-5b-expansion-plan-construction-review/
+                    - text: . Resorts World New York. March 6, 2024
+                    - generic [ref=e552]: . Retrieved February 17, 2025
+                    - text: .
+                  - generic "ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=unknown&rft.jtitle=Resorts+World+New+York&rft.atitle=Resorts+World+Casino+in+New+York+City+Unveils+%245B+Expansion+Plan+%E2%80%93+Construction+Review&rft.date=2024-03-06&rft_id=https%3A%2F%2Frwnewyork.com%2Fnews%2Fresorts-world-casino-in-new-york-city-unveils-5b-expansion-plan-construction-review%2F&rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+hotels+in+New+York+City"
+              - listitem [ref=e553]:
+                - link "Jump up" [ref=e555] [cursor=pointer]:
+                  - /url: "#cite_ref-8"
+                  - text: ^
+                - generic [ref=e556]:
+                  - generic [ref=e557]:
+                    - text: Short, Aaron (February 10, 2025).
+                    - link "\"Breaking down every 2025 New York casino license bid\"" [ref=e558] [cursor=pointer]:
+                      - /url: https://www.cityandstateny.com/policy/2025/02/breaking-down-every-2025-new-york-casino-licenses-bid/402815/
+                    - text: . City & State New York
+                    - generic [ref=e559]: . Retrieved February 19, 2025
+                    - text: .
+                  - generic "ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=article&rft.jtitle=City+%26+State+New+York&rft.atitle=Breaking+down+every+2025+New+York+casino+license+bid&rft.date=2025-02-10&rft.aulast=Short&rft.aufirst=Aaron&rft_id=https%3A%2F%2Fwww.cityandstateny.com%2Fpolicy%2F2025%2F02%2Fbreaking-down-every-2025-new-york-casino-licenses-bid%2F402815%2F&rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+hotels+in+New+York+City"
+          - region [ref=e560]:
+            - generic [ref=e561]:
+              - heading "External links" [level=2] [ref=e562]
+              - generic [ref=e563]:
+                - link "edit":
+                  - /url: /w/index.php?title=List_of_hotels_in_New_York_City&action=edit&section=8
+            - list [ref=e564]:
+              - listitem [ref=e565]:
+                - link "Official New York City tourist website" [ref=e566] [cursor=pointer]:
+                  - /url: http://nycgo.com
+            - navigation [ref=e567]:
+              - table [ref=e568]:
+                - rowgroup [ref=e569]:
+                  - row [ref=e570]:
+                    - columnheader [ref=e571]:
+                      - button "[show]" [ref=e572] [cursor=pointer]
+                      - list [ref=e574]:
+                        - listitem [ref=e575]:
+                          - link "v" [ref=e576] [cursor=pointer]:
+                            - /url: https://en.wikipedia.org/wiki/Template:Hotels_in_New_York_City
+                          - text: ·
+                        - listitem [ref=e577]:
+                          - link "t" [ref=e578] [cursor=pointer]:
+                            - /url: https://en.wikipedia.org/wiki/Template_talk:Hotels_in_New_York_City
+                          - text: ·
+                        - listitem [ref=e579]:
+                          - link "e" [ref=e580] [cursor=pointer]:
+                            - /url: https://en.wikipedia.org/wiki/Special:EditPage/Template:Hotels_in_New_York_City
+                      - link "Hotels in New York City" [ref=e582] [cursor=pointer]:
+                        - /url: https://en.wikipedia.org/wiki/List_of_hotels_in_New_York_City
+                  - row: · · · · · · · · · ·
+                  - row: · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·
+                  - row
+        - generic [ref=e584]:
+          - link "Categories" [ref=e585] [cursor=pointer]:
+            - /url: /wiki/Help:Category
+          - text: ":"
+          - list [ref=e586]:
+            - listitem [ref=e587]:
+              - link "Hotels in New York City" [ref=e588] [cursor=pointer]:
+                - /url: /wiki/Category:Hotels_in_New_York_City
+            - listitem [ref=e589]:
+              - link "Lists of hotels in the United States" [ref=e590] [cursor=pointer]:
+                - /url: /wiki/Category:Lists_of_hotels_in_the_United_States
+            - listitem [ref=e591]:
+              - link "Lists of buildings and structures in New York City" [ref=e592] [cursor=pointer]:
+                - /url: /wiki/Category:Lists_of_buildings_and_structures_in_New_York_City
+            - listitem [ref=e593]:
+              - link "Lists of hotels by city" [ref=e594] [cursor=pointer]:
+                - /url: /wiki/Category:Lists_of_hotels_by_city
+    - contentinfo [ref=e596]:
+      - list [ref=e597]:
+        - listitem [ref=e598]: This page was last edited on 28 July 2026, at 18:38 (UTC).
+        - listitem [ref=e599]:
+          - text: Page was rendered with
+          - link "Parsoid" [ref=e600] [cursor=pointer]:
+            - /url: https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid
+          - text: .
+        - listitem [ref=e601]:
+          - text: Text is available under the
+          - link "Creative Commons Attribution-ShareAlike 4.0 License" [ref=e602] [cursor=pointer]:
+            - /url: /wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+          - text: ; additional terms may apply. By using this site, you agree to the
+          - link "Terms of Use" [ref=e603] [cursor=pointer]:
+            - /url: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+          - text: and
+          - link "Privacy Policy" [ref=e604] [cursor=pointer]:
+            - /url: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+          - text: . Wikipedia® is a registered trademark of the
+          - link "Wikimedia Foundation, Inc." [ref=e605] [cursor=pointer]:
+            - /url: https://wikimediafoundation.org/
+          - text: ", a non-profit organization."
+      - list:
+        - listitem [ref=e606]:
+          - link "Privacy policy" [ref=e607] [cursor=pointer]:
+            - /url: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+        - listitem [ref=e608]:
+          - link "About Wikipedia" [ref=e609] [cursor=pointer]:
+            - /url: /wiki/Wikipedia:About
+        - listitem [ref=e610]:
+          - link "Disclaimers" [ref=e611] [cursor=pointer]:
+            - /url: /wiki/Wikipedia:General_disclaimer
+        - listitem [ref=e612]:
+          - link "Contact Wikipedia" [ref=e613] [cursor=pointer]:
+            - /url: //en.wikipedia.org/wiki/Wikipedia:Contact_us
+        - listitem [ref=e614]:
+          - link "Legal & safety contacts" [ref=e615] [cursor=pointer]:
+            - /url: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information
+        - listitem [ref=e616]:
+          - link "Code of Conduct" [ref=e617] [cursor=pointer]:
+            - /url: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+        - listitem [ref=e618]:
+          - link "Developers" [ref=e619] [cursor=pointer]:
+            - /url: https://developer.wikimedia.org
+        - listitem [ref=e620]:
+          - link "Statistics" [ref=e621] [cursor=pointer]:
+            - /url: https://stats.wikimedia.org/#/en.wikipedia.org
+        - listitem [ref=e622]:
+          - link "Cookie statement" [ref=e623] [cursor=pointer]:
+            - /url: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+        - listitem [ref=e624]:
+          - link "Mobile view" [ref=e625] [cursor=pointer]:
+            - /url: //en.wikipedia.org/w/index.php?title=List_of_hotels_in_New_York_City&mobileaction=toggle_view_mobile
+      - list [ref=e626]:
+        - listitem [ref=e627]:
+          - link [ref=e628] [cursor=pointer]:
+            - /url: https://www.wikimedia.org/
+            - img "Wikimedia Foundation" [ref=e630]
+        - listitem [ref=e631]:
+          - link [ref=e632] [cursor=pointer]:
+            - /url: https://www.mediawiki.org/
+            - img "Powered by MediaWiki" [ref=e634]
+  - generic [ref=e635]:
+    - list
